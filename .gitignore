@@ -1,0 +1,10 @@
+node_modules/
+.dev.vars
+.wrangler/
+dist/
+*.log
+attack-scripts-private.md
+tests/attacks.private.json
+tests/results/
+data/traps.sql
+.DS_Store
