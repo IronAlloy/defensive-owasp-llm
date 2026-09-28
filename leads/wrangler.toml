@@ -1,0 +1,24 @@
+# SEPARATE Worker + D1 for playbook email capture.
+# Intentionally has NO binding to the chat Worker or its DB — the vulnerable bot cannot reach real leads.
+name = "vr-leads"
+main = "src/index.js"
+compatibility_date = "2026-09-01"
+workers_dev = true
+
+# Custom domain (zone ironalloy.info must be in this Cloudflare account, on Cloudflare DNS).
+routes = [{ pattern = "defensive-playbook.ironalloy.info", custom_domain = true }]
+
+[assets]
+directory = "./web"
+binding = "ASSETS"
+
+[[d1_databases]]
+binding = "LEADS_DB"
+database_name = "vr_leads"
+database_id = "5e64dee3-e71b-47fc-b048-7c7a69540ab0"
+
+[vars]
+CONSENT_TEXT_VERSION = "2026-09-27"
+# Optional Cloudflare Turnstile (anti-abuse). Leave blank to disable in dev.
+# Set the secret with: wrangler secret put TURNSTILE_SECRET
+TURNSTILE_SITEKEY = ""

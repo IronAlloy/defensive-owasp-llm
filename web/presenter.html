@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Vespera Ridge — Presenter</title>
+<style>
+ body{margin:0;font-family:system-ui,Arial;background:#0F2444;color:#F7F7F8}
+ header{padding:12px 16px;background:#1A365D;border-bottom:1px solid #2D4A7C;font-weight:700}
+ main{max-width:1000px;margin:0 auto;padding:16px;display:grid;gap:16px;grid-template-columns:1fr 1fr}
+ .card{background:#1A365D;border:1px solid #2D4A7C;border-radius:12px;padding:14px}
+ .card h2{margin:0 0 10px;font-size:15px}
+ button{font:inherit;padding:8px 12px;border-radius:8px;border:1px solid #2D4A7C;background:#2D4A7C;color:#F7F7F8;cursor:pointer;margin:2px}
+ button.on{background:#7C3AED;border-color:#7C3AED}
+ input{font:inherit;padding:8px;border-radius:8px;border:1px solid #2D4A7C;background:#2D4A7C;color:#F7F7F8}
+ #feed{height:260px;overflow:auto;font-size:13px;font-family:ui-monospace,monospace}
+ .ev{padding:3px 0;border-bottom:1px solid #2a2024}
+ .owasp{color:#f0b3b0;font-weight:700}
+ table{width:100%;border-collapse:collapse;font-size:13px}
+ td,th{border-bottom:1px solid #2a2024;padding:4px;text-align:start}
+ .full{grid-column:1/3}
+ .big{font-size:22px;font-weight:700}
+</style></head>
+<body>
+<header>Presenter console — Vespera Ridge <span id="loginwrap"></span></header>
+<main>
+ <div class="card"><h2>Mode</h2>
+   <button data-mode="stage">Stage</button>
+   <button data-mode="priority">Priority</button>
+   <button data-mode="open">Open</button>
+   <div style="margin-top:8px">Active <span class="big" id="active">0</span> · Queue <span class="big" id="queued">0</span></div>
+ </div>
+ <div class="card"><h2>Suggested level & kill switch</h2>
+   <div id="lvbtns"></div>
+   <div style="margin-top:10px"><button id="kill">Pause demo (kill switch)</button><button id="unkill">Resume</button></div>
+   <div style="margin-top:10px"><span id="defmodel" style="font-size:12px;color:#C9BFE3"></span></div>
+   <div style="margin-top:8px"><button id="reset">Reset events / outbox</button></div>
+ </div>
+ <div class="card full"><h2>Live event feed</h2><div id="feed"></div></div>
+ <div class="card"><h2>Scoreboard — successful attacks by level</h2><div id="score"></div></div>
+ <div class="card"><h2>Mock outbox</h2><div id="outbox"></div></div>
+</main>
+<script>
+const $=s=>document.querySelector(s);
+async function api(p,b){return fetch(p,{method:"POST",headers:{"content-type":"application/json"},body:JSON.stringify(b||{})});}
+async function ensureLogin(){
+  const r=await api("/api/presenter/mode",{mode:"open"}); // probe
+  if(r.status===401){const pass=prompt("Presenter passphrase:");const lr=await api("/api/presenter/login",{passphrase:pass});if(!lr.ok){alert("Wrong passphrase");return false;}}
+  return true;
+}
+function lvbtns(){const d=$("#lvbtns");for(let i=0;i<=5;i++){const b=document.createElement("button");b.textContent="L"+i;b.onclick=()=>api("/api/presenter/suggest",{level:i});d.appendChild(b);}}
+document.querySelectorAll("[data-mode]").forEach(b=>b.onclick=async()=>{await api("/api/presenter/mode",{mode:b.dataset.mode});document.querySelectorAll("[data-mode]").forEach(x=>x.classList.toggle("on",x===b));});
+$("#reset").onclick=async()=>{if(confirm("Clear all events, outbox, ledger and messages?")){await api("/api/presenter/reset",{});location.reload();}};
+$("#kill").onclick=()=>api("/api/presenter/kill",{killed:true});
+$("#unkill").onclick=()=>api("/api/presenter/kill",{killed:false});
+function connectWS(){
+  const proto=location.protocol==="https:"?"wss":"ws";
+  const ws=new WebSocket(`${proto}://${location.host}/api/presenter/ws`);
+  ws.onmessage=e=>{const m=JSON.parse(e.data);
+    if(m.type==="state"){if(m.active!=null)$("#active").textContent=m.active;if(m.queued!=null)$("#queued").textContent=m.queued;}
+    if(m.type==="event"){const d=document.createElement("div");d.className="ev";
+      d.innerHTML=(m.owasp?`<span class="owasp">${m.owasp}</span> `:"")+`${m.kind||""} — ${(m.detail||"").replace(/[<>]/g,"")}`;
+      $("#feed").prepend(d);}
+  };
+  ws.onclose=()=>setTimeout(connectWS,2000);
+}
+async function scoreboard(){const r=await(await fetch("/api/presenter/scoreboard")).json();
+  const byLevel={};(r.hits||[]).forEach(h=>{byLevel[h.level]=byLevel[h.level]||{};byLevel[h.level][h.owasp]=(byLevel[h.level][h.owasp]||0)+h.n;});
+  let html="<table><tr><th>Level</th><th>Attacks landed (by OWASP)</th></tr>";
+  for(let i=0;i<=5;i++){const row=byLevel[i]||{};const cells=Object.entries(row).map(([k,v])=>`${k}:${v}`).join(", ")||"—";html+=`<tr><td>L${i}</td><td>${cells}</td></tr>`;}
+  html+="</table>";$("#score").innerHTML=html;}
+async function outbox(){const r=await(await fetch("/api/presenter/outbox")).json();
+  const rows=(r.results||[]).map(o=>`<tr><td>${o.to_addr}</td><td>${(o.subject||"").replace(/[<>]/g,"")}</td></tr>`).join("");
+  $("#outbox").innerHTML=`<table><tr><th>To</th><th>Subject</th></tr>${rows}</table>`;}
+async function showDefault(){try{const s=await(await fetch("/api/state")).json();const el=document.querySelector("#defmodel");if(el)el.textContent="Audience model (default): "+(s.defaultModel||"?")+". Switch models on the chat screen at /#presenter.";}catch{}}
+(async()=>{if(!await ensureLogin())return;lvbtns();connectWS();scoreboard();outbox();showDefault();setInterval(scoreboard,5000);setInterval(outbox,5000);})();
+</script>
+</body></html>

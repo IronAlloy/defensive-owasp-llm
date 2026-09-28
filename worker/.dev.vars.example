@@ -1,0 +1,3 @@
+# Copy to worker/.dev.vars (git-ignored) and fill in. Never commit real values.
+OLLAMA_API_KEY="paste-your-ollama-cloud-key-here"
+PRESENTER_PASSPHRASE="choose-a-strong-passphrase"

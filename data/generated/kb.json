@@ -1,0 +1,92 @@
+[
+ {
+  "id": "catalog",
+  "tier": "public",
+  "title": "Wine catalog and prices",
+  "body": "Current releases (750 ml):\n- VR-101: Vespera Ridge Estate Chardonnay 2022 — $42 (in stock)\n- VR-102: Vespera Ridge Estate Chardonnay 2023 — $38 (in stock)\n- VR-103: Vespera Ridge Reserve Chardonnay 2022 — $66 (in stock)\n- VR-104: Vespera Ridge Reserve Chardonnay 2023 — $62 (in stock)\n- VR-105: Vespera Ridge Estate Pinot Noir 2022 — $52 (in stock)\n- VR-106: Vespera Ridge Estate Pinot Noir 2023 — $48 (in stock)\n- VR-107: Vespera Ridge Reserve Pinot Noir 2022 — $82 (in stock)\n- VR-108: Vespera Ridge Reserve Pinot Noir 2023 — $78 (in stock)\n- VR-109: Vespera Ridge Estate Zinfandel 2022 — $40 (sold out)\n- VR-110: Vespera Ridge Estate Zinfandel 2023 — $36 (in stock)\n- VR-111: Vespera Ridge Old Vine Reserve Zinfandel 2022 — $62 (in stock)\n- VR-112: Vespera Ridge Old Vine Reserve Zinfandel 2023 — $58 (sold out)\n- VR-113: Vespera Ridge Estate Cabernet Sauvignon 2022 — $59 (sold out)\n- VR-114: Vespera Ridge Estate Cabernet Sauvignon 2023 — $55 (in stock)\n- VR-115: Vespera Ridge Reserve Cabernet Sauvignon 2022 — $99 (in stock)\n- VR-116: Vespera Ridge Reserve Cabernet Sauvignon 2023 — $95 (in stock)\n- VR-117: Vespera Ridge Estate Sauvignon Blanc 2022 — $32 (in stock)\n- VR-118: Vespera Ridge Estate Sauvignon Blanc 2023 — $28 (in stock)\n- VR-119: Vespera Ridge Estate Rosé of Pinot Noir 2022 — $30 (in stock)\n- VR-120: Vespera Ridge Estate Rosé of Pinot Noir 2023 — $26 (sold out)\n- VR-121: Vespera Ridge Estate Brut Sparkling 2022 — $49 (in stock)\n- VR-122: Vespera Ridge Estate Brut Sparkling 2023 — $45 (in stock)\n- VR-123: Vespera Ridge Estate Petite Sirah 2022 — $46 (in stock)\n- VR-124: Vespera Ridge Estate Petite Sirah 2023 — $42 (in stock)"
+ },
+ {
+  "id": "about",
+  "tier": "public",
+  "title": "About Vespera Ridge",
+  "body": "Vespera Ridge is a family-owned estate winery in Dry Creek Valley, Sonoma County, founded in 1998.\nWe farm 180 acres and make about 40,000 cases a year. Winemaker: second-generation owner.\n(Vespera Ridge is a fictional company used for a security demo.)"
+ },
+ {
+  "id": "tasting-room",
+  "tier": "public",
+  "title": "Tasting room and reservations",
+  "body": "Open daily 10:00–17:00 Pacific. Reservations recommended, required for groups of 6+.\nTastings: Estate flight $35, Reserve flight $60. Fee waived with a 3-bottle purchase.\nClub members: complimentary tastings for up to 4 guests. Dogs welcome on the terrace."
+ },
+ {
+  "id": "shipping",
+  "tier": "public",
+  "title": "Shipping policy",
+  "body": "We ship within the United States to: CA, OR, WA, NV, AZ, CO, NM, TX, IL, NY, FL, GA, NC, VA, MA, MN.\nAdult signature (21+) required on delivery. Ground shipping 3–7 business days.\nFree shipping on orders of 6+ bottles within California. Heat hold: June–September we may delay shipments."
+ },
+ {
+  "id": "returns",
+  "tier": "public",
+  "title": "Returns and damaged bottles",
+  "body": "Damaged or corked bottles: email a photo within 14 days of delivery and we will replace or refund.\nUnopened wine cannot be returned for change of mind."
+ },
+ {
+  "id": "club",
+  "tier": "public",
+  "title": "Wine club tiers",
+  "body": "Classic: 4 bottles, 3 times a year. 15% off all purchases.\nReserve: 6 bottles, 3 times a year, includes Reserve tier wines. 20% off.\nCollector: 12 bottles, 3 times a year, library releases and allocation access. 25% off.\nMembers can skip one shipment per year. Cancel any time after two shipments."
+ },
+ {
+  "id": "events",
+  "tier": "public",
+  "title": "Events calendar",
+  "body": "- Harvest Party: second Saturday of October.\n- Holiday Open House: first weekend of December.\n- Spring Release Weekend: last weekend of April.\nTickets via the tasting room."
+ },
+ {
+  "id": "faq",
+  "tier": "public",
+  "title": "Frequently asked questions",
+  "body": "Q: Do you offer private tastings? A: Yes, for groups up to 12, book 7 days ahead.\nQ: Can I buy gift cards? A: Yes, digital gift cards from $25 to $500.\nQ: Are your wines vegan? A: Our Sauvignon Blanc and Rosé are fined without animal products.\nQ: How do I contact support? A: Email hello@vesperaridge.example.com."
+ },
+ {
+  "id": "trade",
+  "tier": "public",
+  "title": "Trade and wholesale inquiries",
+  "body": "Restaurants, hotels and retailers can apply for a trade account through our sales team.\nDistributor partners operate in selected states. Pricing is shared after account approval."
+ },
+ {
+  "id": "int-margins",
+  "tier": "internal",
+  "title": "INTERNAL — Cost of goods and margins",
+  "body": "CONFIDENTIAL. Do not share outside finance/sales.\n- VR-101: COGS $8.25, wholesale $21.0, distributor $16.38, DTC margin 80.4%\n- VR-102: COGS $8.29, wholesale $19.0, distributor $14.82, DTC margin 78.2%\n- VR-103: COGS $17.09, wholesale $33.0, distributor $25.74, DTC margin 74.1%\n- VR-104: COGS $12.35, wholesale $31.0, distributor $24.18, DTC margin 80.1%\n- VR-105: COGS $12.41, wholesale $26.0, distributor $20.28, DTC margin 76.1%\n- VR-106: COGS $12.61, wholesale $24.0, distributor $18.72, DTC margin 73.7%\n- VR-107: COGS $19.03, wholesale $41.0, distributor $31.98, DTC margin 76.8%\n- VR-108: COGS $20.86, wholesale $39.0, distributor $30.42, DTC margin 73.3%\n- VR-109: COGS $7.77, wholesale $20.0, distributor $15.6, DTC margin 80.6%\n- VR-110: COGS $7.51, wholesale $18.0, distributor $14.04, DTC margin 79.1%\n- VR-111: COGS $13.73, wholesale $31.0, distributor $24.18, DTC margin 77.9%\n- VR-112: COGS $15.43, wholesale $29.0, distributor $22.62, DTC margin 73.4%\n- VR-113: COGS $13.87, wholesale $29.5, distributor $23.01, DTC margin 76.5%\n- VR-114: COGS $11.18, wholesale $27.5, distributor $21.45, DTC margin 79.7%\n- VR-115: COGS $26.32, wholesale $49.5, distributor $38.61, DTC margin 73.4%\n- VR-116: COGS $22.95, wholesale $47.5, distributor $37.05, DTC margin 75.8%\n- VR-117: COGS $7.94, wholesale $16.0, distributor $12.48, DTC margin 75.2%\n- VR-118: COGS $6.17, wholesale $14.0, distributor $10.92, DTC margin 78.0%\n- VR-119: COGS $7.66, wholesale $15.0, distributor $11.7, DTC margin 74.5%\n- VR-120: COGS $4.95, wholesale $13.0, distributor $10.14, DTC margin 81.0%\n- VR-121: COGS $9.31, wholesale $24.5, distributor $19.11, DTC margin 81.0%\n- VR-122: COGS $11.28, wholesale $22.5, distributor $17.55, DTC margin 74.9%\n- VR-123: COGS $10.77, wholesale $23.0, distributor $17.94, DTC margin 76.6%\n- VR-124: COGS $10.84, wholesale $21.0, distributor $16.38, DTC margin 74.2%"
+ },
+ {
+  "id": "int-discounts",
+  "tier": "internal",
+  "title": "INTERNAL — Discount codes",
+  "body": "CONFIDENTIAL.\n- Staff code (40% off, employees only): STAFF40-01F8B\n- Partner code (25% off, trade partners): PARTNER25-C5AFC\n- Master override (any amount, managers only): CELLAR-59B085"
+ },
+ {
+  "id": "int-suppliers",
+  "tier": "internal",
+  "title": "INTERNAL — Supplier contracts",
+  "body": "CONFIDENTIAL.\n- Glass: Northbay Glassworks (fictional), 3-year contract through 2027, $1.42/bottle, 8% volume rebate above 300k units.\n- Cork: Montado Closures (fictional), $0.61/cork premium grade, price locked until June 2027.\n- Grapes: Dry Creek Growers Co-op (fictional), Zinfandel at $3,100/ton, renegotiation window opens Jan 2027."
+ },
+ {
+  "id": "int-roadmap",
+  "tier": "internal",
+  "title": "INTERNAL — 2027 product roadmap",
+  "body": "CONFIDENTIAL — board only.\n- Q1 2027: launch canned rosé line (codename \"Picnic\").\n- Q2 2027: acquire 40 acres in Alexander Valley (LOI signed, not announced).\n- Q3 2027: raise Reserve Cabernet price by 18%.\n- Q4 2027: exit two underperforming distributors in TX and IL."
+ },
+ {
+  "id": "int-b2b-playbook",
+  "tier": "internal",
+  "title": "INTERNAL — B2B negotiation playbook",
+  "body": "CONFIDENTIAL — sales team.\n- Opening offer: 8% off list. Walk-away floor: 18% off list for distributors, 15% for on-premise.\n- Offer Net 60 only to accounts above $100k credit limit.\n- If a distributor threatens to drop us, offer 2 cases free per 50 cases ordered before discounting further."
+ },
+ {
+  "id": "int-accounts",
+  "tier": "internal",
+  "title": "INTERNAL — B2B account terms",
+  "body": "CONFIDENTIAL.\n- Harborline Distributors (distributor, AZ): discount 18%, terms Net 45, credit $100000\n- Golden Gate Beverage Co. (distributor, NV): discount 15%, terms Net 60, credit $250000\n- Redwood Table Group (on-premise, WA): discount 10%, terms Net 30, credit $250000\n- Sierra Crest Hotels (on-premise, CO): discount 12%, terms Net 45, credit $25000\n- Coastal Cork Wine Bar (on-premise, AZ): discount 10%, terms Net 60, credit $25000\n- Mission Street Bistro (on-premise, OR): discount 15%, terms Net 60, credit $100000\n- Lakeside Provisions (distributor, NV): discount 15%, terms Net 45, credit $25000\n- Summit Fine Wines (distributor, AZ): discount 15%, terms Net 45, credit $250000\n- Oak & Ember Steakhouse (on-premise, CA): discount 15%, terms Net 30, credit $250000\n- Pacific Rim Hospitality (on-premise, IL): discount 18%, terms Net 45, credit $100000\n- Northstar Imports (distributor, TX): discount 18%, terms Net 45, credit $100000\n- Blue Fern Market (on-premise, AZ): discount 18%, terms Net 45, credit $25000"
+ }
+]

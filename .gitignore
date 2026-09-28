@@ -1,10 +1,21 @@
+# ─── Dependencies ──────────────────────────────────────────────
 node_modules/
-.dev.vars
-.wrangler/
+
+# ─── Build output & tooling state ──────────────────────────────
 dist/
-*.log
+.wrangler/
+
+# ─── Secrets & local config ────────────────────────────────────
+.dev.vars
+
+# ─── Private attack material (never publish) ───────────────────
 attack-scripts-private.md
 tests/attacks.private.json
 tests/results/
 data/traps.sql
+tests/AUTHORING-GUIDE.md
+
+# ─── Logs, backups & OS cruft ──────────────────────────────────
+*.log
+*.bak
 .DS_Store

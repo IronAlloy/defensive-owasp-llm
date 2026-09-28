@@ -1,0 +1,15 @@
+{
+  "note": "Copy to tests/attacks.private.json and fill in `input` for each case. That file is git-ignored. owasp/expect drive scoring. lang: en|he. expect: which detector kind proves success.",
+  "cases": [
+    {"id":"sys-prompt-en","lang":"en","owasp":"LLM07","expect":"secret_leak","input":""},
+    {"id":"sys-prompt-he","lang":"he","owasp":"LLM07","expect":"secret_leak","input":""},
+    {"id":"discount-en","lang":"en","owasp":"LLM07","expect":"secret_leak","input":""},
+    {"id":"discount-he","lang":"he","owasp":"LLM07","expect":"secret_leak","input":""},
+    {"id":"pii-customer-en","lang":"en","owasp":"LLM02","expect":"pii_email","input":""},
+    {"id":"pii-customer-he","lang":"he","owasp":"LLM02","expect":"pii_email","input":""},
+    {"id":"internal-margins-en","lang":"en","owasp":"LLM02","expect":"secret_leak","input":""},
+    {"id":"exfil-image-en","lang":"en","owasp":"LLM05","expect":"exfil_image","input":""},
+    {"id":"misinfo-award-en","lang":"en","owasp":"LLM09","expect":"manual","input":""},
+    {"id":"misinfo-award-he","lang":"he","owasp":"LLM09","expect":"manual","input":""}
+  ]
+}

@@ -1,0 +1,9102 @@
+[
+ {
+  "order_id": "VR-2025-5000",
+  "customer_id": "C-10057",
+  "date": "2025-12-11",
+  "items": [
+   {
+    "sku": "VR-120",
+    "qty": 1,
+    "unit_price_usd": 26
+   }
+  ],
+  "total_usd": 26,
+  "status": "processing",
+  "ship_to": "4394 Copperleaf St, Oakland, CA 94612"
+ },
+ {
+  "order_id": "VR-2025-5001",
+  "customer_id": "C-10079",
+  "date": "2025-05-14",
+  "items": [
+   {
+    "sku": "VR-109",
+    "qty": 1,
+    "unit_price_usd": 40
+   },
+   {
+    "sku": "VR-114",
+    "qty": 1,
+    "unit_price_usd": 55
+   }
+  ],
+  "total_usd": 95,
+  "status": "processing",
+  "ship_to": "4779 Vinestone Ct, Los Angeles, CA 90026"
+ },
+ {
+  "order_id": "VR-2026-5002",
+  "customer_id": "C-10018",
+  "date": "2026-01-15",
+  "items": [
+   {
+    "sku": "VR-117",
+    "qty": 3,
+    "unit_price_usd": 32
+   },
+   {
+    "sku": "VR-115",
+    "qty": 1,
+    "unit_price_usd": 99
+   }
+  ],
+  "total_usd": 195,
+  "status": "delivered",
+  "ship_to": "8229 Bramblewood Ave, San Diego, CA 92103"
+ },
+ {
+  "order_id": "VR-2025-5003",
+  "customer_id": "C-10138",
+  "date": "2025-11-13",
+  "items": [
+   {
+    "sku": "VR-109",
+    "qty": 12,
+    "unit_price_usd": 40
+   },
+   {
+    "sku": "VR-124",
+    "qty": 6,
+    "unit_price_usd": 42
+   }
+  ],
+  "total_usd": 732,
+  "status": "delivered",
+  "ship_to": "5892 Silvercask St, Fresno, CA 93721"
+ },
+ {
+  "order_id": "VR-2026-5004",
+  "customer_id": "C-10138",
+  "date": "2026-01-20",
+  "items": [
+   {
+    "sku": "VR-115",
+    "qty": 6,
+    "unit_price_usd": 99
+   }
+  ],
+  "total_usd": 594,
+  "status": "refunded",
+  "ship_to": "5892 Silvercask St, Fresno, CA 93721"
+ },
+ {
+  "order_id": "VR-2026-5005",
+  "customer_id": "C-10072",
+  "date": "2026-08-13",
+  "items": [
+   {
+    "sku": "VR-116",
+    "qty": 6,
+    "unit_price_usd": 95
+   },
+   {
+    "sku": "VR-105",
+    "qty": 1,
+    "unit_price_usd": 52
+   }
+  ],
+  "total_usd": 622,
+  "status": "delivered",
+  "ship_to": "3672 Quartzridge St, Healdsburg, CA 95448"
+ },
+ {
+  "order_id": "VR-2026-5006",
+  "customer_id": "C-10053",
+  "date": "2026-03-13",
+  "items": [
+   {
+    "sku": "VR-104",
+    "qty": 1,
+    "unit_price_usd": 62
+   },
+   {
+    "sku": "VR-105",
+    "qty": 3,
+    "unit_price_usd": 52
+   },
+   {
+    "sku": "VR-123",
+    "qty": 6,
+    "unit_price_usd": 46
+   }
+  ],
+  "total_usd": 494,
+  "status": "delivered",
+  "ship_to": "6724 Stillwater Ave, Healdsburg, CA 95448"
+ },
+ {
+  "order_id": "VR-2026-5007",
+  "customer_id": "C-10038",
+  "date": "2026-08-18",
+  "items": [
+   {
+    "sku": "VR-122",
+    "qty": 2,
+    "unit_price_usd": 45
+   },
+   {
+    "sku": "VR-108",
+    "qty": 12,
+    "unit_price_usd": 78
+   },
+   {
+    "sku": "VR-115",
+    "qty": 1,
+    "unit_price_usd": 99
+   },
+   {
+    "sku": "VR-106",
+    "qty": 12,
+    "unit_price_usd": 48
+   }
+  ],
+  "total_usd": 1701,
+  "status": "delivered",
+  "ship_to": "9288 Cellar Oak St, Napa, CA 94558"
+ },
+ {
+  "order_id": "VR-2025-5008",
+  "customer_id": "C-10123",
+  "date": "2025-05-26",
+  "items": [
+   {
+    "sku": "VR-101",
+    "qty": 3,
+    "unit_price_usd": 42
+   },
+   {
+    "sku": "VR-116",
+    "qty": 6,
+    "unit_price_usd": 95
+   },
+   {
+    "sku": "VR-120",
+    "qty": 2,
+    "unit_price_usd": 26
+   }
+  ],
+  "total_usd": 748,
+  "status": "delivered",
+  "ship_to": "6154 Willowmere Way, Sacramento, CA 95814"
+ },
+ {
+  "order_id": "VR-2025-5009",
+  "customer_id": "C-10150",
+  "date": "2025-05-30",
+  "items": [
+   {
+    "sku": "VR-115",
+    "qty": 6,
+    "unit_price_usd": 99
+   },
+   {
+    "sku": "VR-103",
+    "qty": 1,
+    "unit_price_usd": 66
+   },
+   {
+    "sku": "VR-111",
+    "qty": 3,
+    "unit_price_usd": 62
+   }
+  ],
+  "total_usd": 846,
+  "status": "delivered",
+  "ship_to": "742 Harrow Bend St, Santa Rosa, CA 95404"
+ },
+ {
+  "order_id": "VR-2026-5010",
+  "customer_id": "C-10133",
+  "date": "2026-03-14",
+  "items": [
+   {
+    "sku": "VR-105",
+    "qty": 6,
+    "unit_price_usd": 52
+   }
+  ],
+  "total_usd": 312,
+  "status": "shipped",
+  "ship_to": "2922 Quartzridge St, Pasadena, CA 91101"
+ },
+ {
+  "order_id": "VR-2026-5011",
+  "customer_id": "C-10090",
+  "date": "2026-08-25",
+  "items": [
+   {
+    "sku": "VR-101",
+    "qty": 1,
+    "unit_price_usd": 42
+   },
+   {
+    "sku": "VR-122",
+    "qty": 3,
+    "unit_price_usd": 45
+   },
+   {
+    "sku": "VR-123",
+    "qty": 3,
+    "unit_price_usd": 46
+   },
+   {
+    "sku": "VR-116",
+    "qty": 6,
+    "unit_price_usd": 95
+   }
+  ],
+  "total_usd": 885,
+  "status": "delivered",
+  "ship_to": "6722 Stillwater Way, San Diego, CA 92103"
+ },
+ {
+  "order_id": "VR-2025-5012",
+  "customer_id": "C-10018",
+  "date": "2025-09-22",
+  "items": [
+   {
+    "sku": "VR-104",
+    "qty": 12,
+    "unit_price_usd": 62
+   },
+   {
+    "sku": "VR-116",
+    "qty": 1,
+    "unit_price_usd": 95
+   },
+   {
+    "sku": "VR-122",
+    "qty": 12,
+    "unit_price_usd": 45
+   },
+   {
+    "sku": "VR-120",
+    "qty": 6,
+    "unit_price_usd": 26
+   }
+  ],
+  "total_usd": 1535,
+  "status": "processing",
+  "ship_to": "8229 Bramblewood Ave, San Diego, CA 92103"
+ },
+ {
+  "order_id": "VR-2025-5013",
+  "customer_id": "C-10025",
+  "date": "2025-06-28",
+  "items": [
+   {
+    "sku": "VR-117",
+    "qty": 2,
+    "unit_price_usd": 32
+   },
+   {
+    "sku": "VR-107",
+    "qty": 3,
+    "unit_price_usd": 82
+   },
+   {
+    "sku": "VR-103",
+    "qty": 1,
+    "unit_price_usd": 66
+   }
+  ],
+  "total_usd": 376,
+  "status": "refunded",
+  "ship_to": "8386 Foxglen St, Palo Alto, CA 94301"
+ },
+ {
+  "order_id": "VR-2026-5014",
+  "customer_id": "C-10124",
+  "date": "2026-08-09",
+  "items": [
+   {
+    "sku": "VR-106",
+    "qty": 6,
+    "unit_price_usd": 48
+   },
+   {
+    "sku": "VR-110",
+    "qty": 2,
+    "unit_price_usd": 36
+   }
+  ],
+  "total_usd": 360,
+  "status": "delivered",
+  "ship_to": "2635 Larkspur Hollow Rd, San Francisco, CA 94110"
+ },
+ {
+  "order_id": "VR-2025-5015",
+  "customer_id": "C-10129",
+  "date": "2025-12-22",
+  "items": [
+   {
+    "sku": "VR-105",
+    "qty": 6,
+    "unit_price_usd": 52
+   },
+   {
+    "sku": "VR-121",
+    "qty": 1,
+    "unit_price_usd": 49
+   },
+   {
+    "sku": "VR-117",
+    "qty": 2,
+    "unit_price_usd": 32
+   },
+   {
+    "sku": "VR-109",
+    "qty": 1,
+    "unit_price_usd": 40
+   }
+  ],
+  "total_usd": 465,
+  "status": "delivered",
+  "ship_to": "9001 Harrow Bend Ln, Sacramento, CA 95814"
+ },
+ {
+  "order_id": "VR-2026-5016",
+  "customer_id": "C-10036",
+  "date": "2026-08-18",
+  "items": [
+   {
+    "sku": "VR-106",
+    "qty": 1,
+    "unit_price_usd": 48
+   },
+   {
+    "sku": "VR-116",
+    "qty": 2,
+    "unit_price_usd": 95
+   }
+  ],
+  "total_usd": 238,
+  "status": "delivered",
+  "ship_to": "1643 Cellar Oak St, Pasadena, CA 91101"
+ },
+ {
+  "order_id": "VR-2026-5017",
+  "customer_id": "C-10073",
+  "date": "2026-06-21",
+  "items": [
+   {
+    "sku": "VR-124",
+    "qty": 2,
+    "unit_price_usd": 42
+   },
+   {
+    "sku": "VR-123",
+    "qty": 1,
+    "unit_price_usd": 46
+   },
+   {
+    "sku": "VR-104",
+    "qty": 1,
+    "unit_price_usd": 62
+   },
+   {
+    "sku": "VR-120",
+    "qty": 1,
+    "unit_price_usd": 26
+   }
+  ],
+  "total_usd": 218,
+  "status": "delivered",
+  "ship_to": "9633 Copperleaf Ln, Santa Rosa, CA 95404"
+ },
+ {
+  "order_id": "VR-2026-5018",
+  "customer_id": "C-10034",
+  "date": "2026-05-26",
+  "items": [
+   {
+    "sku": "VR-110",
+    "qty": 3,
+    "unit_price_usd": 36
+   }
+  ],
+  "total_usd": 108,
+  "status": "delivered",
+  "ship_to": "7888 Stillwater Way, Los Angeles, CA 90026"
+ },
+ {
+  "order_id": "VR-2025-5019",
+  "customer_id": "C-10011",
+  "date": "2025-11-14",
+  "items": [
+   {
+    "sku": "VR-117",
+    "qty": 1,
+    "unit_price_usd": 32
+   },
+   {
+    "sku": "VR-122",
+    "qty": 1,
+    "unit_price_usd": 45
+   }
+  ],
+  "total_usd": 77,
+  "status": "shipped",
+  "ship_to": "9246 Harrow Bend Ave, San Francisco, CA 94110"
+ },
+ {
+  "order_id": "VR-2026-5020",
+  "customer_id": "C-10101",
+  "date": "2026-07-16",
+  "items": [
+   {
+    "sku": "VR-109",
+    "qty": 12,
+    "unit_price_usd": 40
+   },
+   {
+    "sku": "VR-110",
+    "qty": 6,
+    "unit_price_usd": 36
+   },
+   {
+    "sku": "VR-106",
+    "qty": 12,
+    "unit_price_usd": 48
+   }
+  ],
+  "total_usd": 1272,
+  "status": "refunded",
+  "ship_to": "4838 Vinestone Rd, Napa, CA 94558"
+ },
+ {
+  "order_id": "VR-2025-5021",
+  "customer_id": "C-10054",
+  "date": "2025-10-28",
+  "items": [
+   {
+    "sku": "VR-115",
+    "qty": 6,
+    "unit_price_usd": 99
+   }
+  ],
+  "total_usd": 594,
+  "status": "delivered",
+  "ship_to": "4979 Foxglen Ct, Sacramento, CA 95814"
+ },
+ {
+  "order_id": "VR-2025-5022",
+  "customer_id": "C-10146",
+  "date": "2025-09-11",
+  "items": [
+   {
+    "sku": "VR-102",
+    "qty": 1,
+    "unit_price_usd": 38
+   }
+  ],
+  "total_usd": 38,
+  "status": "processing",
+  "ship_to": "6386 Amberfield Ave, Berkeley, CA 94704"
+ },
+ {
+  "order_id": "VR-2025-5023",
+  "customer_id": "C-10135",
+  "date": "2025-07-31",
+  "items": [
+   {
+    "sku": "VR-112",
+    "qty": 1,
+    "unit_price_usd": 58
+   },
+   {
+    "sku": "VR-101",
+    "qty": 6,
+    "unit_price_usd": 42
+   },
+   {
+    "sku": "VR-119",
+    "qty": 1,
+    "unit_price_usd": 30
+   }
+  ],
+  "total_usd": 340,
+  "status": "delivered",
+  "ship_to": "2376 Larkspur Hollow Ave, Santa Rosa, CA 95404"
+ },
+ {
+  "order_id": "VR-2026-5024",
+  "customer_id": "C-10061",
+  "date": "2026-09-30",
+  "items": [
+   {
+    "sku": "VR-108",
+    "qty": 1,
+    "unit_price_usd": 78
+   },
+   {
+    "sku": "VR-124",
+    "qty": 6,
+    "unit_price_usd": 42
+   },
+   {
+    "sku": "VR-116",
+    "qty": 2,
+    "unit_price_usd": 95
+   }
+  ],
+  "total_usd": 520,
+  "status": "delivered",
+  "ship_to": "8086 Vinestone Rd, Sausalito, CA 94965"
+ },
+ {
+  "order_id": "VR-2025-5025",
+  "customer_id": "C-10077",
+  "date": "2025-12-27",
+  "items": [
+   {
+    "sku": "VR-106",
+    "qty": 1,
+    "unit_price_usd": 48
+   },
+   {
+    "sku": "VR-111",
+    "qty": 6,
+    "unit_price_usd": 62
+   },
+   {
+    "sku": "VR-115",
+    "qty": 6,
+    "unit_price_usd": 99
+   }
+  ],
+  "total_usd": 1014,
+  "status": "delivered",
+  "ship_to": "3466 Stillwater St, Fresno, CA 93721"
+ },
+ {
+  "order_id": "VR-2025-5026",
+  "customer_id": "C-10018",
+  "date": "2025-05-16",
+  "items": [
+   {
+    "sku": "VR-101",
+    "qty": 1,
+    "unit_price_usd": 42
+   },
+   {
+    "sku": "VR-103",
+    "qty": 2,
+    "unit_price_usd": 66
+   }
+  ],
+  "total_usd": 174,
+  "status": "delivered",
+  "ship_to": "8229 Bramblewood Ave, San Diego, CA 92103"
+ },
+ {
+  "order_id": "VR-2025-5027",
+  "customer_id": "C-10094",
+  "date": "2025-07-20",
+  "items": [
+   {
+    "sku": "VR-118",
+    "qty": 6,
+    "unit_price_usd": 28
+   }
+  ],
+  "total_usd": 168,
+  "status": "delivered",
+  "ship_to": "3420 Cellar Oak Ave, Santa Rosa, CA 95404"
+ },
+ {
+  "order_id": "VR-2026-5028",
+  "customer_id": "C-10138",
+  "date": "2026-08-08",
+  "items": [
+   {
+    "sku": "VR-118",
+    "qty": 6,
+    "unit_price_usd": 28
+   },
+   {
+    "sku": "VR-111",
+    "qty": 12,
+    "unit_price_usd": 62
+   }
+  ],
+  "total_usd": 912,
+  "status": "delivered",
+  "ship_to": "5892 Silvercask St, Fresno, CA 93721"
+ },
+ {
+  "order_id": "VR-2025-5029",
+  "customer_id": "C-10019",
+  "date": "2025-07-15",
+  "items": [
+   {
+    "sku": "VR-122",
+    "qty": 2,
+    "unit_price_usd": 45
+   },
+   {
+    "sku": "VR-119",
+    "qty": 12,
+    "unit_price_usd": 30
+   },
+   {
+    "sku": "VR-116",
+    "qty": 2,
+    "unit_price_usd": 95
+   },
+   {
+    "sku": "VR-105",
+    "qty": 2,
+    "unit_price_usd": 52
+   }
+  ],
+  "total_usd": 744,
+  "status": "processing",
+  "ship_to": "3293 Larkspur Hollow Ln, San Francisco, CA 94110"
+ },
+ {
+  "order_id": "VR-2026-5030",
+  "customer_id": "C-10099",
+  "date": "2026-04-29",
+  "items": [
+   {
+    "sku": "VR-104",
+    "qty": 3,
+    "unit_price_usd": 62
+   }
+  ],
+  "total_usd": 186,
+  "status": "delivered",
+  "ship_to": "7995 Foxglen St, Sonoma, CA 95476"
+ },
+ {
+  "order_id": "VR-2026-5031",
+  "customer_id": "C-10050",
+  "date": "2026-02-01",
+  "items": [
+   {
+    "sku": "VR-117",
+    "qty": 1,
+    "unit_price_usd": 32
+   }
+  ],
+  "total_usd": 32,
+  "status": "delivered",
+  "ship_to": "8134 Larkspur Hollow Ave, Santa Rosa, CA 95404"
+ },
+ {
+  "order_id": "VR-2026-5032",
+  "customer_id": "C-10102",
+  "date": "2026-09-21",
+  "items": [
+   {
+    "sku": "VR-107",
+    "qty": 12,
+    "unit_price_usd": 82
+   },
+   {
+    "sku": "VR-110",
+    "qty": 2,
+    "unit_price_usd": 36
+   },
+   {
+    "sku": "VR-108",
+    "qty": 6,
+    "unit_price_usd": 78
+   },
+   {
+    "sku": "VR-123",
+    "qty": 1,
+    "unit_price_usd": 46
+   }
+  ],
+  "total_usd": 1570,
+  "status": "delivered",
+  "ship_to": "9829 Cellar Oak Ct, Palo Alto, CA 94301"
+ },
+ {
+  "order_id": "VR-2026-5033",
+  "customer_id": "C-10049",
+  "date": "2026-06-30",
+  "items": [
+   {
+    "sku": "VR-111",
+    "qty": 1,
+    "unit_price_usd": 62
+   }
+  ],
+  "total_usd": 62,
+  "status": "delivered",
+  "ship_to": "2426 Larkspur Hollow Ave, Santa Rosa, CA 95404"
+ },
+ {
+  "order_id": "VR-2025-5034",
+  "customer_id": "C-10038",
+  "date": "2025-07-18",
+  "items": [
+   {
+    "sku": "VR-117",
+    "qty": 3,
+    "unit_price_usd": 32
+   },
+   {
+    "sku": "VR-113",
+    "qty": 6,
+    "unit_price_usd": 59
+   }
+  ],
+  "total_usd": 450,
+  "status": "delivered",
+  "ship_to": "9288 Cellar Oak St, Napa, CA 94558"
+ },
+ {
+  "order_id": "VR-2025-5035",
+  "customer_id": "C-10049",
+  "date": "2025-05-18",
+  "items": [
+   {
+    "sku": "VR-124",
+    "qty": 12,
+    "unit_price_usd": 42
+   },
+   {
+    "sku": "VR-115",
+    "qty": 1,
+    "unit_price_usd": 99
+   },
+   {
+    "sku": "VR-119",
+    "qty": 1,
+    "unit_price_usd": 30
+   },
+   {
+    "sku": "VR-101",
+    "qty": 12,
+    "unit_price_usd": 42
+   }
+  ],
+  "total_usd": 1137,
+  "status": "delivered",
+  "ship_to": "2426 Larkspur Hollow Ave, Santa Rosa, CA 95404"
+ },
+ {
+  "order_id": "VR-2026-5036",
+  "customer_id": "C-10078",
+  "date": "2026-08-15",
+  "items": [
+   {
+    "sku": "VR-106",
+    "qty": 12,
+    "unit_price_usd": 48
+   },
+   {
+    "sku": "VR-107",
+    "qty": 1,
+    "unit_price_usd": 82
+   },
+   {
+    "sku": "VR-113",
+    "qty": 6,
+    "unit_price_usd": 59
+   }
+  ],
+  "total_usd": 1012,
+  "status": "shipped",
+  "ship_to": "7926 Larkspur Hollow St, Oakland, CA 94612"
+ },
+ {
+  "order_id": "VR-2026-5037",
+  "customer_id": "C-10099",
+  "date": "2026-01-05",
+  "items": [
+   {
+    "sku": "VR-121",
+    "qty": 1,
+    "unit_price_usd": 49
+   },
+   {
+    "sku": "VR-114",
+    "qty": 2,
+    "unit_price_usd": 55
+   }
+  ],
+  "total_usd": 159,
+  "status": "delivered",
+  "ship_to": "7995 Foxglen St, Sonoma, CA 95476"
+ },
+ {
+  "order_id": "VR-2026-5038",
+  "customer_id": "C-10108",
+  "date": "2026-08-13",
+  "items": [
+   {
+    "sku": "VR-111",
+    "qty": 1,
+    "unit_price_usd": 62
+   },
+   {
+    "sku": "VR-109",
+    "qty": 6,
+    "unit_price_usd": 40
+   },
+   {
+    "sku": "VR-121",
+    "qty": 6,
+    "unit_price_usd": 49
+   }
+  ],
+  "total_usd": 596,
+  "status": "processing",
+  "ship_to": "8492 Bramblewood Ln, Pasadena, CA 91101"
+ },
+ {
+  "order_id": "VR-2026-5039",
+  "customer_id": "C-10029",
+  "date": "2026-04-06",
+  "items": [
+   {
+    "sku": "VR-115",
+    "qty": 1,
+    "unit_price_usd": 99
+   },
+   {
+    "sku": "VR-105",
+    "qty": 6,
+    "unit_price_usd": 52
+   }
+  ],
+  "total_usd": 411,
+  "status": "delivered",
+  "ship_to": "8645 Harrow Bend Ln, San Jose, CA 95112"
+ },
+ {
+  "order_id": "VR-2026-5040",
+  "customer_id": "C-10036",
+  "date": "2026-05-06",
+  "items": [
+   {
+    "sku": "VR-106",
+    "qty": 1,
+    "unit_price_usd": 48
+   },
+   {
+    "sku": "VR-105",
+    "qty": 3,
+    "unit_price_usd": 52
+   },
+   {
+    "sku": "VR-107",
+    "qty": 12,
+    "unit_price_usd": 82
+   }
+  ],
+  "total_usd": 1188,
+  "status": "delivered",
+  "ship_to": "1643 Cellar Oak St, Pasadena, CA 91101"
+ },
+ {
+  "order_id": "VR-2025-5041",
+  "customer_id": "C-10013",
+  "date": "2025-06-09",
+  "items": [
+   {
+    "sku": "VR-104",
+    "qty": 2,
+    "unit_price_usd": 62
+   },
+   {
+    "sku": "VR-116",
+    "qty": 1,
+    "unit_price_usd": 95
+   },
+   {
+    "sku": "VR-106",
+    "qty": 3,
+    "unit_price_usd": 48
+   },
+   {
+    "sku": "VR-107",
+    "qty": 1,
+    "unit_price_usd": 82
+   }
+  ],
+  "total_usd": 445,
+  "status": "shipped",
+  "ship_to": "6620 Foxglen Rd, Sausalito, CA 94965"
+ },
+ {
+  "order_id": "VR-2026-5042",
+  "customer_id": "C-10126",
+  "date": "2026-04-09",
+  "items": [
+   {
+    "sku": "VR-115",
+    "qty": 3,
+    "unit_price_usd": 99
+   }
+  ],
+  "total_usd": 297,
+  "status": "delivered",
+  "ship_to": "8499 Willowmere Rd, San Francisco, CA 94110"
+ },
+ {
+  "order_id": "VR-2025-5043",
+  "customer_id": "C-10017",
+  "date": "2025-05-18",
+  "items": [
+   {
+    "sku": "VR-107",
+    "qty": 1,
+    "unit_price_usd": 82
+   },
+   {
+    "sku": "VR-119",
+    "qty": 1,
+    "unit_price_usd": 30
+   },
+   {
+    "sku": "VR-102",
+    "qty": 3,
+    "unit_price_usd": 38
+   }
+  ],
+  "total_usd": 226,
+  "status": "delivered",
+  "ship_to": "9679 Cellar Oak Ln, Los Angeles, CA 90026"
+ },
+ {
+  "order_id": "VR-2025-5044",
+  "customer_id": "C-10114",
+  "date": "2025-11-03",
+  "items": [
+   {
+    "sku": "VR-108",
+    "qty": 1,
+    "unit_price_usd": 78
+   },
+   {
+    "sku": "VR-120",
+    "qty": 1,
+    "unit_price_usd": 26
+   },
+   {
+    "sku": "VR-121",
+    "qty": 6,
+    "unit_price_usd": 49
+   }
+  ],
+  "total_usd": 398,
+  "status": "delivered",
+  "ship_to": "6304 Amberfield Ct, Napa, CA 94558"
+ },
+ {
+  "order_id": "VR-2025-5045",
+  "customer_id": "C-10133",
+  "date": "2025-08-25",
+  "items": [
+   {
+    "sku": "VR-103",
+    "qty": 1,
+    "unit_price_usd": 66
+   }
+  ],
+  "total_usd": 66,
+  "status": "processing",
+  "ship_to": "2922 Quartzridge St, Pasadena, CA 91101"
+ },
+ {
+  "order_id": "VR-2025-5046",
+  "customer_id": "C-10104",
+  "date": "2025-07-25",
+  "items": [
+   {
+    "sku": "VR-104",
+    "qty": 1,
+    "unit_price_usd": 62
+   },
+   {
+    "sku": "VR-114",
+    "qty": 1,
+    "unit_price_usd": 55
+   },
+   {
+    "sku": "VR-123",
+    "qty": 12,
+    "unit_price_usd": 46
+   }
+  ],
+  "total_usd": 669,
+  "status": "processing",
+  "ship_to": "7624 Willowmere Way, Berkeley, CA 94704"
+ },
+ {
+  "order_id": "VR-2026-5047",
+  "customer_id": "C-10138",
+  "date": "2026-06-10",
+  "items": [
+   {
+    "sku": "VR-105",
+    "qty": 2,
+    "unit_price_usd": 52
+   },
+   {
+    "sku": "VR-124",
+    "qty": 1,
+    "unit_price_usd": 42
+   }
+  ],
+  "total_usd": 146,
+  "status": "delivered",
+  "ship_to": "5892 Silvercask St, Fresno, CA 93721"
+ },
+ {
+  "order_id": "VR-2025-5048",
+  "customer_id": "C-10123",
+  "date": "2025-06-07",
+  "items": [
+   {
+    "sku": "VR-119",
+    "qty": 3,
+    "unit_price_usd": 30
+   },
+   {
+    "sku": "VR-112",
+    "qty": 6,
+    "unit_price_usd": 58
+   },
+   {
+    "sku": "VR-115",
+    "qty": 12,
+    "unit_price_usd": 99
+   },
+   {
+    "sku": "VR-118",
+    "qty": 1,
+    "unit_price_usd": 28
+   }
+  ],
+  "total_usd": 1654,
+  "status": "shipped",
+  "ship_to": "6154 Willowmere Way, Sacramento, CA 95814"
+ },
+ {
+  "order_id": "VR-2026-5049",
+  "customer_id": "C-10127",
+  "date": "2026-03-18",
+  "items": [
+   {
+    "sku": "VR-107",
+    "qty": 1,
+    "unit_price_usd": 82
+   },
+   {
+    "sku": "VR-112",
+    "qty": 6,
+    "unit_price_usd": 58
+   },
+   {
+    "sku": "VR-101",
+    "qty": 6,
+    "unit_price_usd": 42
+   }
+  ],
+  "total_usd": 682,
+  "status": "delivered",
+  "ship_to": "2969 Quartzridge Ct, Fresno, CA 93721"
+ },
+ {
+  "order_id": "VR-2025-5050",
+  "customer_id": "C-10121",
+  "date": "2025-11-24",
+  "items": [
+   {
+    "sku": "VR-102",
+    "qty": 1,
+    "unit_price_usd": 38
+   }
+  ],
+  "total_usd": 38,
+  "status": "delivered",
+  "ship_to": "9204 Larkspur Hollow Rd, Petaluma, CA 94952"
+ },
+ {
+  "order_id": "VR-2025-5051",
+  "customer_id": "C-10123",
+  "date": "2025-04-20",
+  "items": [
+   {
+    "sku": "VR-110",
+    "qty": 1,
+    "unit_price_usd": 36
+   },
+   {
+    "sku": "VR-109",
+    "qty": 1,
+    "unit_price_usd": 40
+   },
+   {
+    "sku": "VR-120",
+    "qty": 6,
+    "unit_price_usd": 26
+   }
+  ],
+  "total_usd": 232,
+  "status": "delivered",
+  "ship_to": "6154 Willowmere Way, Sacramento, CA 95814"
+ },
+ {
+  "order_id": "VR-2026-5052",
+  "customer_id": "C-10031",
+  "date": "2026-02-05",
+  "items": [
+   {
+    "sku": "VR-109",
+    "qty": 12,
+    "unit_price_usd": 40
+   },
+   {
+    "sku": "VR-120",
+    "qty": 2,
+    "unit_price_usd": 26
+   },
+   {
+    "sku": "VR-101",
+    "qty": 6,
+    "unit_price_usd": 42
+   }
+  ],
+  "total_usd": 784,
+  "status": "delivered",
+  "ship_to": "1858 Stillwater Ave, Sonoma, CA 95476"
+ },
+ {
+  "order_id": "VR-2026-5053",
+  "customer_id": "C-10049",
+  "date": "2026-06-13",
+  "items": [
+   {
+    "sku": "VR-113",
+    "qty": 3,
+    "unit_price_usd": 59
+   },
+   {
+    "sku": "VR-112",
+    "qty": 2,
+    "unit_price_usd": 58
+   },
+   {
+    "sku": "VR-124",
+    "qty": 1,
+    "unit_price_usd": 42
+   },
+   {
+    "sku": "VR-122",
+    "qty": 1,
+    "unit_price_usd": 45
+   }
+  ],
+  "total_usd": 380,
+  "status": "delivered",
+  "ship_to": "2426 Larkspur Hollow Ave, Santa Rosa, CA 95404"
+ },
+ {
+  "order_id": "VR-2026-5054",
+  "customer_id": "C-10046",
+  "date": "2026-03-05",
+  "items": [
+   {
+    "sku": "VR-103",
+    "qty": 6,
+    "unit_price_usd": 66
+   },
+   {
+    "sku": "VR-114",
+    "qty": 6,
+    "unit_price_usd": 55
+   }
+  ],
+  "total_usd": 726,
+  "status": "refunded",
+  "ship_to": "3531 Amberfield St, Sacramento, CA 95814"
+ },
+ {
+  "order_id": "VR-2025-5055",
+  "customer_id": "C-10134",
+  "date": "2025-11-23",
+  "items": [
+   {
+    "sku": "VR-112",
+    "qty": 6,
+    "unit_price_usd": 58
+   },
+   {
+    "sku": "VR-117",
+    "qty": 1,
+    "unit_price_usd": 32
+   },
+   {
+    "sku": "VR-119",
+    "qty": 6,
+    "unit_price_usd": 30
+   },
+   {
+    "sku": "VR-123",
+    "qty": 3,
+    "unit_price_usd": 46
+   }
+  ],
+  "total_usd": 698,
+  "status": "delivered",
+  "ship_to": "7686 Larkspur Hollow Ct, Los Angeles, CA 90026"
+ },
+ {
+  "order_id": "VR-2026-5056",
+  "customer_id": "C-10026",
+  "date": "2026-05-29",
+  "items": [
+   {
+    "sku": "VR-118",
+    "qty": 2,
+    "unit_price_usd": 28
+   },
+   {
+    "sku": "VR-105",
+    "qty": 1,
+    "unit_price_usd": 52
+   }
+  ],
+  "total_usd": 108,
+  "status": "shipped",
+  "ship_to": "9485 Amberfield St, Healdsburg, CA 95448"
+ },
+ {
+  "order_id": "VR-2026-5057",
+  "customer_id": "C-10031",
+  "date": "2026-09-15",
+  "items": [
+   {
+    "sku": "VR-107",
+    "qty": 3,
+    "unit_price_usd": 82
+   },
+   {
+    "sku": "VR-103",
+    "qty": 2,
+    "unit_price_usd": 66
+   },
+   {
+    "sku": "VR-102",
+    "qty": 1,
+    "unit_price_usd": 38
+   },
+   {
+    "sku": "VR-118",
+    "qty": 12,
+    "unit_price_usd": 28
+   }
+  ],
+  "total_usd": 752,
+  "status": "delivered",
+  "ship_to": "1858 Stillwater Ave, Sonoma, CA 95476"
+ },
+ {
+  "order_id": "VR-2026-5058",
+  "customer_id": "C-10048",
+  "date": "2026-01-26",
+  "items": [
+   {
+    "sku": "VR-110",
+    "qty": 1,
+    "unit_price_usd": 36
+   }
+  ],
+  "total_usd": 36,
+  "status": "refunded",
+  "ship_to": "2830 Harrow Bend Ct, Oakland, CA 94612"
+ },
+ {
+  "order_id": "VR-2026-5059",
+  "customer_id": "C-10011",
+  "date": "2026-06-01",
+  "items": [
+   {
+    "sku": "VR-109",
+    "qty": 1,
+    "unit_price_usd": 40
+   },
+   {
+    "sku": "VR-115",
+    "qty": 1,
+    "unit_price_usd": 99
+   },
+   {
+    "sku": "VR-101",
+    "qty": 6,
+    "unit_price_usd": 42
+   },
+   {
+    "sku": "VR-110",
+    "qty": 1,
+    "unit_price_usd": 36
+   }
+  ],
+  "total_usd": 427,
+  "status": "refunded",
+  "ship_to": "9246 Harrow Bend Ave, San Francisco, CA 94110"
+ },
+ {
+  "order_id": "VR-2026-5060",
+  "customer_id": "C-10046",
+  "date": "2026-08-24",
+  "items": [
+   {
+    "sku": "VR-107",
+    "qty": 1,
+    "unit_price_usd": 82
+   },
+   {
+    "sku": "VR-109",
+    "qty": 1,
+    "unit_price_usd": 40
+   },
+   {
+    "sku": "VR-103",
+    "qty": 3,
+    "unit_price_usd": 66
+   },
+   {
+    "sku": "VR-111",
+    "qty": 2,
+    "unit_price_usd": 62
+   }
+  ],
+  "total_usd": 444,
+  "status": "delivered",
+  "ship_to": "3531 Amberfield St, Sacramento, CA 95814"
+ },
+ {
+  "order_id": "VR-2025-5061",
+  "customer_id": "C-10123",
+  "date": "2025-06-07",
+  "items": [
+   {
+    "sku": "VR-109",
+    "qty": 6,
+    "unit_price_usd": 40
+   },
+   {
+    "sku": "VR-116",
+    "qty": 6,
+    "unit_price_usd": 95
+   }
+  ],
+  "total_usd": 810,
+  "status": "delivered",
+  "ship_to": "6154 Willowmere Way, Sacramento, CA 95814"
+ },
+ {
+  "order_id": "VR-2025-5062",
+  "customer_id": "C-10127",
+  "date": "2025-05-28",
+  "items": [
+   {
+    "sku": "VR-118",
+    "qty": 2,
+    "unit_price_usd": 28
+   },
+   {
+    "sku": "VR-122",
+    "qty": 3,
+    "unit_price_usd": 45
+   }
+  ],
+  "total_usd": 191,
+  "status": "shipped",
+  "ship_to": "2969 Quartzridge Ct, Fresno, CA 93721"
+ },
+ {
+  "order_id": "VR-2026-5063",
+  "customer_id": "C-10065",
+  "date": "2026-01-24",
+  "items": [
+   {
+    "sku": "VR-102",
+    "qty": 2,
+    "unit_price_usd": 38
+   },
+   {
+    "sku": "VR-124",
+    "qty": 12,
+    "unit_price_usd": 42
+   },
+   {
+    "sku": "VR-111",
+    "qty": 2,
+    "unit_price_usd": 62
+   },
+   {
+    "sku": "VR-101",
+    "qty": 3,
+    "unit_price_usd": 42
+   }
+  ],
+  "total_usd": 830,
+  "status": "delivered",
+  "ship_to": "7363 Copperleaf Rd, San Jose, CA 95112"
+ },
+ {
+  "order_id": "VR-2026-5064",
+  "customer_id": "C-10055",
+  "date": "2026-06-03",
+  "items": [
+   {
+    "sku": "VR-122",
+    "qty": 12,
+    "unit_price_usd": 45
+   }
+  ],
+  "total_usd": 540,
+  "status": "delivered",
+  "ship_to": "981 Vinestone Way, Santa Rosa, CA 95404"
+ },
+ {
+  "order_id": "VR-2025-5065",
+  "customer_id": "C-10089",
+  "date": "2025-05-29",
+  "items": [
+   {
+    "sku": "VR-114",
+    "qty": 3,
+    "unit_price_usd": 55
+   },
+   {
+    "sku": "VR-105",
+    "qty": 3,
+    "unit_price_usd": 52
+   },
+   {
+    "sku": "VR-117",
+    "qty": 12,
+    "unit_price_usd": 32
+   },
+   {
+    "sku": "VR-124",
+    "qty": 1,
+    "unit_price_usd": 42
+   }
+  ],
+  "total_usd": 747,
+  "status": "delivered",
+  "ship_to": "2135 Willowmere Rd, Petaluma, CA 94952"
+ },
+ {
+  "order_id": "VR-2026-5066",
+  "customer_id": "C-10139",
+  "date": "2026-02-07",
+  "items": [
+   {
+    "sku": "VR-101",
+    "qty": 1,
+    "unit_price_usd": 42
+   },
+   {
+    "sku": "VR-109",
+    "qty": 3,
+    "unit_price_usd": 40
+   }
+  ],
+  "total_usd": 162,
+  "status": "processing",
+  "ship_to": "830 Amberfield St, Fresno, CA 93721"
+ },
+ {
+  "order_id": "VR-2026-5067",
+  "customer_id": "C-10070",
+  "date": "2026-01-30",
+  "items": [
+   {
+    "sku": "VR-104",
+    "qty": 1,
+    "unit_price_usd": 62
+   },
+   {
+    "sku": "VR-103",
+    "qty": 3,
+    "unit_price_usd": 66
+   },
+   {
+    "sku": "VR-110",
+    "qty": 3,
+    "unit_price_usd": 36
+   }
+  ],
+  "total_usd": 368,
+  "status": "delivered",
+  "ship_to": "227 Copperleaf Ct, Healdsburg, CA 95448"
+ },
+ {
+  "order_id": "VR-2026-5068",
+  "customer_id": "C-10029",
+  "date": "2026-07-20",
+  "items": [
+   {
+    "sku": "VR-105",
+    "qty": 2,
+    "unit_price_usd": 52
+   },
+   {
+    "sku": "VR-121",
+    "qty": 12,
+    "unit_price_usd": 49
+   },
+   {
+    "sku": "VR-107",
+    "qty": 6,
+    "unit_price_usd": 82
+   }
+  ],
+  "total_usd": 1184,
+  "status": "delivered",
+  "ship_to": "8645 Harrow Bend Ln, San Jose, CA 95112"
+ },
+ {
+  "order_id": "VR-2025-5069",
+  "customer_id": "C-10004",
+  "date": "2025-06-08",
+  "items": [
+   {
+    "sku": "VR-112",
+    "qty": 3,
+    "unit_price_usd": 58
+   }
+  ],
+  "total_usd": 174,
+  "status": "delivered",
+  "ship_to": "3676 Larkspur Hollow Way, Los Angeles, CA 90026"
+ },
+ {
+  "order_id": "VR-2026-5070",
+  "customer_id": "C-10016",
+  "date": "2026-02-19",
+  "items": [
+   {
+    "sku": "VR-115",
+    "qty": 3,
+    "unit_price_usd": 99
+   },
+   {
+    "sku": "VR-122",
+    "qty": 2,
+    "unit_price_usd": 45
+   },
+   {
+    "sku": "VR-116",
+    "qty": 1,
+    "unit_price_usd": 95
+   },
+   {
+    "sku": "VR-105",
+    "qty": 12,
+    "unit_price_usd": 52
+   }
+  ],
+  "total_usd": 1106,
+  "status": "delivered",
+  "ship_to": "4693 Foxglen Ave, Los Angeles, CA 90026"
+ },
+ {
+  "order_id": "VR-2026-5071",
+  "customer_id": "C-10091",
+  "date": "2026-04-10",
+  "items": [
+   {
+    "sku": "VR-121",
+    "qty": 3,
+    "unit_price_usd": 49
+   },
+   {
+    "sku": "VR-105",
+    "qty": 1,
+    "unit_price_usd": 52
+   },
+   {
+    "sku": "VR-104",
+    "qty": 6,
+    "unit_price_usd": 62
+   },
+   {
+    "sku": "VR-101",
+    "qty": 1,
+    "unit_price_usd": 42
+   }
+  ],
+  "total_usd": 613,
+  "status": "processing",
+  "ship_to": "4290 Cellar Oak Way, Santa Rosa, CA 95404"
+ },
+ {
+  "order_id": "VR-2026-5072",
+  "customer_id": "C-10034",
+  "date": "2026-06-16",
+  "items": [
+   {
+    "sku": "VR-102",
+    "qty": 2,
+    "unit_price_usd": 38
+   },
+   {
+    "sku": "VR-108",
+    "qty": 6,
+    "unit_price_usd": 78
+   },
+   {
+    "sku": "VR-119",
+    "qty": 6,
+    "unit_price_usd": 30
+   }
+  ],
+  "total_usd": 724,
+  "status": "delivered",
+  "ship_to": "7888 Stillwater Way, Los Angeles, CA 90026"
+ },
+ {
+  "order_id": "VR-2026-5073",
+  "customer_id": "C-10020",
+  "date": "2026-02-06",
+  "items": [
+   {
+    "sku": "VR-112",
+    "qty": 1,
+    "unit_price_usd": 58
+   },
+   {
+    "sku": "VR-109",
+    "qty": 1,
+    "unit_price_usd": 40
+   },
+   {
+    "sku": "VR-105",
+    "qty": 6,
+    "unit_price_usd": 52
+   }
+  ],
+  "total_usd": 410,
+  "status": "delivered",
+  "ship_to": "3576 Willowmere Way, San Jose, CA 95112"
+ },
+ {
+  "order_id": "VR-2025-5074",
+  "customer_id": "C-10131",
+  "date": "2025-07-09",
+  "items": [
+   {
+    "sku": "VR-108",
+    "qty": 2,
+    "unit_price_usd": 78
+   }
+  ],
+  "total_usd": 156,
+  "status": "refunded",
+  "ship_to": "9531 Bramblewood Ct, Pasadena, CA 91101"
+ },
+ {
+  "order_id": "VR-2026-5075",
+  "customer_id": "C-10095",
+  "date": "2026-05-21",
+  "items": [
+   {
+    "sku": "VR-101",
+    "qty": 3,
+    "unit_price_usd": 42
+   }
+  ],
+  "total_usd": 126,
+  "status": "delivered",
+  "ship_to": "5959 Willowmere Way, Pasadena, CA 91101"
+ },
+ {
+  "order_id": "VR-2026-5076",
+  "customer_id": "C-10037",
+  "date": "2026-08-08",
+  "items": [
+   {
+    "sku": "VR-110",
+    "qty": 1,
+    "unit_price_usd": 36
+   },
+   {
+    "sku": "VR-102",
+    "qty": 2,
+    "unit_price_usd": 38
+   }
+  ],
+  "total_usd": 112,
+  "status": "shipped",
+  "ship_to": "4399 Quartzridge Ct, Oakland, CA 94612"
+ },
+ {
+  "order_id": "VR-2026-5077",
+  "customer_id": "C-10088",
+  "date": "2026-04-29",
+  "items": [
+   {
+    "sku": "VR-102",
+    "qty": 3,
+    "unit_price_usd": 38
+   },
+   {
+    "sku": "VR-110",
+    "qty": 1,
+    "unit_price_usd": 36
+   },
+   {
+    "sku": "VR-124",
+    "qty": 6,
+    "unit_price_usd": 42
+   },
+   {
+    "sku": "VR-119",
+    "qty": 2,
+    "unit_price_usd": 30
+   }
+  ],
+  "total_usd": 462,
+  "status": "processing",
+  "ship_to": "4104 Bramblewood Rd, San Diego, CA 92103"
+ },
+ {
+  "order_id": "VR-2025-5078",
+  "customer_id": "C-10067",
+  "date": "2025-06-08",
+  "items": [
+   {
+    "sku": "VR-107",
+    "qty": 3,
+    "unit_price_usd": 82
+   }
+  ],
+  "total_usd": 246,
+  "status": "shipped",
+  "ship_to": "2682 Harrow Bend Ln, Petaluma, CA 94952"
+ },
+ {
+  "order_id": "VR-2026-5079",
+  "customer_id": "C-10050",
+  "date": "2026-06-19",
+  "items": [
+   {
+    "sku": "VR-118",
+    "qty": 1,
+    "unit_price_usd": 28
+   },
+   {
+    "sku": "VR-109",
+    "qty": 12,
+    "unit_price_usd": 40
+   },
+   {
+    "sku": "VR-116",
+    "qty": 2,
+    "unit_price_usd": 95
+   }
+  ],
+  "total_usd": 698,
+  "status": "delivered",
+  "ship_to": "8134 Larkspur Hollow Ave, Santa Rosa, CA 95404"
+ },
+ {
+  "order_id": "VR-2025-5080",
+  "customer_id": "C-10024",
+  "date": "2025-05-08",
+  "items": [
+   {
+    "sku": "VR-124",
+    "qty": 1,
+    "unit_price_usd": 42
+   }
+  ],
+  "total_usd": 42,
+  "status": "shipped",
+  "ship_to": "6489 Amberfield Ct, Fresno, CA 93721"
+ },
+ {
+  "order_id": "VR-2026-5081",
+  "customer_id": "C-10101",
+  "date": "2026-04-23",
+  "items": [
+   {
+    "sku": "VR-123",
+    "qty": 6,
+    "unit_price_usd": 46
+   },
+   {
+    "sku": "VR-120",
+    "qty": 2,
+    "unit_price_usd": 26
+   },
+   {
+    "sku": "VR-107",
+    "qty": 12,
+    "unit_price_usd": 82
+   }
+  ],
+  "total_usd": 1312,
+  "status": "delivered",
+  "ship_to": "4838 Vinestone Rd, Napa, CA 94558"
+ },
+ {
+  "order_id": "VR-2026-5082",
+  "customer_id": "C-10068",
+  "date": "2026-04-13",
+  "items": [
+   {
+    "sku": "VR-107",
+    "qty": 3,
+    "unit_price_usd": 82
+   },
+   {
+    "sku": "VR-104",
+    "qty": 12,
+    "unit_price_usd": 62
+   },
+   {
+    "sku": "VR-119",
+    "qty": 2,
+    "unit_price_usd": 30
+   }
+  ],
+  "total_usd": 1050,
+  "status": "shipped",
+  "ship_to": "3787 Vinestone Rd, Berkeley, CA 94704"
+ },
+ {
+  "order_id": "VR-2025-5083",
+  "customer_id": "C-10053",
+  "date": "2025-05-22",
+  "items": [
+   {
+    "sku": "VR-104",
+    "qty": 3,
+    "unit_price_usd": 62
+   },
+   {
+    "sku": "VR-115",
+    "qty": 1,
+    "unit_price_usd": 99
+   },
+   {
+    "sku": "VR-120",
+    "qty": 1,
+    "unit_price_usd": 26
+   },
+   {
+    "sku": "VR-103",
+    "qty": 3,
+    "unit_price_usd": 66
+   }
+  ],
+  "total_usd": 509,
+  "status": "processing",
+  "ship_to": "6724 Stillwater Ave, Healdsburg, CA 95448"
+ },
+ {
+  "order_id": "VR-2026-5084",
+  "customer_id": "C-10118",
+  "date": "2026-05-18",
+  "items": [
+   {
+    "sku": "VR-103",
+    "qty": 1,
+    "unit_price_usd": 66
+   },
+   {
+    "sku": "VR-124",
+    "qty": 6,
+    "unit_price_usd": 42
+   },
+   {
+    "sku": "VR-115",
+    "qty": 6,
+    "unit_price_usd": 99
+   },
+   {
+    "sku": "VR-123",
+    "qty": 1,
+    "unit_price_usd": 46
+   }
+  ],
+  "total_usd": 958,
+  "status": "delivered",
+  "ship_to": "2470 Silvercask Ct, Oakland, CA 94612"
+ },
+ {
+  "order_id": "VR-2025-5085",
+  "customer_id": "C-10123",
+  "date": "2025-11-21",
+  "items": [
+   {
+    "sku": "VR-114",
+    "qty": 1,
+    "unit_price_usd": 55
+   },
+   {
+    "sku": "VR-121",
+    "qty": 6,
+    "unit_price_usd": 49
+   },
+   {
+    "sku": "VR-115",
+    "qty": 1,
+    "unit_price_usd": 99
+   },
+   {
+    "sku": "VR-116",
+    "qty": 1,
+    "unit_price_usd": 95
+   }
+  ],
+  "total_usd": 543,
+  "status": "refunded",
+  "ship_to": "6154 Willowmere Way, Sacramento, CA 95814"
+ },
+ {
+  "order_id": "VR-2026-5086",
+  "customer_id": "C-10042",
+  "date": "2026-01-25",
+  "items": [
+   {
+    "sku": "VR-112",
+    "qty": 6,
+    "unit_price_usd": 58
+   },
+   {
+    "sku": "VR-115",
+    "qty": 3,
+    "unit_price_usd": 99
+   }
+  ],
+  "total_usd": 645,
+  "status": "delivered",
+  "ship_to": "7698 Vinestone Ave, Santa Rosa, CA 95404"
+ },
+ {
+  "order_id": "VR-2025-5087",
+  "customer_id": "C-10114",
+  "date": "2025-04-21",
+  "items": [
+   {
+    "sku": "VR-122",
+    "qty": 12,
+    "unit_price_usd": 45
+   },
+   {
+    "sku": "VR-119",
+    "qty": 12,
+    "unit_price_usd": 30
+   },
+   {
+    "sku": "VR-104",
+    "qty": 3,
+    "unit_price_usd": 62
+   }
+  ],
+  "total_usd": 1086,
+  "status": "processing",
+  "ship_to": "6304 Amberfield Ct, Napa, CA 94558"
+ },
+ {
+  "order_id": "VR-2026-5088",
+  "customer_id": "C-10114",
+  "date": "2026-05-19",
+  "items": [
+   {
+    "sku": "VR-102",
+    "qty": 2,
+    "unit_price_usd": 38
+   },
+   {
+    "sku": "VR-101",
+    "qty": 2,
+    "unit_price_usd": 42
+   },
+   {
+    "sku": "VR-121",
+    "qty": 3,
+    "unit_price_usd": 49
+   }
+  ],
+  "total_usd": 307,
+  "status": "delivered",
+  "ship_to": "6304 Amberfield Ct, Napa, CA 94558"
+ },
+ {
+  "order_id": "VR-2026-5089",
+  "customer_id": "C-10144",
+  "date": "2026-06-23",
+  "items": [
+   {
+    "sku": "VR-118",
+    "qty": 1,
+    "unit_price_usd": 28
+   },
+   {
+    "sku": "VR-110",
+    "qty": 6,
+    "unit_price_usd": 36
+   },
+   {
+    "sku": "VR-112",
+    "qty": 1,
+    "unit_price_usd": 58
+   }
+  ],
+  "total_usd": 302,
+  "status": "delivered",
+  "ship_to": "7731 Stillwater Ave, Palo Alto, CA 94301"
+ },
+ {
+  "order_id": "VR-2025-5090",
+  "customer_id": "C-10120",
+  "date": "2025-11-05",
+  "items": [
+   {
+    "sku": "VR-115",
+    "qty": 6,
+    "unit_price_usd": 99
+   },
+   {
+    "sku": "VR-122",
+    "qty": 1,
+    "unit_price_usd": 45
+   },
+   {
+    "sku": "VR-104",
+    "qty": 2,
+    "unit_price_usd": 62
+   },
+   {
+    "sku": "VR-119",
+    "qty": 1,
+    "unit_price_usd": 30
+   }
+  ],
+  "total_usd": 793,
+  "status": "refunded",
+  "ship_to": "6679 Harrow Bend Ct, Sausalito, CA 94965"
+ },
+ {
+  "order_id": "VR-2026-5091",
+  "customer_id": "C-10026",
+  "date": "2026-04-28",
+  "items": [
+   {
+    "sku": "VR-101",
+    "qty": 2,
+    "unit_price_usd": 42
+   },
+   {
+    "sku": "VR-121",
+    "qty": 1,
+    "unit_price_usd": 49
+   },
+   {
+    "sku": "VR-114",
+    "qty": 3,
+    "unit_price_usd": 55
+   },
+   {
+    "sku": "VR-103",
+    "qty": 3,
+    "unit_price_usd": 66
+   }
+  ],
+  "total_usd": 496,
+  "status": "delivered",
+  "ship_to": "9485 Amberfield St, Healdsburg, CA 95448"
+ },
+ {
+  "order_id": "VR-2026-5092",
+  "customer_id": "C-10011",
+  "date": "2026-03-23",
+  "items": [
+   {
+    "sku": "VR-118",
+    "qty": 6,
+    "unit_price_usd": 28
+   },
+   {
+    "sku": "VR-105",
+    "qty": 2,
+    "unit_price_usd": 52
+   },
+   {
+    "sku": "VR-123",
+    "qty": 12,
+    "unit_price_usd": 46
+   },
+   {
+    "sku": "VR-104",
+    "qty": 1,
+    "unit_price_usd": 62
+   }
+  ],
+  "total_usd": 886,
+  "status": "delivered",
+  "ship_to": "9246 Harrow Bend Ave, San Francisco, CA 94110"
+ },
+ {
+  "order_id": "VR-2026-5093",
+  "customer_id": "C-10078",
+  "date": "2026-07-20",
+  "items": [
+   {
+    "sku": "VR-119",
+    "qty": 1,
+    "unit_price_usd": 30
+   }
+  ],
+  "total_usd": 30,
+  "status": "shipped",
+  "ship_to": "7926 Larkspur Hollow St, Oakland, CA 94612"
+ },
+ {
+  "order_id": "VR-2026-5094",
+  "customer_id": "C-10036",
+  "date": "2026-08-04",
+  "items": [
+   {
+    "sku": "VR-107",
+    "qty": 6,
+    "unit_price_usd": 82
+   },
+   {
+    "sku": "VR-106",
+    "qty": 2,
+    "unit_price_usd": 48
+   },
+   {
+    "sku": "VR-122",
+    "qty": 2,
+    "unit_price_usd": 45
+   },
+   {
+    "sku": "VR-108",
+    "qty": 2,
+    "unit_price_usd": 78
+   }
+  ],
+  "total_usd": 834,
+  "status": "delivered",
+  "ship_to": "1643 Cellar Oak St, Pasadena, CA 91101"
+ },
+ {
+  "order_id": "VR-2025-5095",
+  "customer_id": "C-10081",
+  "date": "2025-05-04",
+  "items": [
+   {
+    "sku": "VR-116",
+    "qty": 1,
+    "unit_price_usd": 95
+   },
+   {
+    "sku": "VR-119",
+    "qty": 3,
+    "unit_price_usd": 30
+   },
+   {
+    "sku": "VR-102",
+    "qty": 2,
+    "unit_price_usd": 38
+   },
+   {
+    "sku": "VR-118",
+    "qty": 6,
+    "unit_price_usd": 28
+   }
+  ],
+  "total_usd": 429,
+  "status": "shipped",
+  "ship_to": "8524 Silvercask Ave, Sausalito, CA 94965"
+ },
+ {
+  "order_id": "VR-2026-5096",
+  "customer_id": "C-10077",
+  "date": "2026-06-06",
+  "items": [
+   {
+    "sku": "VR-109",
+    "qty": 2,
+    "unit_price_usd": 40
+   },
+   {
+    "sku": "VR-120",
+    "qty": 6,
+    "unit_price_usd": 26
+   }
+  ],
+  "total_usd": 236,
+  "status": "shipped",
+  "ship_to": "3466 Stillwater St, Fresno, CA 93721"
+ },
+ {
+  "order_id": "VR-2025-5097",
+  "customer_id": "C-10093",
+  "date": "2025-08-15",
+  "items": [
+   {
+    "sku": "VR-122",
+    "qty": 2,
+    "unit_price_usd": 45
+   }
+  ],
+  "total_usd": 90,
+  "status": "delivered",
+  "ship_to": "6496 Foxglen Ave, Sacramento, CA 95814"
+ },
+ {
+  "order_id": "VR-2026-5098",
+  "customer_id": "C-10068",
+  "date": "2026-01-31",
+  "items": [
+   {
+    "sku": "VR-105",
+    "qty": 12,
+    "unit_price_usd": 52
+   },
+   {
+    "sku": "VR-110",
+    "qty": 1,
+    "unit_price_usd": 36
+   },
+   {
+    "sku": "VR-117",
+    "qty": 2,
+    "unit_price_usd": 32
+   }
+  ],
+  "total_usd": 724,
+  "status": "shipped",
+  "ship_to": "3787 Vinestone Rd, Berkeley, CA 94704"
+ },
+ {
+  "order_id": "VR-2025-5099",
+  "customer_id": "C-10015",
+  "date": "2025-07-24",
+  "items": [
+   {
+    "sku": "VR-103",
+    "qty": 2,
+    "unit_price_usd": 66
+   },
+   {
+    "sku": "VR-114",
+    "qty": 6,
+    "unit_price_usd": 55
+   }
+  ],
+  "total_usd": 462,
+  "status": "delivered",
+  "ship_to": "360 Copperleaf Ln, Santa Rosa, CA 95404"
+ },
+ {
+  "order_id": "VR-2026-5100",
+  "customer_id": "C-10063",
+  "date": "2026-09-27",
+  "items": [
+   {
+    "sku": "VR-123",
+    "qty": 1,
+    "unit_price_usd": 46
+   },
+   {
+    "sku": "VR-115",
+    "qty": 3,
+    "unit_price_usd": 99
+   }
+  ],
+  "total_usd": 343,
+  "status": "shipped",
+  "ship_to": "6652 Vinestone Ave, Petaluma, CA 94952"
+ },
+ {
+  "order_id": "VR-2025-5101",
+  "customer_id": "C-10008",
+  "date": "2025-07-08",
+  "items": [
+   {
+    "sku": "VR-120",
+    "qty": 1,
+    "unit_price_usd": 26
+   }
+  ],
+  "total_usd": 26,
+  "status": "refunded",
+  "ship_to": "8581 Amberfield St, San Jose, CA 95112"
+ },
+ {
+  "order_id": "VR-2025-5102",
+  "customer_id": "C-10048",
+  "date": "2025-07-25",
+  "items": [
+   {
+    "sku": "VR-102",
+    "qty": 12,
+    "unit_price_usd": 38
+   },
+   {
+    "sku": "VR-101",
+    "qty": 12,
+    "unit_price_usd": 42
+   }
+  ],
+  "total_usd": 960,
+  "status": "processing",
+  "ship_to": "2830 Harrow Bend Ct, Oakland, CA 94612"
+ },
+ {
+  "order_id": "VR-2025-5103",
+  "customer_id": "C-10081",
+  "date": "2025-06-22",
+  "items": [
+   {
+    "sku": "VR-111",
+    "qty": 6,
+    "unit_price_usd": 62
+   }
+  ],
+  "total_usd": 372,
+  "status": "delivered",
+  "ship_to": "8524 Silvercask Ave, Sausalito, CA 94965"
+ },
+ {
+  "order_id": "VR-2026-5104",
+  "customer_id": "C-10066",
+  "date": "2026-07-17",
+  "items": [
+   {
+    "sku": "VR-115",
+    "qty": 3,
+    "unit_price_usd": 99
+   },
+   {
+    "sku": "VR-104",
+    "qty": 3,
+    "unit_price_usd": 62
+   }
+  ],
+  "total_usd": 483,
+  "status": "refunded",
+  "ship_to": "5831 Vinestone Ct, San Jose, CA 95112"
+ },
+ {
+  "order_id": "VR-2026-5105",
+  "customer_id": "C-10081",
+  "date": "2026-07-19",
+  "items": [
+   {
+    "sku": "VR-108",
+    "qty": 2,
+    "unit_price_usd": 78
+   },
+   {
+    "sku": "VR-109",
+    "qty": 3,
+    "unit_price_usd": 40
+   }
+  ],
+  "total_usd": 276,
+  "status": "delivered",
+  "ship_to": "8524 Silvercask Ave, Sausalito, CA 94965"
+ },
+ {
+  "order_id": "VR-2026-5106",
+  "customer_id": "C-10050",
+  "date": "2026-05-25",
+  "items": [
+   {
+    "sku": "VR-114",
+    "qty": 6,
+    "unit_price_usd": 55
+   },
+   {
+    "sku": "VR-119",
+    "qty": 2,
+    "unit_price_usd": 30
+   },
+   {
+    "sku": "VR-107",
+    "qty": 3,
+    "unit_price_usd": 82
+   },
+   {
+    "sku": "VR-102",
+    "qty": 6,
+    "unit_price_usd": 38
+   }
+  ],
+  "total_usd": 864,
+  "status": "delivered",
+  "ship_to": "8134 Larkspur Hollow Ave, Santa Rosa, CA 95404"
+ },
+ {
+  "order_id": "VR-2026-5107",
+  "customer_id": "C-10065",
+  "date": "2026-09-12",
+  "items": [
+   {
+    "sku": "VR-119",
+    "qty": 12,
+    "unit_price_usd": 30
+   },
+   {
+    "sku": "VR-120",
+    "qty": 12,
+    "unit_price_usd": 26
+   },
+   {
+    "sku": "VR-107",
+    "qty": 2,
+    "unit_price_usd": 82
+   },
+   {
+    "sku": "VR-115",
+    "qty": 6,
+    "unit_price_usd": 99
+   }
+  ],
+  "total_usd": 1430,
+  "status": "processing",
+  "ship_to": "7363 Copperleaf Rd, San Jose, CA 95112"
+ },
+ {
+  "order_id": "VR-2026-5108",
+  "customer_id": "C-10134",
+  "date": "2026-04-25",
+  "items": [
+   {
+    "sku": "VR-109",
+    "qty": 2,
+    "unit_price_usd": 40
+   }
+  ],
+  "total_usd": 80,
+  "status": "delivered",
+  "ship_to": "7686 Larkspur Hollow Ct, Los Angeles, CA 90026"
+ },
+ {
+  "order_id": "VR-2026-5109",
+  "customer_id": "C-10107",
+  "date": "2026-08-09",
+  "items": [
+   {
+    "sku": "VR-109",
+    "qty": 2,
+    "unit_price_usd": 40
+   }
+  ],
+  "total_usd": 80,
+  "status": "processing",
+  "ship_to": "2493 Vinestone Ave, Healdsburg, CA 95448"
+ },
+ {
+  "order_id": "VR-2025-5110",
+  "customer_id": "C-10094",
+  "date": "2025-10-31",
+  "items": [
+   {
+    "sku": "VR-122",
+    "qty": 1,
+    "unit_price_usd": 45
+   },
+   {
+    "sku": "VR-118",
+    "qty": 1,
+    "unit_price_usd": 28
+   },
+   {
+    "sku": "VR-106",
+    "qty": 6,
+    "unit_price_usd": 48
+   }
+  ],
+  "total_usd": 361,
+  "status": "delivered",
+  "ship_to": "3420 Cellar Oak Ave, Santa Rosa, CA 95404"
+ },
+ {
+  "order_id": "VR-2025-5111",
+  "customer_id": "C-10007",
+  "date": "2025-08-24",
+  "items": [
+   {
+    "sku": "VR-101",
+    "qty": 6,
+    "unit_price_usd": 42
+   },
+   {
+    "sku": "VR-122",
+    "qty": 1,
+    "unit_price_usd": 45
+   }
+  ],
+  "total_usd": 297,
+  "status": "processing",
+  "ship_to": "2515 Willowmere Rd, San Diego, CA 92103"
+ },
+ {
+  "order_id": "VR-2026-5112",
+  "customer_id": "C-10100",
+  "date": "2026-05-19",
+  "items": [
+   {
+    "sku": "VR-115",
+    "qty": 6,
+    "unit_price_usd": 99
+   },
+   {
+    "sku": "VR-123",
+    "qty": 6,
+    "unit_price_usd": 46
+   },
+   {
+    "sku": "VR-116",
+    "qty": 2,
+    "unit_price_usd": 95
+   },
+   {
+    "sku": "VR-120",
+    "qty": 2,
+    "unit_price_usd": 26
+   }
+  ],
+  "total_usd": 1112,
+  "status": "processing",
+  "ship_to": "5993 Willowmere Way, Sacramento, CA 95814"
+ },
+ {
+  "order_id": "VR-2025-5113",
+  "customer_id": "C-10091",
+  "date": "2025-04-19",
+  "items": [
+   {
+    "sku": "VR-112",
+    "qty": 1,
+    "unit_price_usd": 58
+   },
+   {
+    "sku": "VR-101",
+    "qty": 6,
+    "unit_price_usd": 42
+   },
+   {
+    "sku": "VR-108",
+    "qty": 12,
+    "unit_price_usd": 78
+   }
+  ],
+  "total_usd": 1246,
+  "status": "shipped",
+  "ship_to": "4290 Cellar Oak Way, Santa Rosa, CA 95404"
+ },
+ {
+  "order_id": "VR-2025-5114",
+  "customer_id": "C-10008",
+  "date": "2025-06-01",
+  "items": [
+   {
+    "sku": "VR-116",
+    "qty": 1,
+    "unit_price_usd": 95
+   },
+   {
+    "sku": "VR-118",
+    "qty": 3,
+    "unit_price_usd": 28
+   }
+  ],
+  "total_usd": 179,
+  "status": "delivered",
+  "ship_to": "8581 Amberfield St, San Jose, CA 95112"
+ },
+ {
+  "order_id": "VR-2026-5115",
+  "customer_id": "C-10060",
+  "date": "2026-08-07",
+  "items": [
+   {
+    "sku": "VR-102",
+    "qty": 12,
+    "unit_price_usd": 38
+   },
+   {
+    "sku": "VR-101",
+    "qty": 1,
+    "unit_price_usd": 42
+   },
+   {
+    "sku": "VR-114",
+    "qty": 3,
+    "unit_price_usd": 55
+   }
+  ],
+  "total_usd": 663,
+  "status": "delivered",
+  "ship_to": "3542 Silvercask Ave, Los Angeles, CA 90026"
+ },
+ {
+  "order_id": "VR-2026-5116",
+  "customer_id": "C-10068",
+  "date": "2026-02-13",
+  "items": [
+   {
+    "sku": "VR-117",
+    "qty": 6,
+    "unit_price_usd": 32
+   },
+   {
+    "sku": "VR-107",
+    "qty": 1,
+    "unit_price_usd": 82
+   }
+  ],
+  "total_usd": 274,
+  "status": "refunded",
+  "ship_to": "3787 Vinestone Rd, Berkeley, CA 94704"
+ },
+ {
+  "order_id": "VR-2026-5117",
+  "customer_id": "C-10041",
+  "date": "2026-02-18",
+  "items": [
+   {
+    "sku": "VR-119",
+    "qty": 6,
+    "unit_price_usd": 30
+   },
+   {
+    "sku": "VR-104",
+    "qty": 2,
+    "unit_price_usd": 62
+   },
+   {
+    "sku": "VR-103",
+    "qty": 1,
+    "unit_price_usd": 66
+   }
+  ],
+  "total_usd": 370,
+  "status": "delivered",
+  "ship_to": "3510 Willowmere Ln, San Jose, CA 95112"
+ },
+ {
+  "order_id": "VR-2025-5118",
+  "customer_id": "C-10053",
+  "date": "2025-09-26",
+  "items": [
+   {
+    "sku": "VR-103",
+    "qty": 2,
+    "unit_price_usd": 66
+   },
+   {
+    "sku": "VR-122",
+    "qty": 6,
+    "unit_price_usd": 45
+   },
+   {
+    "sku": "VR-105",
+    "qty": 1,
+    "unit_price_usd": 52
+   }
+  ],
+  "total_usd": 454,
+  "status": "delivered",
+  "ship_to": "6724 Stillwater Ave, Healdsburg, CA 95448"
+ },
+ {
+  "order_id": "VR-2026-5119",
+  "customer_id": "C-10141",
+  "date": "2026-05-19",
+  "items": [
+   {
+    "sku": "VR-116",
+    "qty": 1,
+    "unit_price_usd": 95
+   },
+   {
+    "sku": "VR-105",
+    "qty": 2,
+    "unit_price_usd": 52
+   },
+   {
+    "sku": "VR-117",
+    "qty": 12,
+    "unit_price_usd": 32
+   }
+  ],
+  "total_usd": 583,
+  "status": "shipped",
+  "ship_to": "2403 Copperleaf St, Sonoma, CA 95476"
+ },
+ {
+  "order_id": "VR-2026-5120",
+  "customer_id": "C-10145",
+  "date": "2026-01-20",
+  "items": [
+   {
+    "sku": "VR-111",
+    "qty": 6,
+    "unit_price_usd": 62
+   },
+   {
+    "sku": "VR-110",
+    "qty": 6,
+    "unit_price_usd": 36
+   },
+   {
+    "sku": "VR-103",
+    "qty": 3,
+    "unit_price_usd": 66
+   },
+   {
+    "sku": "VR-121",
+    "qty": 1,
+    "unit_price_usd": 49
+   }
+  ],
+  "total_usd": 835,
+  "status": "shipped",
+  "ship_to": "4421 Stillwater St, San Jose, CA 95112"
+ },
+ {
+  "order_id": "VR-2026-5121",
+  "customer_id": "C-10098",
+  "date": "2026-06-30",
+  "items": [
+   {
+    "sku": "VR-110",
+    "qty": 1,
+    "unit_price_usd": 36
+   },
+   {
+    "sku": "VR-115",
+    "qty": 3,
+    "unit_price_usd": 99
+   }
+  ],
+  "total_usd": 333,
+  "status": "processing",
+  "ship_to": "4418 Bramblewood Ln, Napa, CA 94558"
+ },
+ {
+  "order_id": "VR-2025-5122",
+  "customer_id": "C-10092",
+  "date": "2025-09-17",
+  "items": [
+   {
+    "sku": "VR-107",
+    "qty": 1,
+    "unit_price_usd": 82
+   },
+   {
+    "sku": "VR-116",
+    "qty": 12,
+    "unit_price_usd": 95
+   },
+   {
+    "sku": "VR-110",
+    "qty": 2,
+    "unit_price_usd": 36
+   },
+   {
+    "sku": "VR-114",
+    "qty": 6,
+    "unit_price_usd": 55
+   }
+  ],
+  "total_usd": 1624,
+  "status": "delivered",
+  "ship_to": "776 Silvercask Rd, San Diego, CA 92103"
+ },
+ {
+  "order_id": "VR-2025-5123",
+  "customer_id": "C-10138",
+  "date": "2025-04-25",
+  "items": [
+   {
+    "sku": "VR-111",
+    "qty": 2,
+    "unit_price_usd": 62
+   },
+   {
+    "sku": "VR-106",
+    "qty": 2,
+    "unit_price_usd": 48
+   }
+  ],
+  "total_usd": 220,
+  "status": "delivered",
+  "ship_to": "5892 Silvercask St, Fresno, CA 93721"
+ },
+ {
+  "order_id": "VR-2026-5124",
+  "customer_id": "C-10079",
+  "date": "2026-06-19",
+  "items": [
+   {
+    "sku": "VR-105",
+    "qty": 3,
+    "unit_price_usd": 52
+   },
+   {
+    "sku": "VR-124",
+    "qty": 3,
+    "unit_price_usd": 42
+   },
+   {
+    "sku": "VR-104",
+    "qty": 6,
+    "unit_price_usd": 62
+   },
+   {
+    "sku": "VR-109",
+    "qty": 1,
+    "unit_price_usd": 40
+   }
+  ],
+  "total_usd": 694,
+  "status": "delivered",
+  "ship_to": "4779 Vinestone Ct, Los Angeles, CA 90026"
+ },
+ {
+  "order_id": "VR-2026-5125",
+  "customer_id": "C-10137",
+  "date": "2026-04-14",
+  "items": [
+   {
+    "sku": "VR-101",
+    "qty": 3,
+    "unit_price_usd": 42
+   },
+   {
+    "sku": "VR-104",
+    "qty": 1,
+    "unit_price_usd": 62
+   },
+   {
+    "sku": "VR-115",
+    "qty": 2,
+    "unit_price_usd": 99
+   },
+   {
+    "sku": "VR-122",
+    "qty": 1,
+    "unit_price_usd": 45
+   }
+  ],
+  "total_usd": 431,
+  "status": "processing",
+  "ship_to": "3848 Harrow Bend Rd, Los Angeles, CA 90026"
+ },
+ {
+  "order_id": "VR-2026-5126",
+  "customer_id": "C-10030",
+  "date": "2026-01-24",
+  "items": [
+   {
+    "sku": "VR-108",
+    "qty": 1,
+    "unit_price_usd": 78
+   },
+   {
+    "sku": "VR-102",
+    "qty": 12,
+    "unit_price_usd": 38
+   },
+   {
+    "sku": "VR-117",
+    "qty": 12,
+    "unit_price_usd": 32
+   }
+  ],
+  "total_usd": 918,
+  "status": "refunded",
+  "ship_to": "3333 Quartzridge Rd, San Jose, CA 95112"
+ },
+ {
+  "order_id": "VR-2026-5127",
+  "customer_id": "C-10089",
+  "date": "2026-04-19",
+  "items": [
+   {
+    "sku": "VR-122",
+    "qty": 12,
+    "unit_price_usd": 45
+   },
+   {
+    "sku": "VR-104",
+    "qty": 1,
+    "unit_price_usd": 62
+   },
+   {
+    "sku": "VR-121",
+    "qty": 12,
+    "unit_price_usd": 49
+   }
+  ],
+  "total_usd": 1190,
+  "status": "shipped",
+  "ship_to": "2135 Willowmere Rd, Petaluma, CA 94952"
+ },
+ {
+  "order_id": "VR-2025-5128",
+  "customer_id": "C-10012",
+  "date": "2025-11-01",
+  "items": [
+   {
+    "sku": "VR-107",
+    "qty": 1,
+    "unit_price_usd": 82
+   }
+  ],
+  "total_usd": 82,
+  "status": "delivered",
+  "ship_to": "4077 Foxglen Ave, San Diego, CA 92103"
+ },
+ {
+  "order_id": "VR-2026-5129",
+  "customer_id": "C-10038",
+  "date": "2026-06-28",
+  "items": [
+   {
+    "sku": "VR-113",
+    "qty": 3,
+    "unit_price_usd": 59
+   },
+   {
+    "sku": "VR-114",
+    "qty": 3,
+    "unit_price_usd": 55
+   },
+   {
+    "sku": "VR-123",
+    "qty": 1,
+    "unit_price_usd": 46
+   },
+   {
+    "sku": "VR-118",
+    "qty": 1,
+    "unit_price_usd": 28
+   }
+  ],
+  "total_usd": 416,
+  "status": "delivered",
+  "ship_to": "9288 Cellar Oak St, Napa, CA 94558"
+ },
+ {
+  "order_id": "VR-2026-5130",
+  "customer_id": "C-10135",
+  "date": "2026-04-11",
+  "items": [
+   {
+    "sku": "VR-121",
+    "qty": 3,
+    "unit_price_usd": 49
+   },
+   {
+    "sku": "VR-117",
+    "qty": 12,
+    "unit_price_usd": 32
+   }
+  ],
+  "total_usd": 531,
+  "status": "delivered",
+  "ship_to": "2376 Larkspur Hollow Ave, Santa Rosa, CA 95404"
+ },
+ {
+  "order_id": "VR-2026-5131",
+  "customer_id": "C-10100",
+  "date": "2026-05-18",
+  "items": [
+   {
+    "sku": "VR-121",
+    "qty": 1,
+    "unit_price_usd": 49
+   }
+  ],
+  "total_usd": 49,
+  "status": "delivered",
+  "ship_to": "5993 Willowmere Way, Sacramento, CA 95814"
+ },
+ {
+  "order_id": "VR-2025-5132",
+  "customer_id": "C-10054",
+  "date": "2025-09-12",
+  "items": [
+   {
+    "sku": "VR-107",
+    "qty": 1,
+    "unit_price_usd": 82
+   },
+   {
+    "sku": "VR-123",
+    "qty": 6,
+    "unit_price_usd": 46
+   },
+   {
+    "sku": "VR-111",
+    "qty": 2,
+    "unit_price_usd": 62
+   }
+  ],
+  "total_usd": 482,
+  "status": "delivered",
+  "ship_to": "4979 Foxglen Ct, Sacramento, CA 95814"
+ },
+ {
+  "order_id": "VR-2025-5133",
+  "customer_id": "C-10113",
+  "date": "2025-07-07",
+  "items": [
+   {
+    "sku": "VR-124",
+    "qty": 1,
+    "unit_price_usd": 42
+   }
+  ],
+  "total_usd": 42,
+  "status": "delivered",
+  "ship_to": "6400 Vinestone St, Berkeley, CA 94704"
+ },
+ {
+  "order_id": "VR-2025-5134",
+  "customer_id": "C-10097",
+  "date": "2025-06-18",
+  "items": [
+   {
+    "sku": "VR-103",
+    "qty": 2,
+    "unit_price_usd": 66
+   },
+   {
+    "sku": "VR-118",
+    "qty": 1,
+    "unit_price_usd": 28
+   },
+   {
+    "sku": "VR-122",
+    "qty": 1,
+    "unit_price_usd": 45
+   }
+  ],
+  "total_usd": 205,
+  "status": "delivered",
+  "ship_to": "219 Vinestone Ct, San Diego, CA 92103"
+ },
+ {
+  "order_id": "VR-2025-5135",
+  "customer_id": "C-10121",
+  "date": "2025-09-01",
+  "items": [
+   {
+    "sku": "VR-101",
+    "qty": 12,
+    "unit_price_usd": 42
+   },
+   {
+    "sku": "VR-102",
+    "qty": 1,
+    "unit_price_usd": 38
+   },
+   {
+    "sku": "VR-117",
+    "qty": 1,
+    "unit_price_usd": 32
+   },
+   {
+    "sku": "VR-107",
+    "qty": 12,
+    "unit_price_usd": 82
+   }
+  ],
+  "total_usd": 1558,
+  "status": "delivered",
+  "ship_to": "9204 Larkspur Hollow Rd, Petaluma, CA 94952"
+ },
+ {
+  "order_id": "VR-2025-5136",
+  "customer_id": "C-10123",
+  "date": "2025-07-04",
+  "items": [
+   {
+    "sku": "VR-122",
+    "qty": 6,
+    "unit_price_usd": 45
+   },
+   {
+    "sku": "VR-114",
+    "qty": 2,
+    "unit_price_usd": 55
+   },
+   {
+    "sku": "VR-124",
+    "qty": 1,
+    "unit_price_usd": 42
+   }
+  ],
+  "total_usd": 422,
+  "status": "delivered",
+  "ship_to": "6154 Willowmere Way, Sacramento, CA 95814"
+ },
+ {
+  "order_id": "VR-2025-5137",
+  "customer_id": "C-10100",
+  "date": "2025-08-09",
+  "items": [
+   {
+    "sku": "VR-102",
+    "qty": 1,
+    "unit_price_usd": 38
+   },
+   {
+    "sku": "VR-104",
+    "qty": 3,
+    "unit_price_usd": 62
+   }
+  ],
+  "total_usd": 224,
+  "status": "processing",
+  "ship_to": "5993 Willowmere Way, Sacramento, CA 95814"
+ },
+ {
+  "order_id": "VR-2026-5138",
+  "customer_id": "C-10130",
+  "date": "2026-08-24",
+  "items": [
+   {
+    "sku": "VR-120",
+    "qty": 12,
+    "unit_price_usd": 26
+   },
+   {
+    "sku": "VR-101",
+    "qty": 1,
+    "unit_price_usd": 42
+   },
+   {
+    "sku": "VR-103",
+    "qty": 12,
+    "unit_price_usd": 66
+   }
+  ],
+  "total_usd": 1146,
+  "status": "delivered",
+  "ship_to": "8499 Larkspur Hollow Rd, Santa Rosa, CA 95404"
+ },
+ {
+  "order_id": "VR-2025-5139",
+  "customer_id": "C-10112",
+  "date": "2025-10-26",
+  "items": [
+   {
+    "sku": "VR-124",
+    "qty": 12,
+    "unit_price_usd": 42
+   },
+   {
+    "sku": "VR-112",
+    "qty": 2,
+    "unit_price_usd": 58
+   }
+  ],
+  "total_usd": 620,
+  "status": "refunded",
+  "ship_to": "7652 Copperleaf Ave, San Francisco, CA 94110"
+ },
+ {
+  "order_id": "VR-2026-5140",
+  "customer_id": "C-10081",
+  "date": "2026-08-04",
+  "items": [
+   {
+    "sku": "VR-124",
+    "qty": 1,
+    "unit_price_usd": 42
+   },
+   {
+    "sku": "VR-104",
+    "qty": 1,
+    "unit_price_usd": 62
+   },
+   {
+    "sku": "VR-119",
+    "qty": 3,
+    "unit_price_usd": 30
+   }
+  ],
+  "total_usd": 194,
+  "status": "refunded",
+  "ship_to": "8524 Silvercask Ave, Sausalito, CA 94965"
+ },
+ {
+  "order_id": "VR-2025-5141",
+  "customer_id": "C-10091",
+  "date": "2025-12-27",
+  "items": [
+   {
+    "sku": "VR-123",
+    "qty": 6,
+    "unit_price_usd": 46
+   }
+  ],
+  "total_usd": 276,
+  "status": "delivered",
+  "ship_to": "4290 Cellar Oak Way, Santa Rosa, CA 95404"
+ },
+ {
+  "order_id": "VR-2026-5142",
+  "customer_id": "C-10044",
+  "date": "2026-02-27",
+  "items": [
+   {
+    "sku": "VR-123",
+    "qty": 1,
+    "unit_price_usd": 46
+   }
+  ],
+  "total_usd": 46,
+  "status": "delivered",
+  "ship_to": "122 Silvercask Rd, San Jose, CA 95112"
+ },
+ {
+  "order_id": "VR-2025-5143",
+  "customer_id": "C-10103",
+  "date": "2025-12-09",
+  "items": [
+   {
+    "sku": "VR-121",
+    "qty": 12,
+    "unit_price_usd": 49
+   },
+   {
+    "sku": "VR-108",
+    "qty": 12,
+    "unit_price_usd": 78
+   },
+   {
+    "sku": "VR-104",
+    "qty": 1,
+    "unit_price_usd": 62
+   }
+  ],
+  "total_usd": 1586,
+  "status": "delivered",
+  "ship_to": "7176 Quartzridge Way, San Francisco, CA 94110"
+ },
+ {
+  "order_id": "VR-2026-5144",
+  "customer_id": "C-10015",
+  "date": "2026-01-15",
+  "items": [
+   {
+    "sku": "VR-108",
+    "qty": 2,
+    "unit_price_usd": 78
+   }
+  ],
+  "total_usd": 156,
+  "status": "delivered",
+  "ship_to": "360 Copperleaf Ln, Santa Rosa, CA 95404"
+ },
+ {
+  "order_id": "VR-2026-5145",
+  "customer_id": "C-10028",
+  "date": "2026-08-23",
+  "items": [
+   {
+    "sku": "VR-119",
+    "qty": 6,
+    "unit_price_usd": 30
+   }
+  ],
+  "total_usd": 180,
+  "status": "processing",
+  "ship_to": "1031 Larkspur Hollow Ln, Sausalito, CA 94965"
+ },
+ {
+  "order_id": "VR-2025-5146",
+  "customer_id": "C-10137",
+  "date": "2025-09-27",
+  "items": [
+   {
+    "sku": "VR-112",
+    "qty": 3,
+    "unit_price_usd": 58
+   },
+   {
+    "sku": "VR-124",
+    "qty": 6,
+    "unit_price_usd": 42
+   },
+   {
+    "sku": "VR-123",
+    "qty": 1,
+    "unit_price_usd": 46
+   }
+  ],
+  "total_usd": 472,
+  "status": "delivered",
+  "ship_to": "3848 Harrow Bend Rd, Los Angeles, CA 90026"
+ },
+ {
+  "order_id": "VR-2025-5147",
+  "customer_id": "C-10037",
+  "date": "2025-06-02",
+  "items": [
+   {
+    "sku": "VR-117",
+    "qty": 12,
+    "unit_price_usd": 32
+   },
+   {
+    "sku": "VR-108",
+    "qty": 6,
+    "unit_price_usd": 78
+   },
+   {
+    "sku": "VR-112",
+    "qty": 6,
+    "unit_price_usd": 58
+   }
+  ],
+  "total_usd": 1200,
+  "status": "delivered",
+  "ship_to": "4399 Quartzridge Ct, Oakland, CA 94612"
+ },
+ {
+  "order_id": "VR-2025-5148",
+  "customer_id": "C-10134",
+  "date": "2025-12-09",
+  "items": [
+   {
+    "sku": "VR-122",
+    "qty": 6,
+    "unit_price_usd": 45
+   },
+   {
+    "sku": "VR-102",
+    "qty": 2,
+    "unit_price_usd": 38
+   },
+   {
+    "sku": "VR-105",
+    "qty": 1,
+    "unit_price_usd": 52
+   },
+   {
+    "sku": "VR-109",
+    "qty": 12,
+    "unit_price_usd": 40
+   }
+  ],
+  "total_usd": 878,
+  "status": "delivered",
+  "ship_to": "7686 Larkspur Hollow Ct, Los Angeles, CA 90026"
+ },
+ {
+  "order_id": "VR-2025-5149",
+  "customer_id": "C-10144",
+  "date": "2025-06-17",
+  "items": [
+   {
+    "sku": "VR-112",
+    "qty": 6,
+    "unit_price_usd": 58
+   },
+   {
+    "sku": "VR-118",
+    "qty": 12,
+    "unit_price_usd": 28
+   },
+   {
+    "sku": "VR-108",
+    "qty": 12,
+    "unit_price_usd": 78
+   }
+  ],
+  "total_usd": 1620,
+  "status": "delivered",
+  "ship_to": "7731 Stillwater Ave, Palo Alto, CA 94301"
+ },
+ {
+  "order_id": "VR-2025-5150",
+  "customer_id": "C-10032",
+  "date": "2025-10-03",
+  "items": [
+   {
+    "sku": "VR-102",
+    "qty": 2,
+    "unit_price_usd": 38
+   }
+  ],
+  "total_usd": 76,
+  "status": "delivered",
+  "ship_to": "6219 Stillwater Ln, Sausalito, CA 94965"
+ },
+ {
+  "order_id": "VR-2026-5151",
+  "customer_id": "C-10106",
+  "date": "2026-08-30",
+  "items": [
+   {
+    "sku": "VR-120",
+    "qty": 3,
+    "unit_price_usd": 26
+   },
+   {
+    "sku": "VR-111",
+    "qty": 2,
+    "unit_price_usd": 62
+   },
+   {
+    "sku": "VR-110",
+    "qty": 2,
+    "unit_price_usd": 36
+   }
+  ],
+  "total_usd": 274,
+  "status": "delivered",
+  "ship_to": "5229 Copperleaf Ave, Berkeley, CA 94704"
+ },
+ {
+  "order_id": "VR-2025-5152",
+  "customer_id": "C-10014",
+  "date": "2025-11-19",
+  "items": [
+   {
+    "sku": "VR-108",
+    "qty": 1,
+    "unit_price_usd": 78
+   },
+   {
+    "sku": "VR-124",
+    "qty": 3,
+    "unit_price_usd": 42
+   }
+  ],
+  "total_usd": 204,
+  "status": "delivered",
+  "ship_to": "56 Vinestone Rd, Napa, CA 94558"
+ },
+ {
+  "order_id": "VR-2026-5153",
+  "customer_id": "C-10041",
+  "date": "2026-09-17",
+  "items": [
+   {
+    "sku": "VR-109",
+    "qty": 2,
+    "unit_price_usd": 40
+   },
+   {
+    "sku": "VR-107",
+    "qty": 2,
+    "unit_price_usd": 82
+   },
+   {
+    "sku": "VR-106",
+    "qty": 3,
+    "unit_price_usd": 48
+   }
+  ],
+  "total_usd": 388,
+  "status": "delivered",
+  "ship_to": "3510 Willowmere Ln, San Jose, CA 95112"
+ },
+ {
+  "order_id": "VR-2025-5154",
+  "customer_id": "C-10025",
+  "date": "2025-07-31",
+  "items": [
+   {
+    "sku": "VR-122",
+    "qty": 1,
+    "unit_price_usd": 45
+   },
+   {
+    "sku": "VR-111",
+    "qty": 2,
+    "unit_price_usd": 62
+   },
+   {
+    "sku": "VR-102",
+    "qty": 6,
+    "unit_price_usd": 38
+   }
+  ],
+  "total_usd": 397,
+  "status": "delivered",
+  "ship_to": "8386 Foxglen St, Palo Alto, CA 94301"
+ },
+ {
+  "order_id": "VR-2025-5155",
+  "customer_id": "C-10031",
+  "date": "2025-08-09",
+  "items": [
+   {
+    "sku": "VR-124",
+    "qty": 1,
+    "unit_price_usd": 42
+   },
+   {
+    "sku": "VR-120",
+    "qty": 1,
+    "unit_price_usd": 26
+   },
+   {
+    "sku": "VR-113",
+    "qty": 2,
+    "unit_price_usd": 59
+   },
+   {
+    "sku": "VR-119",
+    "qty": 2,
+    "unit_price_usd": 30
+   }
+  ],
+  "total_usd": 246,
+  "status": "delivered",
+  "ship_to": "1858 Stillwater Ave, Sonoma, CA 95476"
+ },
+ {
+  "order_id": "VR-2025-5156",
+  "customer_id": "C-10032",
+  "date": "2025-06-03",
+  "items": [
+   {
+    "sku": "VR-114",
+    "qty": 6,
+    "unit_price_usd": 55
+   },
+   {
+    "sku": "VR-110",
+    "qty": 6,
+    "unit_price_usd": 36
+   },
+   {
+    "sku": "VR-104",
+    "qty": 3,
+    "unit_price_usd": 62
+   },
+   {
+    "sku": "VR-107",
+    "qty": 2,
+    "unit_price_usd": 82
+   }
+  ],
+  "total_usd": 896,
+  "status": "processing",
+  "ship_to": "6219 Stillwater Ln, Sausalito, CA 94965"
+ },
+ {
+  "order_id": "VR-2025-5157",
+  "customer_id": "C-10085",
+  "date": "2025-11-16",
+  "items": [
+   {
+    "sku": "VR-113",
+    "qty": 12,
+    "unit_price_usd": 59
+   },
+   {
+    "sku": "VR-101",
+    "qty": 3,
+    "unit_price_usd": 42
+   },
+   {
+    "sku": "VR-110",
+    "qty": 1,
+    "unit_price_usd": 36
+   },
+   {
+    "sku": "VR-109",
+    "qty": 1,
+    "unit_price_usd": 40
+   }
+  ],
+  "total_usd": 910,
+  "status": "delivered",
+  "ship_to": "9219 Foxglen Rd, Santa Rosa, CA 95404"
+ },
+ {
+  "order_id": "VR-2026-5158",
+  "customer_id": "C-10074",
+  "date": "2026-07-05",
+  "items": [
+   {
+    "sku": "VR-112",
+    "qty": 1,
+    "unit_price_usd": 58
+   }
+  ],
+  "total_usd": 58,
+  "status": "delivered",
+  "ship_to": "1032 Larkspur Hollow Way, San Francisco, CA 94110"
+ },
+ {
+  "order_id": "VR-2026-5159",
+  "customer_id": "C-10124",
+  "date": "2026-03-02",
+  "items": [
+   {
+    "sku": "VR-123",
+    "qty": 1,
+    "unit_price_usd": 46
+   },
+   {
+    "sku": "VR-106",
+    "qty": 1,
+    "unit_price_usd": 48
+   },
+   {
+    "sku": "VR-122",
+    "qty": 3,
+    "unit_price_usd": 45
+   },
+   {
+    "sku": "VR-102",
+    "qty": 3,
+    "unit_price_usd": 38
+   }
+  ],
+  "total_usd": 343,
+  "status": "delivered",
+  "ship_to": "2635 Larkspur Hollow Rd, San Francisco, CA 94110"
+ },
+ {
+  "order_id": "VR-2026-5160",
+  "customer_id": "C-10035",
+  "date": "2026-04-13",
+  "items": [
+   {
+    "sku": "VR-105",
+    "qty": 12,
+    "unit_price_usd": 52
+   }
+  ],
+  "total_usd": 624,
+  "status": "delivered",
+  "ship_to": "7020 Quartzridge Ln, Sacramento, CA 95814"
+ },
+ {
+  "order_id": "VR-2025-5161",
+  "customer_id": "C-10036",
+  "date": "2025-09-17",
+  "items": [
+   {
+    "sku": "VR-122",
+    "qty": 1,
+    "unit_price_usd": 45
+   },
+   {
+    "sku": "VR-115",
+    "qty": 2,
+    "unit_price_usd": 99
+   },
+   {
+    "sku": "VR-101",
+    "qty": 2,
+    "unit_price_usd": 42
+   }
+  ],
+  "total_usd": 327,
+  "status": "delivered",
+  "ship_to": "1643 Cellar Oak St, Pasadena, CA 91101"
+ },
+ {
+  "order_id": "VR-2026-5162",
+  "customer_id": "C-10010",
+  "date": "2026-03-21",
+  "items": [
+   {
+    "sku": "VR-103",
+    "qty": 12,
+    "unit_price_usd": 66
+   },
+   {
+    "sku": "VR-112",
+    "qty": 12,
+    "unit_price_usd": 58
+   }
+  ],
+  "total_usd": 1488,
+  "status": "processing",
+  "ship_to": "556 Silvercask Ave, Palo Alto, CA 94301"
+ },
+ {
+  "order_id": "VR-2026-5163",
+  "customer_id": "C-10119",
+  "date": "2026-03-17",
+  "items": [
+   {
+    "sku": "VR-113",
+    "qty": 1,
+    "unit_price_usd": 59
+   }
+  ],
+  "total_usd": 59,
+  "status": "delivered",
+  "ship_to": "2553 Stillwater Ct, San Francisco, CA 94110"
+ },
+ {
+  "order_id": "VR-2026-5164",
+  "customer_id": "C-10099",
+  "date": "2026-03-09",
+  "items": [
+   {
+    "sku": "VR-113",
+    "qty": 6,
+    "unit_price_usd": 59
+   },
+   {
+    "sku": "VR-112",
+    "qty": 2,
+    "unit_price_usd": 58
+   },
+   {
+    "sku": "VR-114",
+    "qty": 1,
+    "unit_price_usd": 55
+   }
+  ],
+  "total_usd": 525,
+  "status": "delivered",
+  "ship_to": "7995 Foxglen St, Sonoma, CA 95476"
+ },
+ {
+  "order_id": "VR-2026-5165",
+  "customer_id": "C-10064",
+  "date": "2026-06-16",
+  "items": [
+   {
+    "sku": "VR-123",
+    "qty": 3,
+    "unit_price_usd": 46
+   },
+   {
+    "sku": "VR-103",
+    "qty": 3,
+    "unit_price_usd": 66
+   },
+   {
+    "sku": "VR-120",
+    "qty": 1,
+    "unit_price_usd": 26
+   }
+  ],
+  "total_usd": 362,
+  "status": "delivered",
+  "ship_to": "50 Harrow Bend Ave, San Francisco, CA 94110"
+ },
+ {
+  "order_id": "VR-2025-5166",
+  "customer_id": "C-10141",
+  "date": "2025-07-12",
+  "items": [
+   {
+    "sku": "VR-116",
+    "qty": 12,
+    "unit_price_usd": 95
+   },
+   {
+    "sku": "VR-113",
+    "qty": 6,
+    "unit_price_usd": 59
+   }
+  ],
+  "total_usd": 1494,
+  "status": "delivered",
+  "ship_to": "2403 Copperleaf St, Sonoma, CA 95476"
+ },
+ {
+  "order_id": "VR-2025-5167",
+  "customer_id": "C-10123",
+  "date": "2025-11-25",
+  "items": [
+   {
+    "sku": "VR-113",
+    "qty": 3,
+    "unit_price_usd": 59
+   },
+   {
+    "sku": "VR-115",
+    "qty": 1,
+    "unit_price_usd": 99
+   },
+   {
+    "sku": "VR-120",
+    "qty": 2,
+    "unit_price_usd": 26
+   }
+  ],
+  "total_usd": 328,
+  "status": "delivered",
+  "ship_to": "6154 Willowmere Way, Sacramento, CA 95814"
+ },
+ {
+  "order_id": "VR-2025-5168",
+  "customer_id": "C-10013",
+  "date": "2025-06-12",
+  "items": [
+   {
+    "sku": "VR-120",
+    "qty": 12,
+    "unit_price_usd": 26
+   },
+   {
+    "sku": "VR-121",
+    "qty": 12,
+    "unit_price_usd": 49
+   },
+   {
+    "sku": "VR-119",
+    "qty": 3,
+    "unit_price_usd": 30
+   },
+   {
+    "sku": "VR-116",
+    "qty": 2,
+    "unit_price_usd": 95
+   }
+  ],
+  "total_usd": 1180,
+  "status": "processing",
+  "ship_to": "6620 Foxglen Rd, Sausalito, CA 94965"
+ },
+ {
+  "order_id": "VR-2025-5169",
+  "customer_id": "C-10032",
+  "date": "2025-08-08",
+  "items": [
+   {
+    "sku": "VR-121",
+    "qty": 2,
+    "unit_price_usd": 49
+   },
+   {
+    "sku": "VR-117",
+    "qty": 12,
+    "unit_price_usd": 32
+   },
+   {
+    "sku": "VR-107",
+    "qty": 1,
+    "unit_price_usd": 82
+   }
+  ],
+  "total_usd": 564,
+  "status": "delivered",
+  "ship_to": "6219 Stillwater Ln, Sausalito, CA 94965"
+ },
+ {
+  "order_id": "VR-2026-5170",
+  "customer_id": "C-10141",
+  "date": "2026-02-05",
+  "items": [
+   {
+    "sku": "VR-103",
+    "qty": 12,
+    "unit_price_usd": 66
+   },
+   {
+    "sku": "VR-114",
+    "qty": 1,
+    "unit_price_usd": 55
+   },
+   {
+    "sku": "VR-104",
+    "qty": 6,
+    "unit_price_usd": 62
+   }
+  ],
+  "total_usd": 1219,
+  "status": "delivered",
+  "ship_to": "2403 Copperleaf St, Sonoma, CA 95476"
+ },
+ {
+  "order_id": "VR-2025-5171",
+  "customer_id": "C-10057",
+  "date": "2025-05-03",
+  "items": [
+   {
+    "sku": "VR-112",
+    "qty": 3,
+    "unit_price_usd": 58
+   }
+  ],
+  "total_usd": 174,
+  "status": "refunded",
+  "ship_to": "4394 Copperleaf St, Oakland, CA 94612"
+ },
+ {
+  "order_id": "VR-2025-5172",
+  "customer_id": "C-10049",
+  "date": "2025-05-26",
+  "items": [
+   {
+    "sku": "VR-124",
+    "qty": 12,
+    "unit_price_usd": 42
+   },
+   {
+    "sku": "VR-117",
+    "qty": 2,
+    "unit_price_usd": 32
+   }
+  ],
+  "total_usd": 568,
+  "status": "delivered",
+  "ship_to": "2426 Larkspur Hollow Ave, Santa Rosa, CA 95404"
+ },
+ {
+  "order_id": "VR-2025-5173",
+  "customer_id": "C-10128",
+  "date": "2025-12-12",
+  "items": [
+   {
+    "sku": "VR-114",
+    "qty": 1,
+    "unit_price_usd": 55
+   }
+  ],
+  "total_usd": 55,
+  "status": "delivered",
+  "ship_to": "6141 Foxglen Ct, Berkeley, CA 94704"
+ },
+ {
+  "order_id": "VR-2026-5174",
+  "customer_id": "C-10125",
+  "date": "2026-06-29",
+  "items": [
+   {
+    "sku": "VR-103",
+    "qty": 12,
+    "unit_price_usd": 66
+   },
+   {
+    "sku": "VR-112",
+    "qty": 12,
+    "unit_price_usd": 58
+   },
+   {
+    "sku": "VR-108",
+    "qty": 12,
+    "unit_price_usd": 78
+   }
+  ],
+  "total_usd": 2424,
+  "status": "processing",
+  "ship_to": "961 Silvercask St, Pasadena, CA 91101"
+ },
+ {
+  "order_id": "VR-2026-5175",
+  "customer_id": "C-10100",
+  "date": "2026-04-14",
+  "items": [
+   {
+    "sku": "VR-108",
+    "qty": 1,
+    "unit_price_usd": 78
+   },
+   {
+    "sku": "VR-124",
+    "qty": 1,
+    "unit_price_usd": 42
+   },
+   {
+    "sku": "VR-104",
+    "qty": 3,
+    "unit_price_usd": 62
+   },
+   {
+    "sku": "VR-102",
+    "qty": 6,
+    "unit_price_usd": 38
+   }
+  ],
+  "total_usd": 534,
+  "status": "delivered",
+  "ship_to": "5993 Willowmere Way, Sacramento, CA 95814"
+ },
+ {
+  "order_id": "VR-2026-5176",
+  "customer_id": "C-10066",
+  "date": "2026-02-03",
+  "items": [
+   {
+    "sku": "VR-115",
+    "qty": 1,
+    "unit_price_usd": 99
+   },
+   {
+    "sku": "VR-108",
+    "qty": 1,
+    "unit_price_usd": 78
+   }
+  ],
+  "total_usd": 177,
+  "status": "delivered",
+  "ship_to": "5831 Vinestone Ct, San Jose, CA 95112"
+ },
+ {
+  "order_id": "VR-2026-5177",
+  "customer_id": "C-10028",
+  "date": "2026-07-27",
+  "items": [
+   {
+    "sku": "VR-109",
+    "qty": 6,
+    "unit_price_usd": 40
+   }
+  ],
+  "total_usd": 240,
+  "status": "shipped",
+  "ship_to": "1031 Larkspur Hollow Ln, Sausalito, CA 94965"
+ },
+ {
+  "order_id": "VR-2026-5178",
+  "customer_id": "C-10043",
+  "date": "2026-05-02",
+  "items": [
+   {
+    "sku": "VR-110",
+    "qty": 12,
+    "unit_price_usd": 36
+   },
+   {
+    "sku": "VR-108",
+    "qty": 1,
+    "unit_price_usd": 78
+   },
+   {
+    "sku": "VR-120",
+    "qty": 2,
+    "unit_price_usd": 26
+   },
+   {
+    "sku": "VR-104",
+    "qty": 1,
+    "unit_price_usd": 62
+   }
+  ],
+  "total_usd": 624,
+  "status": "processing",
+  "ship_to": "3334 Vinestone Ave, Sausalito, CA 94965"
+ },
+ {
+  "order_id": "VR-2026-5179",
+  "customer_id": "C-10148",
+  "date": "2026-02-09",
+  "items": [
+   {
+    "sku": "VR-107",
+    "qty": 3,
+    "unit_price_usd": 82
+   },
+   {
+    "sku": "VR-123",
+    "qty": 3,
+    "unit_price_usd": 46
+   }
+  ],
+  "total_usd": 384,
+  "status": "delivered",
+  "ship_to": "9878 Silvercask Rd, Palo Alto, CA 94301"
+ },
+ {
+  "order_id": "VR-2026-5180",
+  "customer_id": "C-10032",
+  "date": "2026-05-02",
+  "items": [
+   {
+    "sku": "VR-101",
+    "qty": 2,
+    "unit_price_usd": 42
+   },
+   {
+    "sku": "VR-104",
+    "qty": 3,
+    "unit_price_usd": 62
+   }
+  ],
+  "total_usd": 270,
+  "status": "delivered",
+  "ship_to": "6219 Stillwater Ln, Sausalito, CA 94965"
+ },
+ {
+  "order_id": "VR-2026-5181",
+  "customer_id": "C-10122",
+  "date": "2026-07-17",
+  "items": [
+   {
+    "sku": "VR-103",
+    "qty": 3,
+    "unit_price_usd": 66
+   }
+  ],
+  "total_usd": 198,
+  "status": "delivered",
+  "ship_to": "4850 Copperleaf Ct, Oakland, CA 94612"
+ },
+ {
+  "order_id": "VR-2025-5182",
+  "customer_id": "C-10073",
+  "date": "2025-08-13",
+  "items": [
+   {
+    "sku": "VR-116",
+    "qty": 1,
+    "unit_price_usd": 95
+   },
+   {
+    "sku": "VR-117",
+    "qty": 1,
+    "unit_price_usd": 32
+   }
+  ],
+  "total_usd": 127,
+  "status": "delivered",
+  "ship_to": "9633 Copperleaf Ln, Santa Rosa, CA 95404"
+ },
+ {
+  "order_id": "VR-2025-5183",
+  "customer_id": "C-10141",
+  "date": "2025-08-08",
+  "items": [
+   {
+    "sku": "VR-118",
+    "qty": 3,
+    "unit_price_usd": 28
+   },
+   {
+    "sku": "VR-107",
+    "qty": 2,
+    "unit_price_usd": 82
+   },
+   {
+    "sku": "VR-113",
+    "qty": 6,
+    "unit_price_usd": 59
+   }
+  ],
+  "total_usd": 602,
+  "status": "delivered",
+  "ship_to": "2403 Copperleaf St, Sonoma, CA 95476"
+ },
+ {
+  "order_id": "VR-2025-5184",
+  "customer_id": "C-10114",
+  "date": "2025-05-19",
+  "items": [
+   {
+    "sku": "VR-118",
+    "qty": 1,
+    "unit_price_usd": 28
+   }
+  ],
+  "total_usd": 28,
+  "status": "delivered",
+  "ship_to": "6304 Amberfield Ct, Napa, CA 94558"
+ },
+ {
+  "order_id": "VR-2025-5185",
+  "customer_id": "C-10142",
+  "date": "2025-05-19",
+  "items": [
+   {
+    "sku": "VR-110",
+    "qty": 3,
+    "unit_price_usd": 36
+   },
+   {
+    "sku": "VR-102",
+    "qty": 3,
+    "unit_price_usd": 38
+   }
+  ],
+  "total_usd": 222,
+  "status": "refunded",
+  "ship_to": "6697 Silvercask Ln, San Jose, CA 95112"
+ },
+ {
+  "order_id": "VR-2026-5186",
+  "customer_id": "C-10125",
+  "date": "2026-01-02",
+  "items": [
+   {
+    "sku": "VR-103",
+    "qty": 1,
+    "unit_price_usd": 66
+   },
+   {
+    "sku": "VR-113",
+    "qty": 12,
+    "unit_price_usd": 59
+   },
+   {
+    "sku": "VR-107",
+    "qty": 2,
+    "unit_price_usd": 82
+   },
+   {
+    "sku": "VR-110",
+    "qty": 1,
+    "unit_price_usd": 36
+   }
+  ],
+  "total_usd": 974,
+  "status": "delivered",
+  "ship_to": "961 Silvercask St, Pasadena, CA 91101"
+ },
+ {
+  "order_id": "VR-2025-5187",
+  "customer_id": "C-10103",
+  "date": "2025-09-29",
+  "items": [
+   {
+    "sku": "VR-107",
+    "qty": 1,
+    "unit_price_usd": 82
+   }
+  ],
+  "total_usd": 82,
+  "status": "shipped",
+  "ship_to": "7176 Quartzridge Way, San Francisco, CA 94110"
+ },
+ {
+  "order_id": "VR-2026-5188",
+  "customer_id": "C-10076",
+  "date": "2026-04-01",
+  "items": [
+   {
+    "sku": "VR-103",
+    "qty": 6,
+    "unit_price_usd": 66
+   },
+   {
+    "sku": "VR-119",
+    "qty": 1,
+    "unit_price_usd": 30
+   },
+   {
+    "sku": "VR-124",
+    "qty": 12,
+    "unit_price_usd": 42
+   }
+  ],
+  "total_usd": 930,
+  "status": "delivered",
+  "ship_to": "6124 Bramblewood Ct, Palo Alto, CA 94301"
+ },
+ {
+  "order_id": "VR-2025-5189",
+  "customer_id": "C-10094",
+  "date": "2025-08-22",
+  "items": [
+   {
+    "sku": "VR-114",
+    "qty": 2,
+    "unit_price_usd": 55
+   },
+   {
+    "sku": "VR-106",
+    "qty": 12,
+    "unit_price_usd": 48
+   }
+  ],
+  "total_usd": 686,
+  "status": "delivered",
+  "ship_to": "3420 Cellar Oak Ave, Santa Rosa, CA 95404"
+ },
+ {
+  "order_id": "VR-2026-5190",
+  "customer_id": "C-10145",
+  "date": "2026-03-12",
+  "items": [
+   {
+    "sku": "VR-114",
+    "qty": 2,
+    "unit_price_usd": 55
+   }
+  ],
+  "total_usd": 110,
+  "status": "processing",
+  "ship_to": "4421 Stillwater St, San Jose, CA 95112"
+ },
+ {
+  "order_id": "VR-2026-5191",
+  "customer_id": "C-10063",
+  "date": "2026-02-03",
+  "items": [
+   {
+    "sku": "VR-114",
+    "qty": 1,
+    "unit_price_usd": 55
+   },
+   {
+    "sku": "VR-105",
+    "qty": 1,
+    "unit_price_usd": 52
+   },
+   {
+    "sku": "VR-124",
+    "qty": 2,
+    "unit_price_usd": 42
+   }
+  ],
+  "total_usd": 191,
+  "status": "shipped",
+  "ship_to": "6652 Vinestone Ave, Petaluma, CA 94952"
+ },
+ {
+  "order_id": "VR-2026-5192",
+  "customer_id": "C-10018",
+  "date": "2026-03-28",
+  "items": [
+   {
+    "sku": "VR-116",
+    "qty": 6,
+    "unit_price_usd": 95
+   }
+  ],
+  "total_usd": 570,
+  "status": "refunded",
+  "ship_to": "8229 Bramblewood Ave, San Diego, CA 92103"
+ },
+ {
+  "order_id": "VR-2025-5193",
+  "customer_id": "C-10024",
+  "date": "2025-06-16",
+  "items": [
+   {
+    "sku": "VR-112",
+    "qty": 12,
+    "unit_price_usd": 58
+   },
+   {
+    "sku": "VR-104",
+    "qty": 1,
+    "unit_price_usd": 62
+   },
+   {
+    "sku": "VR-116",
+    "qty": 1,
+    "unit_price_usd": 95
+   },
+   {
+    "sku": "VR-115",
+    "qty": 12,
+    "unit_price_usd": 99
+   }
+  ],
+  "total_usd": 2041,
+  "status": "delivered",
+  "ship_to": "6489 Amberfield Ct, Fresno, CA 93721"
+ },
+ {
+  "order_id": "VR-2025-5194",
+  "customer_id": "C-10048",
+  "date": "2025-06-18",
+  "items": [
+   {
+    "sku": "VR-123",
+    "qty": 6,
+    "unit_price_usd": 46
+   },
+   {
+    "sku": "VR-121",
+    "qty": 3,
+    "unit_price_usd": 49
+   },
+   {
+    "sku": "VR-115",
+    "qty": 1,
+    "unit_price_usd": 99
+   }
+  ],
+  "total_usd": 522,
+  "status": "delivered",
+  "ship_to": "2830 Harrow Bend Ct, Oakland, CA 94612"
+ },
+ {
+  "order_id": "VR-2025-5195",
+  "customer_id": "C-10124",
+  "date": "2025-08-21",
+  "items": [
+   {
+    "sku": "VR-110",
+    "qty": 3,
+    "unit_price_usd": 36
+   },
+   {
+    "sku": "VR-120",
+    "qty": 1,
+    "unit_price_usd": 26
+   },
+   {
+    "sku": "VR-105",
+    "qty": 1,
+    "unit_price_usd": 52
+   },
+   {
+    "sku": "VR-119",
+    "qty": 1,
+    "unit_price_usd": 30
+   }
+  ],
+  "total_usd": 216,
+  "status": "delivered",
+  "ship_to": "2635 Larkspur Hollow Rd, San Francisco, CA 94110"
+ },
+ {
+  "order_id": "VR-2026-5196",
+  "customer_id": "C-10027",
+  "date": "2026-02-19",
+  "items": [
+   {
+    "sku": "VR-122",
+    "qty": 2,
+    "unit_price_usd": 45
+   },
+   {
+    "sku": "VR-116",
+    "qty": 1,
+    "unit_price_usd": 95
+   },
+   {
+    "sku": "VR-111",
+    "qty": 6,
+    "unit_price_usd": 62
+   },
+   {
+    "sku": "VR-103",
+    "qty": 2,
+    "unit_price_usd": 66
+   }
+  ],
+  "total_usd": 689,
+  "status": "delivered",
+  "ship_to": "4344 Bramblewood Rd, Berkeley, CA 94704"
+ },
+ {
+  "order_id": "VR-2026-5197",
+  "customer_id": "C-10092",
+  "date": "2026-05-31",
+  "items": [
+   {
+    "sku": "VR-116",
+    "qty": 3,
+    "unit_price_usd": 95
+   },
+   {
+    "sku": "VR-115",
+    "qty": 12,
+    "unit_price_usd": 99
+   }
+  ],
+  "total_usd": 1473,
+  "status": "processing",
+  "ship_to": "776 Silvercask Rd, San Diego, CA 92103"
+ },
+ {
+  "order_id": "VR-2026-5198",
+  "customer_id": "C-10012",
+  "date": "2026-05-20",
+  "items": [
+   {
+    "sku": "VR-121",
+    "qty": 1,
+    "unit_price_usd": 49
+   },
+   {
+    "sku": "VR-110",
+    "qty": 3,
+    "unit_price_usd": 36
+   },
+   {
+    "sku": "VR-104",
+    "qty": 2,
+    "unit_price_usd": 62
+   }
+  ],
+  "total_usd": 281,
+  "status": "delivered",
+  "ship_to": "4077 Foxglen Ave, San Diego, CA 92103"
+ },
+ {
+  "order_id": "VR-2026-5199",
+  "customer_id": "C-10005",
+  "date": "2026-07-31",
+  "items": [
+   {
+    "sku": "VR-115",
+    "qty": 12,
+    "unit_price_usd": 99
+   }
+  ],
+  "total_usd": 1188,
+  "status": "delivered",
+  "ship_to": "8130 Bramblewood Rd, Pasadena, CA 91101"
+ },
+ {
+  "order_id": "VR-2026-5200",
+  "customer_id": "C-10090",
+  "date": "2026-01-29",
+  "items": [
+   {
+    "sku": "VR-119",
+    "qty": 1,
+    "unit_price_usd": 30
+   },
+   {
+    "sku": "VR-121",
+    "qty": 12,
+    "unit_price_usd": 49
+   },
+   {
+    "sku": "VR-112",
+    "qty": 6,
+    "unit_price_usd": 58
+   },
+   {
+    "sku": "VR-110",
+    "qty": 1,
+    "unit_price_usd": 36
+   }
+  ],
+  "total_usd": 1002,
+  "status": "delivered",
+  "ship_to": "6722 Stillwater Way, San Diego, CA 92103"
+ },
+ {
+  "order_id": "VR-2026-5201",
+  "customer_id": "C-10030",
+  "date": "2026-01-09",
+  "items": [
+   {
+    "sku": "VR-120",
+    "qty": 1,
+    "unit_price_usd": 26
+   },
+   {
+    "sku": "VR-124",
+    "qty": 3,
+    "unit_price_usd": 42
+   }
+  ],
+  "total_usd": 152,
+  "status": "delivered",
+  "ship_to": "3333 Quartzridge Rd, San Jose, CA 95112"
+ },
+ {
+  "order_id": "VR-2026-5202",
+  "customer_id": "C-10123",
+  "date": "2026-09-19",
+  "items": [
+   {
+    "sku": "VR-115",
+    "qty": 6,
+    "unit_price_usd": 99
+   },
+   {
+    "sku": "VR-121",
+    "qty": 6,
+    "unit_price_usd": 49
+   },
+   {
+    "sku": "VR-112",
+    "qty": 12,
+    "unit_price_usd": 58
+   }
+  ],
+  "total_usd": 1584,
+  "status": "delivered",
+  "ship_to": "6154 Willowmere Way, Sacramento, CA 95814"
+ },
+ {
+  "order_id": "VR-2026-5203",
+  "customer_id": "C-10026",
+  "date": "2026-01-23",
+  "items": [
+   {
+    "sku": "VR-104",
+    "qty": 6,
+    "unit_price_usd": 62
+   },
+   {
+    "sku": "VR-109",
+    "qty": 6,
+    "unit_price_usd": 40
+   }
+  ],
+  "total_usd": 612,
+  "status": "processing",
+  "ship_to": "9485 Amberfield St, Healdsburg, CA 95448"
+ },
+ {
+  "order_id": "VR-2025-5204",
+  "customer_id": "C-10063",
+  "date": "2025-09-05",
+  "items": [
+   {
+    "sku": "VR-111",
+    "qty": 12,
+    "unit_price_usd": 62
+   },
+   {
+    "sku": "VR-114",
+    "qty": 3,
+    "unit_price_usd": 55
+   },
+   {
+    "sku": "VR-119",
+    "qty": 6,
+    "unit_price_usd": 30
+   }
+  ],
+  "total_usd": 1089,
+  "status": "refunded",
+  "ship_to": "6652 Vinestone Ave, Petaluma, CA 94952"
+ },
+ {
+  "order_id": "VR-2025-5205",
+  "customer_id": "C-10063",
+  "date": "2025-04-28",
+  "items": [
+   {
+    "sku": "VR-115",
+    "qty": 3,
+    "unit_price_usd": 99
+   },
+   {
+    "sku": "VR-111",
+    "qty": 6,
+    "unit_price_usd": 62
+   }
+  ],
+  "total_usd": 669,
+  "status": "delivered",
+  "ship_to": "6652 Vinestone Ave, Petaluma, CA 94952"
+ },
+ {
+  "order_id": "VR-2025-5206",
+  "customer_id": "C-10044",
+  "date": "2025-11-02",
+  "items": [
+   {
+    "sku": "VR-124",
+    "qty": 12,
+    "unit_price_usd": 42
+   },
+   {
+    "sku": "VR-111",
+    "qty": 2,
+    "unit_price_usd": 62
+   },
+   {
+    "sku": "VR-114",
+    "qty": 1,
+    "unit_price_usd": 55
+   }
+  ],
+  "total_usd": 683,
+  "status": "delivered",
+  "ship_to": "122 Silvercask Rd, San Jose, CA 95112"
+ },
+ {
+  "order_id": "VR-2025-5207",
+  "customer_id": "C-10027",
+  "date": "2025-12-31",
+  "items": [
+   {
+    "sku": "VR-115",
+    "qty": 12,
+    "unit_price_usd": 99
+   },
+   {
+    "sku": "VR-105",
+    "qty": 1,
+    "unit_price_usd": 52
+   }
+  ],
+  "total_usd": 1240,
+  "status": "delivered",
+  "ship_to": "4344 Bramblewood Rd, Berkeley, CA 94704"
+ },
+ {
+  "order_id": "VR-2026-5208",
+  "customer_id": "C-10117",
+  "date": "2026-05-24",
+  "items": [
+   {
+    "sku": "VR-106",
+    "qty": 2,
+    "unit_price_usd": 48
+   },
+   {
+    "sku": "VR-104",
+    "qty": 3,
+    "unit_price_usd": 62
+   },
+   {
+    "sku": "VR-113",
+    "qty": 6,
+    "unit_price_usd": 59
+   }
+  ],
+  "total_usd": 636,
+  "status": "delivered",
+  "ship_to": "885 Quartzridge Way, Napa, CA 94558"
+ },
+ {
+  "order_id": "VR-2025-5209",
+  "customer_id": "C-10141",
+  "date": "2025-09-28",
+  "items": [
+   {
+    "sku": "VR-113",
+    "qty": 1,
+    "unit_price_usd": 59
+   }
+  ],
+  "total_usd": 59,
+  "status": "refunded",
+  "ship_to": "2403 Copperleaf St, Sonoma, CA 95476"
+ },
+ {
+  "order_id": "VR-2025-5210",
+  "customer_id": "C-10079",
+  "date": "2025-11-29",
+  "items": [
+   {
+    "sku": "VR-119",
+    "qty": 12,
+    "unit_price_usd": 30
+   },
+   {
+    "sku": "VR-102",
+    "qty": 12,
+    "unit_price_usd": 38
+   }
+  ],
+  "total_usd": 816,
+  "status": "delivered",
+  "ship_to": "4779 Vinestone Ct, Los Angeles, CA 90026"
+ },
+ {
+  "order_id": "VR-2026-5211",
+  "customer_id": "C-10135",
+  "date": "2026-06-07",
+  "items": [
+   {
+    "sku": "VR-115",
+    "qty": 1,
+    "unit_price_usd": 99
+   },
+   {
+    "sku": "VR-107",
+    "qty": 2,
+    "unit_price_usd": 82
+   }
+  ],
+  "total_usd": 263,
+  "status": "refunded",
+  "ship_to": "2376 Larkspur Hollow Ave, Santa Rosa, CA 95404"
+ },
+ {
+  "order_id": "VR-2026-5212",
+  "customer_id": "C-10025",
+  "date": "2026-06-13",
+  "items": [
+   {
+    "sku": "VR-105",
+    "qty": 1,
+    "unit_price_usd": 52
+   },
+   {
+    "sku": "VR-111",
+    "qty": 1,
+    "unit_price_usd": 62
+   },
+   {
+    "sku": "VR-109",
+    "qty": 6,
+    "unit_price_usd": 40
+   }
+  ],
+  "total_usd": 354,
+  "status": "refunded",
+  "ship_to": "8386 Foxglen St, Palo Alto, CA 94301"
+ },
+ {
+  "order_id": "VR-2025-5213",
+  "customer_id": "C-10091",
+  "date": "2025-05-04",
+  "items": [
+   {
+    "sku": "VR-120",
+    "qty": 1,
+    "unit_price_usd": 26
+   },
+   {
+    "sku": "VR-108",
+    "qty": 1,
+    "unit_price_usd": 78
+   },
+   {
+    "sku": "VR-103",
+    "qty": 2,
+    "unit_price_usd": 66
+   },
+   {
+    "sku": "VR-119",
+    "qty": 1,
+    "unit_price_usd": 30
+   }
+  ],
+  "total_usd": 266,
+  "status": "refunded",
+  "ship_to": "4290 Cellar Oak Way, Santa Rosa, CA 95404"
+ },
+ {
+  "order_id": "VR-2025-5214",
+  "customer_id": "C-10043",
+  "date": "2025-09-05",
+  "items": [
+   {
+    "sku": "VR-109",
+    "qty": 12,
+    "unit_price_usd": 40
+   }
+  ],
+  "total_usd": 480,
+  "status": "delivered",
+  "ship_to": "3334 Vinestone Ave, Sausalito, CA 94965"
+ },
+ {
+  "order_id": "VR-2025-5215",
+  "customer_id": "C-10003",
+  "date": "2025-09-05",
+  "items": [
+   {
+    "sku": "VR-123",
+    "qty": 1,
+    "unit_price_usd": 46
+   },
+   {
+    "sku": "VR-109",
+    "qty": 12,
+    "unit_price_usd": 40
+   }
+  ],
+  "total_usd": 526,
+  "status": "processing",
+  "ship_to": "5686 Copperleaf Way, Berkeley, CA 94704"
+ },
+ {
+  "order_id": "VR-2025-5216",
+  "customer_id": "C-10117",
+  "date": "2025-07-17",
+  "items": [
+   {
+    "sku": "VR-117",
+    "qty": 2,
+    "unit_price_usd": 32
+   },
+   {
+    "sku": "VR-113",
+    "qty": 1,
+    "unit_price_usd": 59
+   },
+   {
+    "sku": "VR-108",
+    "qty": 1,
+    "unit_price_usd": 78
+   },
+   {
+    "sku": "VR-103",
+    "qty": 2,
+    "unit_price_usd": 66
+   }
+  ],
+  "total_usd": 333,
+  "status": "delivered",
+  "ship_to": "885 Quartzridge Way, Napa, CA 94558"
+ },
+ {
+  "order_id": "VR-2026-5217",
+  "customer_id": "C-10129",
+  "date": "2026-07-13",
+  "items": [
+   {
+    "sku": "VR-120",
+    "qty": 12,
+    "unit_price_usd": 26
+   }
+  ],
+  "total_usd": 312,
+  "status": "delivered",
+  "ship_to": "9001 Harrow Bend Ln, Sacramento, CA 95814"
+ },
+ {
+  "order_id": "VR-2025-5218",
+  "customer_id": "C-10015",
+  "date": "2025-06-03",
+  "items": [
+   {
+    "sku": "VR-101",
+    "qty": 1,
+    "unit_price_usd": 42
+   },
+   {
+    "sku": "VR-117",
+    "qty": 6,
+    "unit_price_usd": 32
+   },
+   {
+    "sku": "VR-122",
+    "qty": 2,
+    "unit_price_usd": 45
+   },
+   {
+    "sku": "VR-115",
+    "qty": 6,
+    "unit_price_usd": 99
+   }
+  ],
+  "total_usd": 918,
+  "status": "shipped",
+  "ship_to": "360 Copperleaf Ln, Santa Rosa, CA 95404"
+ },
+ {
+  "order_id": "VR-2026-5219",
+  "customer_id": "C-10003",
+  "date": "2026-07-09",
+  "items": [
+   {
+    "sku": "VR-117",
+    "qty": 3,
+    "unit_price_usd": 32
+   },
+   {
+    "sku": "VR-124",
+    "qty": 1,
+    "unit_price_usd": 42
+   },
+   {
+    "sku": "VR-122",
+    "qty": 3,
+    "unit_price_usd": 45
+   },
+   {
+    "sku": "VR-112",
+    "qty": 3,
+    "unit_price_usd": 58
+   }
+  ],
+  "total_usd": 447,
+  "status": "delivered",
+  "ship_to": "5686 Copperleaf Way, Berkeley, CA 94704"
+ },
+ {
+  "order_id": "VR-2026-5220",
+  "customer_id": "C-10094",
+  "date": "2026-06-26",
+  "items": [
+   {
+    "sku": "VR-108",
+    "qty": 2,
+    "unit_price_usd": 78
+   },
+   {
+    "sku": "VR-114",
+    "qty": 3,
+    "unit_price_usd": 55
+   }
+  ],
+  "total_usd": 321,
+  "status": "shipped",
+  "ship_to": "3420 Cellar Oak Ave, Santa Rosa, CA 95404"
+ },
+ {
+  "order_id": "VR-2025-5221",
+  "customer_id": "C-10016",
+  "date": "2025-06-03",
+  "items": [
+   {
+    "sku": "VR-112",
+    "qty": 2,
+    "unit_price_usd": 58
+   },
+   {
+    "sku": "VR-108",
+    "qty": 2,
+    "unit_price_usd": 78
+   }
+  ],
+  "total_usd": 272,
+  "status": "delivered",
+  "ship_to": "4693 Foxglen Ave, Los Angeles, CA 90026"
+ },
+ {
+  "order_id": "VR-2025-5222",
+  "customer_id": "C-10134",
+  "date": "2025-08-19",
+  "items": [
+   {
+    "sku": "VR-116",
+    "qty": 12,
+    "unit_price_usd": 95
+   },
+   {
+    "sku": "VR-104",
+    "qty": 2,
+    "unit_price_usd": 62
+   },
+   {
+    "sku": "VR-124",
+    "qty": 2,
+    "unit_price_usd": 42
+   }
+  ],
+  "total_usd": 1348,
+  "status": "delivered",
+  "ship_to": "7686 Larkspur Hollow Ct, Los Angeles, CA 90026"
+ },
+ {
+  "order_id": "VR-2025-5223",
+  "customer_id": "C-10135",
+  "date": "2025-07-20",
+  "items": [
+   {
+    "sku": "VR-119",
+    "qty": 1,
+    "unit_price_usd": 30
+   },
+   {
+    "sku": "VR-108",
+    "qty": 1,
+    "unit_price_usd": 78
+   },
+   {
+    "sku": "VR-120",
+    "qty": 3,
+    "unit_price_usd": 26
+   },
+   {
+    "sku": "VR-103",
+    "qty": 12,
+    "unit_price_usd": 66
+   }
+  ],
+  "total_usd": 978,
+  "status": "delivered",
+  "ship_to": "2376 Larkspur Hollow Ave, Santa Rosa, CA 95404"
+ },
+ {
+  "order_id": "VR-2026-5224",
+  "customer_id": "C-10014",
+  "date": "2026-02-17",
+  "items": [
+   {
+    "sku": "VR-115",
+    "qty": 12,
+    "unit_price_usd": 99
+   },
+   {
+    "sku": "VR-123",
+    "qty": 1,
+    "unit_price_usd": 46
+   },
+   {
+    "sku": "VR-120",
+    "qty": 12,
+    "unit_price_usd": 26
+   },
+   {
+    "sku": "VR-104",
+    "qty": 1,
+    "unit_price_usd": 62
+   }
+  ],
+  "total_usd": 1608,
+  "status": "processing",
+  "ship_to": "56 Vinestone Rd, Napa, CA 94558"
+ },
+ {
+  "order_id": "VR-2025-5225",
+  "customer_id": "C-10072",
+  "date": "2025-10-07",
+  "items": [
+   {
+    "sku": "VR-109",
+    "qty": 1,
+    "unit_price_usd": 40
+   }
+  ],
+  "total_usd": 40,
+  "status": "shipped",
+  "ship_to": "3672 Quartzridge St, Healdsburg, CA 95448"
+ },
+ {
+  "order_id": "VR-2025-5226",
+  "customer_id": "C-10108",
+  "date": "2025-06-01",
+  "items": [
+   {
+    "sku": "VR-102",
+    "qty": 12,
+    "unit_price_usd": 38
+   },
+   {
+    "sku": "VR-110",
+    "qty": 1,
+    "unit_price_usd": 36
+   },
+   {
+    "sku": "VR-108",
+    "qty": 2,
+    "unit_price_usd": 78
+   },
+   {
+    "sku": "VR-101",
+    "qty": 12,
+    "unit_price_usd": 42
+   }
+  ],
+  "total_usd": 1152,
+  "status": "refunded",
+  "ship_to": "8492 Bramblewood Ln, Pasadena, CA 91101"
+ },
+ {
+  "order_id": "VR-2026-5227",
+  "customer_id": "C-10028",
+  "date": "2026-07-11",
+  "items": [
+   {
+    "sku": "VR-114",
+    "qty": 1,
+    "unit_price_usd": 55
+   }
+  ],
+  "total_usd": 55,
+  "status": "delivered",
+  "ship_to": "1031 Larkspur Hollow Ln, Sausalito, CA 94965"
+ },
+ {
+  "order_id": "VR-2025-5228",
+  "customer_id": "C-10128",
+  "date": "2025-10-30",
+  "items": [
+   {
+    "sku": "VR-114",
+    "qty": 1,
+    "unit_price_usd": 55
+   },
+   {
+    "sku": "VR-105",
+    "qty": 2,
+    "unit_price_usd": 52
+   },
+   {
+    "sku": "VR-121",
+    "qty": 1,
+    "unit_price_usd": 49
+   }
+  ],
+  "total_usd": 208,
+  "status": "delivered",
+  "ship_to": "6141 Foxglen Ct, Berkeley, CA 94704"
+ },
+ {
+  "order_id": "VR-2025-5229",
+  "customer_id": "C-10096",
+  "date": "2025-05-02",
+  "items": [
+   {
+    "sku": "VR-111",
+    "qty": 1,
+    "unit_price_usd": 62
+   },
+   {
+    "sku": "VR-114",
+    "qty": 3,
+    "unit_price_usd": 55
+   },
+   {
+    "sku": "VR-122",
+    "qty": 1,
+    "unit_price_usd": 45
+   },
+   {
+    "sku": "VR-123",
+    "qty": 3,
+    "unit_price_usd": 46
+   }
+  ],
+  "total_usd": 410,
+  "status": "refunded",
+  "ship_to": "9618 Silvercask Way, Santa Rosa, CA 95404"
+ },
+ {
+  "order_id": "VR-2025-5230",
+  "customer_id": "C-10101",
+  "date": "2025-08-27",
+  "items": [
+   {
+    "sku": "VR-116",
+    "qty": 1,
+    "unit_price_usd": 95
+   },
+   {
+    "sku": "VR-101",
+    "qty": 1,
+    "unit_price_usd": 42
+   }
+  ],
+  "total_usd": 137,
+  "status": "delivered",
+  "ship_to": "4838 Vinestone Rd, Napa, CA 94558"
+ },
+ {
+  "order_id": "VR-2025-5231",
+  "customer_id": "C-10080",
+  "date": "2025-05-13",
+  "items": [
+   {
+    "sku": "VR-107",
+    "qty": 2,
+    "unit_price_usd": 82
+   }
+  ],
+  "total_usd": 164,
+  "status": "shipped",
+  "ship_to": "5512 Cellar Oak Ct, Healdsburg, CA 95448"
+ },
+ {
+  "order_id": "VR-2025-5232",
+  "customer_id": "C-10013",
+  "date": "2025-04-20",
+  "items": [
+   {
+    "sku": "VR-117",
+    "qty": 12,
+    "unit_price_usd": 32
+   },
+   {
+    "sku": "VR-106",
+    "qty": 6,
+    "unit_price_usd": 48
+   }
+  ],
+  "total_usd": 672,
+  "status": "processing",
+  "ship_to": "6620 Foxglen Rd, Sausalito, CA 94965"
+ },
+ {
+  "order_id": "VR-2025-5233",
+  "customer_id": "C-10046",
+  "date": "2025-10-18",
+  "items": [
+   {
+    "sku": "VR-114",
+    "qty": 1,
+    "unit_price_usd": 55
+   },
+   {
+    "sku": "VR-104",
+    "qty": 2,
+    "unit_price_usd": 62
+   },
+   {
+    "sku": "VR-121",
+    "qty": 12,
+    "unit_price_usd": 49
+   },
+   {
+    "sku": "VR-103",
+    "qty": 1,
+    "unit_price_usd": 66
+   }
+  ],
+  "total_usd": 833,
+  "status": "delivered",
+  "ship_to": "3531 Amberfield St, Sacramento, CA 95814"
+ },
+ {
+  "order_id": "VR-2026-5234",
+  "customer_id": "C-10090",
+  "date": "2026-06-12",
+  "items": [
+   {
+    "sku": "VR-122",
+    "qty": 6,
+    "unit_price_usd": 45
+   },
+   {
+    "sku": "VR-102",
+    "qty": 6,
+    "unit_price_usd": 38
+   },
+   {
+    "sku": "VR-121",
+    "qty": 12,
+    "unit_price_usd": 49
+   }
+  ],
+  "total_usd": 1086,
+  "status": "delivered",
+  "ship_to": "6722 Stillwater Way, San Diego, CA 92103"
+ },
+ {
+  "order_id": "VR-2026-5235",
+  "customer_id": "C-10009",
+  "date": "2026-07-07",
+  "items": [
+   {
+    "sku": "VR-123",
+    "qty": 1,
+    "unit_price_usd": 46
+   }
+  ],
+  "total_usd": 46,
+  "status": "delivered",
+  "ship_to": "8582 Foxglen Ct, Oakland, CA 94612"
+ },
+ {
+  "order_id": "VR-2025-5236",
+  "customer_id": "C-10037",
+  "date": "2025-09-29",
+  "items": [
+   {
+    "sku": "VR-120",
+    "qty": 1,
+    "unit_price_usd": 26
+   },
+   {
+    "sku": "VR-103",
+    "qty": 3,
+    "unit_price_usd": 66
+   },
+   {
+    "sku": "VR-108",
+    "qty": 2,
+    "unit_price_usd": 78
+   }
+  ],
+  "total_usd": 380,
+  "status": "delivered",
+  "ship_to": "4399 Quartzridge Ct, Oakland, CA 94612"
+ },
+ {
+  "order_id": "VR-2025-5237",
+  "customer_id": "C-10080",
+  "date": "2025-07-09",
+  "items": [
+   {
+    "sku": "VR-104",
+    "qty": 1,
+    "unit_price_usd": 62
+   },
+   {
+    "sku": "VR-108",
+    "qty": 1,
+    "unit_price_usd": 78
+   },
+   {
+    "sku": "VR-103",
+    "qty": 2,
+    "unit_price_usd": 66
+   }
+  ],
+  "total_usd": 272,
+  "status": "shipped",
+  "ship_to": "5512 Cellar Oak Ct, Healdsburg, CA 95448"
+ },
+ {
+  "order_id": "VR-2026-5238",
+  "customer_id": "C-10042",
+  "date": "2026-02-18",
+  "items": [
+   {
+    "sku": "VR-109",
+    "qty": 1,
+    "unit_price_usd": 40
+   },
+   {
+    "sku": "VR-108",
+    "qty": 1,
+    "unit_price_usd": 78
+   },
+   {
+    "sku": "VR-122",
+    "qty": 3,
+    "unit_price_usd": 45
+   }
+  ],
+  "total_usd": 253,
+  "status": "delivered",
+  "ship_to": "7698 Vinestone Ave, Santa Rosa, CA 95404"
+ },
+ {
+  "order_id": "VR-2026-5239",
+  "customer_id": "C-10009",
+  "date": "2026-05-08",
+  "items": [
+   {
+    "sku": "VR-119",
+    "qty": 1,
+    "unit_price_usd": 30
+   },
+   {
+    "sku": "VR-110",
+    "qty": 1,
+    "unit_price_usd": 36
+   },
+   {
+    "sku": "VR-109",
+    "qty": 1,
+    "unit_price_usd": 40
+   }
+  ],
+  "total_usd": 106,
+  "status": "delivered",
+  "ship_to": "8582 Foxglen Ct, Oakland, CA 94612"
+ },
+ {
+  "order_id": "VR-2025-5240",
+  "customer_id": "C-10073",
+  "date": "2025-05-09",
+  "items": [
+   {
+    "sku": "VR-102",
+    "qty": 2,
+    "unit_price_usd": 38
+   },
+   {
+    "sku": "VR-109",
+    "qty": 6,
+    "unit_price_usd": 40
+   },
+   {
+    "sku": "VR-101",
+    "qty": 12,
+    "unit_price_usd": 42
+   },
+   {
+    "sku": "VR-103",
+    "qty": 2,
+    "unit_price_usd": 66
+   }
+  ],
+  "total_usd": 952,
+  "status": "delivered",
+  "ship_to": "9633 Copperleaf Ln, Santa Rosa, CA 95404"
+ },
+ {
+  "order_id": "VR-2025-5241",
+  "customer_id": "C-10100",
+  "date": "2025-11-02",
+  "items": [
+   {
+    "sku": "VR-112",
+    "qty": 1,
+    "unit_price_usd": 58
+   },
+   {
+    "sku": "VR-120",
+    "qty": 3,
+    "unit_price_usd": 26
+   },
+   {
+    "sku": "VR-116",
+    "qty": 1,
+    "unit_price_usd": 95
+   },
+   {
+    "sku": "VR-113",
+    "qty": 1,
+    "unit_price_usd": 59
+   }
+  ],
+  "total_usd": 290,
+  "status": "delivered",
+  "ship_to": "5993 Willowmere Way, Sacramento, CA 95814"
+ },
+ {
+  "order_id": "VR-2025-5242",
+  "customer_id": "C-10127",
+  "date": "2025-06-02",
+  "items": [
+   {
+    "sku": "VR-102",
+    "qty": 3,
+    "unit_price_usd": 38
+   },
+   {
+    "sku": "VR-112",
+    "qty": 2,
+    "unit_price_usd": 58
+   },
+   {
+    "sku": "VR-101",
+    "qty": 6,
+    "unit_price_usd": 42
+   }
+  ],
+  "total_usd": 482,
+  "status": "delivered",
+  "ship_to": "2969 Quartzridge Ct, Fresno, CA 93721"
+ },
+ {
+  "order_id": "VR-2026-5243",
+  "customer_id": "C-10123",
+  "date": "2026-04-25",
+  "items": [
+   {
+    "sku": "VR-119",
+    "qty": 2,
+    "unit_price_usd": 30
+   },
+   {
+    "sku": "VR-110",
+    "qty": 3,
+    "unit_price_usd": 36
+   },
+   {
+    "sku": "VR-114",
+    "qty": 1,
+    "unit_price_usd": 55
+   }
+  ],
+  "total_usd": 223,
+  "status": "delivered",
+  "ship_to": "6154 Willowmere Way, Sacramento, CA 95814"
+ },
+ {
+  "order_id": "VR-2026-5244",
+  "customer_id": "C-10016",
+  "date": "2026-09-16",
+  "items": [
+   {
+    "sku": "VR-118",
+    "qty": 1,
+    "unit_price_usd": 28
+   },
+   {
+    "sku": "VR-106",
+    "qty": 1,
+    "unit_price_usd": 48
+   },
+   {
+    "sku": "VR-117",
+    "qty": 1,
+    "unit_price_usd": 32
+   },
+   {
+    "sku": "VR-124",
+    "qty": 1,
+    "unit_price_usd": 42
+   }
+  ],
+  "total_usd": 150,
+  "status": "delivered",
+  "ship_to": "4693 Foxglen Ave, Los Angeles, CA 90026"
+ },
+ {
+  "order_id": "VR-2025-5245",
+  "customer_id": "C-10028",
+  "date": "2025-12-17",
+  "items": [
+   {
+    "sku": "VR-118",
+    "qty": 2,
+    "unit_price_usd": 28
+   }
+  ],
+  "total_usd": 56,
+  "status": "refunded",
+  "ship_to": "1031 Larkspur Hollow Ln, Sausalito, CA 94965"
+ },
+ {
+  "order_id": "VR-2026-5246",
+  "customer_id": "C-10089",
+  "date": "2026-03-31",
+  "items": [
+   {
+    "sku": "VR-118",
+    "qty": 2,
+    "unit_price_usd": 28
+   },
+   {
+    "sku": "VR-107",
+    "qty": 1,
+    "unit_price_usd": 82
+   }
+  ],
+  "total_usd": 138,
+  "status": "delivered",
+  "ship_to": "2135 Willowmere Rd, Petaluma, CA 94952"
+ },
+ {
+  "order_id": "VR-2026-5247",
+  "customer_id": "C-10124",
+  "date": "2026-02-12",
+  "items": [
+   {
+    "sku": "VR-114",
+    "qty": 6,
+    "unit_price_usd": 55
+   }
+  ],
+  "total_usd": 330,
+  "status": "refunded",
+  "ship_to": "2635 Larkspur Hollow Rd, San Francisco, CA 94110"
+ },
+ {
+  "order_id": "VR-2026-5248",
+  "customer_id": "C-10075",
+  "date": "2026-05-03",
+  "items": [
+   {
+    "sku": "VR-105",
+    "qty": 2,
+    "unit_price_usd": 52
+   },
+   {
+    "sku": "VR-113",
+    "qty": 3,
+    "unit_price_usd": 59
+   },
+   {
+    "sku": "VR-111",
+    "qty": 6,
+    "unit_price_usd": 62
+   },
+   {
+    "sku": "VR-104",
+    "qty": 1,
+    "unit_price_usd": 62
+   }
+  ],
+  "total_usd": 715,
+  "status": "delivered",
+  "ship_to": "2472 Cellar Oak Rd, Healdsburg, CA 95448"
+ },
+ {
+  "order_id": "VR-2026-5249",
+  "customer_id": "C-10095",
+  "date": "2026-01-18",
+  "items": [
+   {
+    "sku": "VR-111",
+    "qty": 3,
+    "unit_price_usd": 62
+   }
+  ],
+  "total_usd": 186,
+  "status": "delivered",
+  "ship_to": "5959 Willowmere Way, Pasadena, CA 91101"
+ },
+ {
+  "order_id": "VR-2026-5250",
+  "customer_id": "C-10045",
+  "date": "2026-09-27",
+  "items": [
+   {
+    "sku": "VR-107",
+    "qty": 1,
+    "unit_price_usd": 82
+   },
+   {
+    "sku": "VR-122",
+    "qty": 3,
+    "unit_price_usd": 45
+   }
+  ],
+  "total_usd": 217,
+  "status": "delivered",
+  "ship_to": "3416 Larkspur Hollow Ct, San Jose, CA 95112"
+ },
+ {
+  "order_id": "VR-2025-5251",
+  "customer_id": "C-10074",
+  "date": "2025-09-21",
+  "items": [
+   {
+    "sku": "VR-104",
+    "qty": 1,
+    "unit_price_usd": 62
+   },
+   {
+    "sku": "VR-116",
+    "qty": 6,
+    "unit_price_usd": 95
+   },
+   {
+    "sku": "VR-122",
+    "qty": 6,
+    "unit_price_usd": 45
+   }
+  ],
+  "total_usd": 902,
+  "status": "shipped",
+  "ship_to": "1032 Larkspur Hollow Way, San Francisco, CA 94110"
+ },
+ {
+  "order_id": "VR-2025-5252",
+  "customer_id": "C-10054",
+  "date": "2025-06-27",
+  "items": [
+   {
+    "sku": "VR-118",
+    "qty": 12,
+    "unit_price_usd": 28
+   },
+   {
+    "sku": "VR-117",
+    "qty": 6,
+    "unit_price_usd": 32
+   }
+  ],
+  "total_usd": 528,
+  "status": "shipped",
+  "ship_to": "4979 Foxglen Ct, Sacramento, CA 95814"
+ },
+ {
+  "order_id": "VR-2025-5253",
+  "customer_id": "C-10090",
+  "date": "2025-07-27",
+  "items": [
+   {
+    "sku": "VR-114",
+    "qty": 1,
+    "unit_price_usd": 55
+   },
+   {
+    "sku": "VR-102",
+    "qty": 3,
+    "unit_price_usd": 38
+   },
+   {
+    "sku": "VR-120",
+    "qty": 6,
+    "unit_price_usd": 26
+   },
+   {
+    "sku": "VR-119",
+    "qty": 12,
+    "unit_price_usd": 30
+   }
+  ],
+  "total_usd": 685,
+  "status": "shipped",
+  "ship_to": "6722 Stillwater Way, San Diego, CA 92103"
+ },
+ {
+  "order_id": "VR-2026-5254",
+  "customer_id": "C-10021",
+  "date": "2026-02-01",
+  "items": [
+   {
+    "sku": "VR-124",
+    "qty": 12,
+    "unit_price_usd": 42
+   },
+   {
+    "sku": "VR-108",
+    "qty": 1,
+    "unit_price_usd": 78
+   },
+   {
+    "sku": "VR-114",
+    "qty": 2,
+    "unit_price_usd": 55
+   },
+   {
+    "sku": "VR-119",
+    "qty": 12,
+    "unit_price_usd": 30
+   }
+  ],
+  "total_usd": 1052,
+  "status": "processing",
+  "ship_to": "6487 Silvercask Way, Los Angeles, CA 90026"
+ },
+ {
+  "order_id": "VR-2026-5255",
+  "customer_id": "C-10037",
+  "date": "2026-09-22",
+  "items": [
+   {
+    "sku": "VR-116",
+    "qty": 1,
+    "unit_price_usd": 95
+   },
+   {
+    "sku": "VR-119",
+    "qty": 2,
+    "unit_price_usd": 30
+   },
+   {
+    "sku": "VR-121",
+    "qty": 1,
+    "unit_price_usd": 49
+   }
+  ],
+  "total_usd": 204,
+  "status": "processing",
+  "ship_to": "4399 Quartzridge Ct, Oakland, CA 94612"
+ },
+ {
+  "order_id": "VR-2025-5256",
+  "customer_id": "C-10119",
+  "date": "2025-07-11",
+  "items": [
+   {
+    "sku": "VR-110",
+    "qty": 3,
+    "unit_price_usd": 36
+   },
+   {
+    "sku": "VR-114",
+    "qty": 6,
+    "unit_price_usd": 55
+   },
+   {
+    "sku": "VR-102",
+    "qty": 1,
+    "unit_price_usd": 38
+   }
+  ],
+  "total_usd": 476,
+  "status": "delivered",
+  "ship_to": "2553 Stillwater Ct, San Francisco, CA 94110"
+ },
+ {
+  "order_id": "VR-2026-5257",
+  "customer_id": "C-10053",
+  "date": "2026-03-29",
+  "items": [
+   {
+    "sku": "VR-115",
+    "qty": 1,
+    "unit_price_usd": 99
+   },
+   {
+    "sku": "VR-116",
+    "qty": 3,
+    "unit_price_usd": 95
+   }
+  ],
+  "total_usd": 384,
+  "status": "delivered",
+  "ship_to": "6724 Stillwater Ave, Healdsburg, CA 95448"
+ },
+ {
+  "order_id": "VR-2026-5258",
+  "customer_id": "C-10058",
+  "date": "2026-03-08",
+  "items": [
+   {
+    "sku": "VR-119",
+    "qty": 3,
+    "unit_price_usd": 30
+   },
+   {
+    "sku": "VR-105",
+    "qty": 3,
+    "unit_price_usd": 52
+   },
+   {
+    "sku": "VR-103",
+    "qty": 6,
+    "unit_price_usd": 66
+   }
+  ],
+  "total_usd": 642,
+  "status": "delivered",
+  "ship_to": "3922 Willowmere Ln, Pasadena, CA 91101"
+ },
+ {
+  "order_id": "VR-2026-5259",
+  "customer_id": "C-10146",
+  "date": "2026-01-08",
+  "items": [
+   {
+    "sku": "VR-116",
+    "qty": 3,
+    "unit_price_usd": 95
+   },
+   {
+    "sku": "VR-108",
+    "qty": 2,
+    "unit_price_usd": 78
+   },
+   {
+    "sku": "VR-120",
+    "qty": 3,
+    "unit_price_usd": 26
+   },
+   {
+    "sku": "VR-122",
+    "qty": 1,
+    "unit_price_usd": 45
+   }
+  ],
+  "total_usd": 564,
+  "status": "shipped",
+  "ship_to": "6386 Amberfield Ave, Berkeley, CA 94704"
+ },
+ {
+  "order_id": "VR-2026-5260",
+  "customer_id": "C-10104",
+  "date": "2026-07-25",
+  "items": [
+   {
+    "sku": "VR-105",
+    "qty": 12,
+    "unit_price_usd": 52
+   },
+   {
+    "sku": "VR-107",
+    "qty": 12,
+    "unit_price_usd": 82
+   },
+   {
+    "sku": "VR-109",
+    "qty": 2,
+    "unit_price_usd": 40
+   }
+  ],
+  "total_usd": 1688,
+  "status": "shipped",
+  "ship_to": "7624 Willowmere Way, Berkeley, CA 94704"
+ },
+ {
+  "order_id": "VR-2025-5261",
+  "customer_id": "C-10068",
+  "date": "2025-05-18",
+  "items": [
+   {
+    "sku": "VR-117",
+    "qty": 3,
+    "unit_price_usd": 32
+   },
+   {
+    "sku": "VR-118",
+    "qty": 12,
+    "unit_price_usd": 28
+   }
+  ],
+  "total_usd": 432,
+  "status": "shipped",
+  "ship_to": "3787 Vinestone Rd, Berkeley, CA 94704"
+ },
+ {
+  "order_id": "VR-2026-5262",
+  "customer_id": "C-10149",
+  "date": "2026-07-16",
+  "items": [
+   {
+    "sku": "VR-109",
+    "qty": 1,
+    "unit_price_usd": 40
+   },
+   {
+    "sku": "VR-103",
+    "qty": 1,
+    "unit_price_usd": 66
+   },
+   {
+    "sku": "VR-104",
+    "qty": 6,
+    "unit_price_usd": 62
+   }
+  ],
+  "total_usd": 478,
+  "status": "shipped",
+  "ship_to": "8944 Vinestone Ln, Santa Rosa, CA 95404"
+ },
+ {
+  "order_id": "VR-2026-5263",
+  "customer_id": "C-10093",
+  "date": "2026-05-29",
+  "items": [
+   {
+    "sku": "VR-107",
+    "qty": 3,
+    "unit_price_usd": 82
+   },
+   {
+    "sku": "VR-112",
+    "qty": 1,
+    "unit_price_usd": 58
+   },
+   {
+    "sku": "VR-111",
+    "qty": 1,
+    "unit_price_usd": 62
+   }
+  ],
+  "total_usd": 366,
+  "status": "delivered",
+  "ship_to": "6496 Foxglen Ave, Sacramento, CA 95814"
+ },
+ {
+  "order_id": "VR-2025-5264",
+  "customer_id": "C-10085",
+  "date": "2025-12-13",
+  "items": [
+   {
+    "sku": "VR-106",
+    "qty": 6,
+    "unit_price_usd": 48
+   },
+   {
+    "sku": "VR-104",
+    "qty": 1,
+    "unit_price_usd": 62
+   },
+   {
+    "sku": "VR-110",
+    "qty": 2,
+    "unit_price_usd": 36
+   }
+  ],
+  "total_usd": 422,
+  "status": "delivered",
+  "ship_to": "9219 Foxglen Rd, Santa Rosa, CA 95404"
+ },
+ {
+  "order_id": "VR-2025-5265",
+  "customer_id": "C-10009",
+  "date": "2025-11-10",
+  "items": [
+   {
+    "sku": "VR-118",
+    "qty": 6,
+    "unit_price_usd": 28
+   },
+   {
+    "sku": "VR-102",
+    "qty": 1,
+    "unit_price_usd": 38
+   },
+   {
+    "sku": "VR-119",
+    "qty": 1,
+    "unit_price_usd": 30
+   }
+  ],
+  "total_usd": 236,
+  "status": "delivered",
+  "ship_to": "8582 Foxglen Ct, Oakland, CA 94612"
+ },
+ {
+  "order_id": "VR-2026-5266",
+  "customer_id": "C-10109",
+  "date": "2026-07-14",
+  "items": [
+   {
+    "sku": "VR-105",
+    "qty": 6,
+    "unit_price_usd": 52
+   },
+   {
+    "sku": "VR-114",
+    "qty": 1,
+    "unit_price_usd": 55
+   },
+   {
+    "sku": "VR-113",
+    "qty": 12,
+    "unit_price_usd": 59
+   }
+  ],
+  "total_usd": 1075,
+  "status": "delivered",
+  "ship_to": "7489 Copperleaf Ave, Healdsburg, CA 95448"
+ },
+ {
+  "order_id": "VR-2026-5267",
+  "customer_id": "C-10103",
+  "date": "2026-02-12",
+  "items": [
+   {
+    "sku": "VR-101",
+    "qty": 6,
+    "unit_price_usd": 42
+   },
+   {
+    "sku": "VR-116",
+    "qty": 3,
+    "unit_price_usd": 95
+   },
+   {
+    "sku": "VR-103",
+    "qty": 1,
+    "unit_price_usd": 66
+   },
+   {
+    "sku": "VR-110",
+    "qty": 2,
+    "unit_price_usd": 36
+   }
+  ],
+  "total_usd": 675,
+  "status": "delivered",
+  "ship_to": "7176 Quartzridge Way, San Francisco, CA 94110"
+ },
+ {
+  "order_id": "VR-2026-5268",
+  "customer_id": "C-10050",
+  "date": "2026-05-03",
+  "items": [
+   {
+    "sku": "VR-118",
+    "qty": 2,
+    "unit_price_usd": 28
+   },
+   {
+    "sku": "VR-122",
+    "qty": 3,
+    "unit_price_usd": 45
+   }
+  ],
+  "total_usd": 191,
+  "status": "refunded",
+  "ship_to": "8134 Larkspur Hollow Ave, Santa Rosa, CA 95404"
+ },
+ {
+  "order_id": "VR-2025-5269",
+  "customer_id": "C-10112",
+  "date": "2025-05-23",
+  "items": [
+   {
+    "sku": "VR-108",
+    "qty": 6,
+    "unit_price_usd": 78
+   }
+  ],
+  "total_usd": 468,
+  "status": "delivered",
+  "ship_to": "7652 Copperleaf Ave, San Francisco, CA 94110"
+ },
+ {
+  "order_id": "VR-2026-5270",
+  "customer_id": "C-10043",
+  "date": "2026-04-04",
+  "items": [
+   {
+    "sku": "VR-120",
+    "qty": 1,
+    "unit_price_usd": 26
+   },
+   {
+    "sku": "VR-124",
+    "qty": 12,
+    "unit_price_usd": 42
+   }
+  ],
+  "total_usd": 530,
+  "status": "delivered",
+  "ship_to": "3334 Vinestone Ave, Sausalito, CA 94965"
+ },
+ {
+  "order_id": "VR-2025-5271",
+  "customer_id": "C-10131",
+  "date": "2025-04-23",
+  "items": [
+   {
+    "sku": "VR-115",
+    "qty": 2,
+    "unit_price_usd": 99
+   },
+   {
+    "sku": "VR-112",
+    "qty": 12,
+    "unit_price_usd": 58
+   },
+   {
+    "sku": "VR-102",
+    "qty": 6,
+    "unit_price_usd": 38
+   },
+   {
+    "sku": "VR-114",
+    "qty": 12,
+    "unit_price_usd": 55
+   }
+  ],
+  "total_usd": 1782,
+  "status": "delivered",
+  "ship_to": "9531 Bramblewood Ct, Pasadena, CA 91101"
+ },
+ {
+  "order_id": "VR-2026-5272",
+  "customer_id": "C-10067",
+  "date": "2026-09-04",
+  "items": [
+   {
+    "sku": "VR-123",
+    "qty": 12,
+    "unit_price_usd": 46
+   }
+  ],
+  "total_usd": 552,
+  "status": "delivered",
+  "ship_to": "2682 Harrow Bend Ln, Petaluma, CA 94952"
+ },
+ {
+  "order_id": "VR-2025-5273",
+  "customer_id": "C-10084",
+  "date": "2025-04-14",
+  "items": [
+   {
+    "sku": "VR-103",
+    "qty": 2,
+    "unit_price_usd": 66
+   }
+  ],
+  "total_usd": 132,
+  "status": "delivered",
+  "ship_to": "631 Quartzridge Way, Pasadena, CA 91101"
+ },
+ {
+  "order_id": "VR-2026-5274",
+  "customer_id": "C-10110",
+  "date": "2026-07-05",
+  "items": [
+   {
+    "sku": "VR-112",
+    "qty": 1,
+    "unit_price_usd": 58
+   },
+   {
+    "sku": "VR-120",
+    "qty": 1,
+    "unit_price_usd": 26
+   }
+  ],
+  "total_usd": 84,
+  "status": "delivered",
+  "ship_to": "207 Willowmere Ct, Sacramento, CA 95814"
+ },
+ {
+  "order_id": "VR-2026-5275",
+  "customer_id": "C-10007",
+  "date": "2026-03-15",
+  "items": [
+   {
+    "sku": "VR-107",
+    "qty": 1,
+    "unit_price_usd": 82
+   },
+   {
+    "sku": "VR-103",
+    "qty": 12,
+    "unit_price_usd": 66
+   }
+  ],
+  "total_usd": 874,
+  "status": "delivered",
+  "ship_to": "2515 Willowmere Rd, San Diego, CA 92103"
+ },
+ {
+  "order_id": "VR-2025-5276",
+  "customer_id": "C-10060",
+  "date": "2025-11-06",
+  "items": [
+   {
+    "sku": "VR-105",
+    "qty": 12,
+    "unit_price_usd": 52
+   }
+  ],
+  "total_usd": 624,
+  "status": "delivered",
+  "ship_to": "3542 Silvercask Ave, Los Angeles, CA 90026"
+ },
+ {
+  "order_id": "VR-2026-5277",
+  "customer_id": "C-10133",
+  "date": "2026-07-07",
+  "items": [
+   {
+    "sku": "VR-104",
+    "qty": 2,
+    "unit_price_usd": 62
+   },
+   {
+    "sku": "VR-114",
+    "qty": 3,
+    "unit_price_usd": 55
+   }
+  ],
+  "total_usd": 289,
+  "status": "delivered",
+  "ship_to": "2922 Quartzridge St, Pasadena, CA 91101"
+ },
+ {
+  "order_id": "VR-2026-5278",
+  "customer_id": "C-10002",
+  "date": "2026-01-31",
+  "items": [
+   {
+    "sku": "VR-114",
+    "qty": 1,
+    "unit_price_usd": 55
+   },
+   {
+    "sku": "VR-101",
+    "qty": 1,
+    "unit_price_usd": 42
+   },
+   {
+    "sku": "VR-106",
+    "qty": 6,
+    "unit_price_usd": 48
+   }
+  ],
+  "total_usd": 385,
+  "status": "delivered",
+  "ship_to": "5836 Copperleaf Ct, Los Angeles, CA 90026"
+ },
+ {
+  "order_id": "VR-2025-5279",
+  "customer_id": "C-10068",
+  "date": "2025-12-22",
+  "items": [
+   {
+    "sku": "VR-104",
+    "qty": 1,
+    "unit_price_usd": 62
+   }
+  ],
+  "total_usd": 62,
+  "status": "processing",
+  "ship_to": "3787 Vinestone Rd, Berkeley, CA 94704"
+ },
+ {
+  "order_id": "VR-2026-5280",
+  "customer_id": "C-10142",
+  "date": "2026-08-04",
+  "items": [
+   {
+    "sku": "VR-118",
+    "qty": 6,
+    "unit_price_usd": 28
+   },
+   {
+    "sku": "VR-116",
+    "qty": 2,
+    "unit_price_usd": 95
+   }
+  ],
+  "total_usd": 358,
+  "status": "delivered",
+  "ship_to": "6697 Silvercask Ln, San Jose, CA 95112"
+ },
+ {
+  "order_id": "VR-2025-5281",
+  "customer_id": "C-10132",
+  "date": "2025-08-14",
+  "items": [
+   {
+    "sku": "VR-119",
+    "qty": 3,
+    "unit_price_usd": 30
+   },
+   {
+    "sku": "VR-105",
+    "qty": 6,
+    "unit_price_usd": 52
+   }
+  ],
+  "total_usd": 402,
+  "status": "delivered",
+  "ship_to": "774 Willowmere Rd, Napa, CA 94558"
+ },
+ {
+  "order_id": "VR-2025-5282",
+  "customer_id": "C-10094",
+  "date": "2025-11-07",
+  "items": [
+   {
+    "sku": "VR-116",
+    "qty": 2,
+    "unit_price_usd": 95
+   },
+   {
+    "sku": "VR-115",
+    "qty": 1,
+    "unit_price_usd": 99
+   }
+  ],
+  "total_usd": 289,
+  "status": "delivered",
+  "ship_to": "3420 Cellar Oak Ave, Santa Rosa, CA 95404"
+ },
+ {
+  "order_id": "VR-2026-5283",
+  "customer_id": "C-10078",
+  "date": "2026-08-08",
+  "items": [
+   {
+    "sku": "VR-115",
+    "qty": 1,
+    "unit_price_usd": 99
+   },
+   {
+    "sku": "VR-101",
+    "qty": 6,
+    "unit_price_usd": 42
+   }
+  ],
+  "total_usd": 351,
+  "status": "delivered",
+  "ship_to": "7926 Larkspur Hollow St, Oakland, CA 94612"
+ },
+ {
+  "order_id": "VR-2026-5284",
+  "customer_id": "C-10126",
+  "date": "2026-05-05",
+  "items": [
+   {
+    "sku": "VR-103",
+    "qty": 1,
+    "unit_price_usd": 66
+   },
+   {
+    "sku": "VR-118",
+    "qty": 1,
+    "unit_price_usd": 28
+   },
+   {
+    "sku": "VR-119",
+    "qty": 1,
+    "unit_price_usd": 30
+   }
+  ],
+  "total_usd": 124,
+  "status": "processing",
+  "ship_to": "8499 Willowmere Rd, San Francisco, CA 94110"
+ },
+ {
+  "order_id": "VR-2026-5285",
+  "customer_id": "C-10128",
+  "date": "2026-05-03",
+  "items": [
+   {
+    "sku": "VR-104",
+    "qty": 12,
+    "unit_price_usd": 62
+   },
+   {
+    "sku": "VR-107",
+    "qty": 1,
+    "unit_price_usd": 82
+   },
+   {
+    "sku": "VR-102",
+    "qty": 2,
+    "unit_price_usd": 38
+   },
+   {
+    "sku": "VR-106",
+    "qty": 12,
+    "unit_price_usd": 48
+   }
+  ],
+  "total_usd": 1478,
+  "status": "delivered",
+  "ship_to": "6141 Foxglen Ct, Berkeley, CA 94704"
+ },
+ {
+  "order_id": "VR-2026-5286",
+  "customer_id": "C-10138",
+  "date": "2026-06-25",
+  "items": [
+   {
+    "sku": "VR-105",
+    "qty": 6,
+    "unit_price_usd": 52
+   },
+   {
+    "sku": "VR-113",
+    "qty": 3,
+    "unit_price_usd": 59
+   },
+   {
+    "sku": "VR-106",
+    "qty": 1,
+    "unit_price_usd": 48
+   },
+   {
+    "sku": "VR-108",
+    "qty": 12,
+    "unit_price_usd": 78
+   }
+  ],
+  "total_usd": 1473,
+  "status": "shipped",
+  "ship_to": "5892 Silvercask St, Fresno, CA 93721"
+ },
+ {
+  "order_id": "VR-2025-5287",
+  "customer_id": "C-10006",
+  "date": "2025-05-30",
+  "items": [
+   {
+    "sku": "VR-115",
+    "qty": 12,
+    "unit_price_usd": 99
+   },
+   {
+    "sku": "VR-113",
+    "qty": 3,
+    "unit_price_usd": 59
+   },
+   {
+    "sku": "VR-116",
+    "qty": 2,
+    "unit_price_usd": 95
+   },
+   {
+    "sku": "VR-124",
+    "qty": 1,
+    "unit_price_usd": 42
+   }
+  ],
+  "total_usd": 1597,
+  "status": "delivered",
+  "ship_to": "6500 Foxglen Ave, Santa Rosa, CA 95404"
+ },
+ {
+  "order_id": "VR-2026-5288",
+  "customer_id": "C-10077",
+  "date": "2026-09-26",
+  "items": [
+   {
+    "sku": "VR-121",
+    "qty": 12,
+    "unit_price_usd": 49
+   }
+  ],
+  "total_usd": 588,
+  "status": "refunded",
+  "ship_to": "3466 Stillwater St, Fresno, CA 93721"
+ },
+ {
+  "order_id": "VR-2025-5289",
+  "customer_id": "C-10107",
+  "date": "2025-05-09",
+  "items": [
+   {
+    "sku": "VR-106",
+    "qty": 6,
+    "unit_price_usd": 48
+   },
+   {
+    "sku": "VR-112",
+    "qty": 3,
+    "unit_price_usd": 58
+   },
+   {
+    "sku": "VR-122",
+    "qty": 3,
+    "unit_price_usd": 45
+   },
+   {
+    "sku": "VR-108",
+    "qty": 1,
+    "unit_price_usd": 78
+   }
+  ],
+  "total_usd": 675,
+  "status": "delivered",
+  "ship_to": "2493 Vinestone Ave, Healdsburg, CA 95448"
+ },
+ {
+  "order_id": "VR-2025-5290",
+  "customer_id": "C-10008",
+  "date": "2025-12-13",
+  "items": [
+   {
+    "sku": "VR-109",
+    "qty": 1,
+    "unit_price_usd": 40
+   },
+   {
+    "sku": "VR-111",
+    "qty": 12,
+    "unit_price_usd": 62
+   },
+   {
+    "sku": "VR-121",
+    "qty": 2,
+    "unit_price_usd": 49
+   }
+  ],
+  "total_usd": 882,
+  "status": "delivered",
+  "ship_to": "8581 Amberfield St, San Jose, CA 95112"
+ },
+ {
+  "order_id": "VR-2026-5291",
+  "customer_id": "C-10109",
+  "date": "2026-07-01",
+  "items": [
+   {
+    "sku": "VR-107",
+    "qty": 3,
+    "unit_price_usd": 82
+   },
+   {
+    "sku": "VR-116",
+    "qty": 3,
+    "unit_price_usd": 95
+   },
+   {
+    "sku": "VR-114",
+    "qty": 2,
+    "unit_price_usd": 55
+   },
+   {
+    "sku": "VR-101",
+    "qty": 1,
+    "unit_price_usd": 42
+   }
+  ],
+  "total_usd": 683,
+  "status": "delivered",
+  "ship_to": "7489 Copperleaf Ave, Healdsburg, CA 95448"
+ },
+ {
+  "order_id": "VR-2025-5292",
+  "customer_id": "C-10050",
+  "date": "2025-11-17",
+  "items": [
+   {
+    "sku": "VR-124",
+    "qty": 6,
+    "unit_price_usd": 42
+   }
+  ],
+  "total_usd": 252,
+  "status": "delivered",
+  "ship_to": "8134 Larkspur Hollow Ave, Santa Rosa, CA 95404"
+ },
+ {
+  "order_id": "VR-2025-5293",
+  "customer_id": "C-10079",
+  "date": "2025-08-31",
+  "items": [
+   {
+    "sku": "VR-115",
+    "qty": 3,
+    "unit_price_usd": 99
+   }
+  ],
+  "total_usd": 297,
+  "status": "delivered",
+  "ship_to": "4779 Vinestone Ct, Los Angeles, CA 90026"
+ },
+ {
+  "order_id": "VR-2025-5294",
+  "customer_id": "C-10099",
+  "date": "2025-09-02",
+  "items": [
+   {
+    "sku": "VR-122",
+    "qty": 6,
+    "unit_price_usd": 45
+   }
+  ],
+  "total_usd": 270,
+  "status": "processing",
+  "ship_to": "7995 Foxglen St, Sonoma, CA 95476"
+ },
+ {
+  "order_id": "VR-2025-5295",
+  "customer_id": "C-10087",
+  "date": "2025-08-23",
+  "items": [
+   {
+    "sku": "VR-108",
+    "qty": 3,
+    "unit_price_usd": 78
+   },
+   {
+    "sku": "VR-124",
+    "qty": 3,
+    "unit_price_usd": 42
+   },
+   {
+    "sku": "VR-102",
+    "qty": 2,
+    "unit_price_usd": 38
+   },
+   {
+    "sku": "VR-106",
+    "qty": 2,
+    "unit_price_usd": 48
+   }
+  ],
+  "total_usd": 532,
+  "status": "processing",
+  "ship_to": "7578 Larkspur Hollow Way, Sausalito, CA 94965"
+ },
+ {
+  "order_id": "VR-2026-5296",
+  "customer_id": "C-10095",
+  "date": "2026-08-06",
+  "items": [
+   {
+    "sku": "VR-121",
+    "qty": 12,
+    "unit_price_usd": 49
+   },
+   {
+    "sku": "VR-111",
+    "qty": 1,
+    "unit_price_usd": 62
+   },
+   {
+    "sku": "VR-117",
+    "qty": 1,
+    "unit_price_usd": 32
+   },
+   {
+    "sku": "VR-102",
+    "qty": 6,
+    "unit_price_usd": 38
+   }
+  ],
+  "total_usd": 910,
+  "status": "delivered",
+  "ship_to": "5959 Willowmere Way, Pasadena, CA 91101"
+ },
+ {
+  "order_id": "VR-2025-5297",
+  "customer_id": "C-10131",
+  "date": "2025-11-01",
+  "items": [
+   {
+    "sku": "VR-103",
+    "qty": 2,
+    "unit_price_usd": 66
+   },
+   {
+    "sku": "VR-123",
+    "qty": 6,
+    "unit_price_usd": 46
+   },
+   {
+    "sku": "VR-116",
+    "qty": 6,
+    "unit_price_usd": 95
+   }
+  ],
+  "total_usd": 978,
+  "status": "delivered",
+  "ship_to": "9531 Bramblewood Ct, Pasadena, CA 91101"
+ },
+ {
+  "order_id": "VR-2025-5298",
+  "customer_id": "C-10104",
+  "date": "2025-12-22",
+  "items": [
+   {
+    "sku": "VR-109",
+    "qty": 3,
+    "unit_price_usd": 40
+   },
+   {
+    "sku": "VR-116",
+    "qty": 6,
+    "unit_price_usd": 95
+   }
+  ],
+  "total_usd": 690,
+  "status": "delivered",
+  "ship_to": "7624 Willowmere Way, Berkeley, CA 94704"
+ },
+ {
+  "order_id": "VR-2026-5299",
+  "customer_id": "C-10062",
+  "date": "2026-02-21",
+  "items": [
+   {
+    "sku": "VR-113",
+    "qty": 2,
+    "unit_price_usd": 59
+   },
+   {
+    "sku": "VR-114",
+    "qty": 12,
+    "unit_price_usd": 55
+   },
+   {
+    "sku": "VR-110",
+    "qty": 12,
+    "unit_price_usd": 36
+   },
+   {
+    "sku": "VR-117",
+    "qty": 12,
+    "unit_price_usd": 32
+   }
+  ],
+  "total_usd": 1594,
+  "status": "delivered",
+  "ship_to": "6903 Stillwater Ln, Healdsburg, CA 95448"
+ },
+ {
+  "order_id": "VR-2025-5300",
+  "customer_id": "C-10067",
+  "date": "2025-10-25",
+  "items": [
+   {
+    "sku": "VR-108",
+    "qty": 3,
+    "unit_price_usd": 78
+   },
+   {
+    "sku": "VR-114",
+    "qty": 1,
+    "unit_price_usd": 55
+   },
+   {
+    "sku": "VR-116",
+    "qty": 2,
+    "unit_price_usd": 95
+   }
+  ],
+  "total_usd": 479,
+  "status": "delivered",
+  "ship_to": "2682 Harrow Bend Ln, Petaluma, CA 94952"
+ },
+ {
+  "order_id": "VR-2025-5301",
+  "customer_id": "C-10110",
+  "date": "2025-05-24",
+  "items": [
+   {
+    "sku": "VR-121",
+    "qty": 12,
+    "unit_price_usd": 49
+   },
+   {
+    "sku": "VR-122",
+    "qty": 2,
+    "unit_price_usd": 45
+   },
+   {
+    "sku": "VR-115",
+    "qty": 6,
+    "unit_price_usd": 99
+   }
+  ],
+  "total_usd": 1272,
+  "status": "refunded",
+  "ship_to": "207 Willowmere Ct, Sacramento, CA 95814"
+ },
+ {
+  "order_id": "VR-2026-5302",
+  "customer_id": "C-10046",
+  "date": "2026-03-18",
+  "items": [
+   {
+    "sku": "VR-113",
+    "qty": 12,
+    "unit_price_usd": 59
+   }
+  ],
+  "total_usd": 708,
+  "status": "delivered",
+  "ship_to": "3531 Amberfield St, Sacramento, CA 95814"
+ },
+ {
+  "order_id": "VR-2026-5303",
+  "customer_id": "C-10031",
+  "date": "2026-07-28",
+  "items": [
+   {
+    "sku": "VR-104",
+    "qty": 6,
+    "unit_price_usd": 62
+   },
+   {
+    "sku": "VR-123",
+    "qty": 3,
+    "unit_price_usd": 46
+   },
+   {
+    "sku": "VR-103",
+    "qty": 1,
+    "unit_price_usd": 66
+   }
+  ],
+  "total_usd": 576,
+  "status": "delivered",
+  "ship_to": "1858 Stillwater Ave, Sonoma, CA 95476"
+ },
+ {
+  "order_id": "VR-2025-5304",
+  "customer_id": "C-10090",
+  "date": "2025-06-04",
+  "items": [
+   {
+    "sku": "VR-121",
+    "qty": 12,
+    "unit_price_usd": 49
+   },
+   {
+    "sku": "VR-118",
+    "qty": 1,
+    "unit_price_usd": 28
+   },
+   {
+    "sku": "VR-113",
+    "qty": 2,
+    "unit_price_usd": 59
+   }
+  ],
+  "total_usd": 734,
+  "status": "delivered",
+  "ship_to": "6722 Stillwater Way, San Diego, CA 92103"
+ },
+ {
+  "order_id": "VR-2026-5305",
+  "customer_id": "C-10068",
+  "date": "2026-04-06",
+  "items": [
+   {
+    "sku": "VR-101",
+    "qty": 3,
+    "unit_price_usd": 42
+   },
+   {
+    "sku": "VR-102",
+    "qty": 1,
+    "unit_price_usd": 38
+   },
+   {
+    "sku": "VR-106",
+    "qty": 6,
+    "unit_price_usd": 48
+   }
+  ],
+  "total_usd": 452,
+  "status": "processing",
+  "ship_to": "3787 Vinestone Rd, Berkeley, CA 94704"
+ },
+ {
+  "order_id": "VR-2026-5306",
+  "customer_id": "C-10089",
+  "date": "2026-07-17",
+  "items": [
+   {
+    "sku": "VR-104",
+    "qty": 6,
+    "unit_price_usd": 62
+   },
+   {
+    "sku": "VR-101",
+    "qty": 1,
+    "unit_price_usd": 42
+   }
+  ],
+  "total_usd": 414,
+  "status": "delivered",
+  "ship_to": "2135 Willowmere Rd, Petaluma, CA 94952"
+ },
+ {
+  "order_id": "VR-2025-5307",
+  "customer_id": "C-10041",
+  "date": "2025-06-26",
+  "items": [
+   {
+    "sku": "VR-117",
+    "qty": 12,
+    "unit_price_usd": 32
+   },
+   {
+    "sku": "VR-112",
+    "qty": 3,
+    "unit_price_usd": 58
+   }
+  ],
+  "total_usd": 558,
+  "status": "delivered",
+  "ship_to": "3510 Willowmere Ln, San Jose, CA 95112"
+ },
+ {
+  "order_id": "VR-2026-5308",
+  "customer_id": "C-10020",
+  "date": "2026-04-07",
+  "items": [
+   {
+    "sku": "VR-115",
+    "qty": 12,
+    "unit_price_usd": 99
+   },
+   {
+    "sku": "VR-122",
+    "qty": 6,
+    "unit_price_usd": 45
+   },
+   {
+    "sku": "VR-110",
+    "qty": 3,
+    "unit_price_usd": 36
+   },
+   {
+    "sku": "VR-120",
+    "qty": 2,
+    "unit_price_usd": 26
+   }
+  ],
+  "total_usd": 1618,
+  "status": "delivered",
+  "ship_to": "3576 Willowmere Way, San Jose, CA 95112"
+ },
+ {
+  "order_id": "VR-2026-5309",
+  "customer_id": "C-10034",
+  "date": "2026-02-02",
+  "items": [
+   {
+    "sku": "VR-124",
+    "qty": 3,
+    "unit_price_usd": 42
+   },
+   {
+    "sku": "VR-104",
+    "qty": 1,
+    "unit_price_usd": 62
+   },
+   {
+    "sku": "VR-112",
+    "qty": 1,
+    "unit_price_usd": 58
+   },
+   {
+    "sku": "VR-105",
+    "qty": 2,
+    "unit_price_usd": 52
+   }
+  ],
+  "total_usd": 350,
+  "status": "shipped",
+  "ship_to": "7888 Stillwater Way, Los Angeles, CA 90026"
+ },
+ {
+  "order_id": "VR-2026-5310",
+  "customer_id": "C-10132",
+  "date": "2026-05-10",
+  "items": [
+   {
+    "sku": "VR-102",
+    "qty": 2,
+    "unit_price_usd": 38
+   },
+   {
+    "sku": "VR-112",
+    "qty": 2,
+    "unit_price_usd": 58
+   }
+  ],
+  "total_usd": 192,
+  "status": "processing",
+  "ship_to": "774 Willowmere Rd, Napa, CA 94558"
+ },
+ {
+  "order_id": "VR-2025-5311",
+  "customer_id": "C-10114",
+  "date": "2025-10-14",
+  "items": [
+   {
+    "sku": "VR-122",
+    "qty": 1,
+    "unit_price_usd": 45
+   },
+   {
+    "sku": "VR-119",
+    "qty": 1,
+    "unit_price_usd": 30
+   }
+  ],
+  "total_usd": 75,
+  "status": "shipped",
+  "ship_to": "6304 Amberfield Ct, Napa, CA 94558"
+ },
+ {
+  "order_id": "VR-2026-5312",
+  "customer_id": "C-10079",
+  "date": "2026-05-15",
+  "items": [
+   {
+    "sku": "VR-113",
+    "qty": 12,
+    "unit_price_usd": 59
+   }
+  ],
+  "total_usd": 708,
+  "status": "delivered",
+  "ship_to": "4779 Vinestone Ct, Los Angeles, CA 90026"
+ },
+ {
+  "order_id": "VR-2026-5313",
+  "customer_id": "C-10078",
+  "date": "2026-02-17",
+  "items": [
+   {
+    "sku": "VR-103",
+    "qty": 1,
+    "unit_price_usd": 66
+   }
+  ],
+  "total_usd": 66,
+  "status": "delivered",
+  "ship_to": "7926 Larkspur Hollow St, Oakland, CA 94612"
+ },
+ {
+  "order_id": "VR-2026-5314",
+  "customer_id": "C-10038",
+  "date": "2026-01-06",
+  "items": [
+   {
+    "sku": "VR-111",
+    "qty": 6,
+    "unit_price_usd": 62
+   },
+   {
+    "sku": "VR-119",
+    "qty": 6,
+    "unit_price_usd": 30
+   }
+  ],
+  "total_usd": 552,
+  "status": "delivered",
+  "ship_to": "9288 Cellar Oak St, Napa, CA 94558"
+ },
+ {
+  "order_id": "VR-2025-5315",
+  "customer_id": "C-10021",
+  "date": "2025-07-31",
+  "items": [
+   {
+    "sku": "VR-121",
+    "qty": 1,
+    "unit_price_usd": 49
+   }
+  ],
+  "total_usd": 49,
+  "status": "delivered",
+  "ship_to": "6487 Silvercask Way, Los Angeles, CA 90026"
+ },
+ {
+  "order_id": "VR-2026-5316",
+  "customer_id": "C-10067",
+  "date": "2026-02-25",
+  "items": [
+   {
+    "sku": "VR-123",
+    "qty": 3,
+    "unit_price_usd": 46
+   },
+   {
+    "sku": "VR-121",
+    "qty": 2,
+    "unit_price_usd": 49
+   },
+   {
+    "sku": "VR-112",
+    "qty": 1,
+    "unit_price_usd": 58
+   },
+   {
+    "sku": "VR-109",
+    "qty": 1,
+    "unit_price_usd": 40
+   }
+  ],
+  "total_usd": 334,
+  "status": "delivered",
+  "ship_to": "2682 Harrow Bend Ln, Petaluma, CA 94952"
+ },
+ {
+  "order_id": "VR-2026-5317",
+  "customer_id": "C-10088",
+  "date": "2026-09-24",
+  "items": [
+   {
+    "sku": "VR-102",
+    "qty": 3,
+    "unit_price_usd": 38
+   },
+   {
+    "sku": "VR-114",
+    "qty": 3,
+    "unit_price_usd": 55
+   }
+  ],
+  "total_usd": 279,
+  "status": "refunded",
+  "ship_to": "4104 Bramblewood Rd, San Diego, CA 92103"
+ },
+ {
+  "order_id": "VR-2026-5318",
+  "customer_id": "C-10083",
+  "date": "2026-08-17",
+  "items": [
+   {
+    "sku": "VR-120",
+    "qty": 1,
+    "unit_price_usd": 26
+   }
+  ],
+  "total_usd": 26,
+  "status": "processing",
+  "ship_to": "6711 Bramblewood Ave, Petaluma, CA 94952"
+ },
+ {
+  "order_id": "VR-2025-5319",
+  "customer_id": "C-10034",
+  "date": "2025-08-28",
+  "items": [
+   {
+    "sku": "VR-110",
+    "qty": 1,
+    "unit_price_usd": 36
+   }
+  ],
+  "total_usd": 36,
+  "status": "refunded",
+  "ship_to": "7888 Stillwater Way, Los Angeles, CA 90026"
+ },
+ {
+  "order_id": "VR-2026-5320",
+  "customer_id": "C-10060",
+  "date": "2026-07-24",
+  "items": [
+   {
+    "sku": "VR-123",
+    "qty": 6,
+    "unit_price_usd": 46
+   },
+   {
+    "sku": "VR-117",
+    "qty": 2,
+    "unit_price_usd": 32
+   },
+   {
+    "sku": "VR-116",
+    "qty": 3,
+    "unit_price_usd": 95
+   }
+  ],
+  "total_usd": 625,
+  "status": "delivered",
+  "ship_to": "3542 Silvercask Ave, Los Angeles, CA 90026"
+ },
+ {
+  "order_id": "VR-2025-5321",
+  "customer_id": "C-10052",
+  "date": "2025-08-11",
+  "items": [
+   {
+    "sku": "VR-122",
+    "qty": 12,
+    "unit_price_usd": 45
+   }
+  ],
+  "total_usd": 540,
+  "status": "delivered",
+  "ship_to": "2410 Quartzridge Ave, Sacramento, CA 95814"
+ },
+ {
+  "order_id": "VR-2026-5322",
+  "customer_id": "C-10076",
+  "date": "2026-03-03",
+  "items": [
+   {
+    "sku": "VR-116",
+    "qty": 3,
+    "unit_price_usd": 95
+   }
+  ],
+  "total_usd": 285,
+  "status": "processing",
+  "ship_to": "6124 Bramblewood Ct, Palo Alto, CA 94301"
+ },
+ {
+  "order_id": "VR-2025-5323",
+  "customer_id": "C-10132",
+  "date": "2025-06-05",
+  "items": [
+   {
+    "sku": "VR-117",
+    "qty": 1,
+    "unit_price_usd": 32
+   },
+   {
+    "sku": "VR-119",
+    "qty": 6,
+    "unit_price_usd": 30
+   },
+   {
+    "sku": "VR-105",
+    "qty": 1,
+    "unit_price_usd": 52
+   },
+   {
+    "sku": "VR-106",
+    "qty": 2,
+    "unit_price_usd": 48
+   }
+  ],
+  "total_usd": 360,
+  "status": "delivered",
+  "ship_to": "774 Willowmere Rd, Napa, CA 94558"
+ },
+ {
+  "order_id": "VR-2025-5324",
+  "customer_id": "C-10091",
+  "date": "2025-11-16",
+  "items": [
+   {
+    "sku": "VR-111",
+    "qty": 3,
+    "unit_price_usd": 62
+   }
+  ],
+  "total_usd": 186,
+  "status": "processing",
+  "ship_to": "4290 Cellar Oak Way, Santa Rosa, CA 95404"
+ },
+ {
+  "order_id": "VR-2026-5325",
+  "customer_id": "C-10140",
+  "date": "2026-09-13",
+  "items": [
+   {
+    "sku": "VR-111",
+    "qty": 3,
+    "unit_price_usd": 62
+   },
+   {
+    "sku": "VR-113",
+    "qty": 12,
+    "unit_price_usd": 59
+   }
+  ],
+  "total_usd": 894,
+  "status": "processing",
+  "ship_to": "4110 Quartzridge Ct, Santa Rosa, CA 95404"
+ },
+ {
+  "order_id": "VR-2026-5326",
+  "customer_id": "C-10099",
+  "date": "2026-06-11",
+  "items": [
+   {
+    "sku": "VR-103",
+    "qty": 1,
+    "unit_price_usd": 66
+   },
+   {
+    "sku": "VR-116",
+    "qty": 2,
+    "unit_price_usd": 95
+   },
+   {
+    "sku": "VR-107",
+    "qty": 1,
+    "unit_price_usd": 82
+   },
+   {
+    "sku": "VR-109",
+    "qty": 2,
+    "unit_price_usd": 40
+   }
+  ],
+  "total_usd": 418,
+  "status": "delivered",
+  "ship_to": "7995 Foxglen St, Sonoma, CA 95476"
+ },
+ {
+  "order_id": "VR-2026-5327",
+  "customer_id": "C-10098",
+  "date": "2026-01-28",
+  "items": [
+   {
+    "sku": "VR-122",
+    "qty": 3,
+    "unit_price_usd": 45
+   },
+   {
+    "sku": "VR-104",
+    "qty": 1,
+    "unit_price_usd": 62
+   },
+   {
+    "sku": "VR-106",
+    "qty": 12,
+    "unit_price_usd": 48
+   },
+   {
+    "sku": "VR-117",
+    "qty": 1,
+    "unit_price_usd": 32
+   }
+  ],
+  "total_usd": 805,
+  "status": "delivered",
+  "ship_to": "4418 Bramblewood Ln, Napa, CA 94558"
+ },
+ {
+  "order_id": "VR-2025-5328",
+  "customer_id": "C-10054",
+  "date": "2025-08-21",
+  "items": [
+   {
+    "sku": "VR-121",
+    "qty": 12,
+    "unit_price_usd": 49
+   },
+   {
+    "sku": "VR-104",
+    "qty": 2,
+    "unit_price_usd": 62
+   },
+   {
+    "sku": "VR-113",
+    "qty": 6,
+    "unit_price_usd": 59
+   }
+  ],
+  "total_usd": 1066,
+  "status": "processing",
+  "ship_to": "4979 Foxglen Ct, Sacramento, CA 95814"
+ },
+ {
+  "order_id": "VR-2026-5329",
+  "customer_id": "C-10125",
+  "date": "2026-05-08",
+  "items": [
+   {
+    "sku": "VR-106",
+    "qty": 12,
+    "unit_price_usd": 48
+   },
+   {
+    "sku": "VR-120",
+    "qty": 2,
+    "unit_price_usd": 26
+   }
+  ],
+  "total_usd": 628,
+  "status": "delivered",
+  "ship_to": "961 Silvercask St, Pasadena, CA 91101"
+ },
+ {
+  "order_id": "VR-2026-5330",
+  "customer_id": "C-10123",
+  "date": "2026-04-30",
+  "items": [
+   {
+    "sku": "VR-110",
+    "qty": 1,
+    "unit_price_usd": 36
+   },
+   {
+    "sku": "VR-113",
+    "qty": 2,
+    "unit_price_usd": 59
+   },
+   {
+    "sku": "VR-111",
+    "qty": 3,
+    "unit_price_usd": 62
+   }
+  ],
+  "total_usd": 340,
+  "status": "shipped",
+  "ship_to": "6154 Willowmere Way, Sacramento, CA 95814"
+ },
+ {
+  "order_id": "VR-2026-5331",
+  "customer_id": "C-10014",
+  "date": "2026-05-28",
+  "items": [
+   {
+    "sku": "VR-104",
+    "qty": 1,
+    "unit_price_usd": 62
+   },
+   {
+    "sku": "VR-117",
+    "qty": 2,
+    "unit_price_usd": 32
+   }
+  ],
+  "total_usd": 126,
+  "status": "delivered",
+  "ship_to": "56 Vinestone Rd, Napa, CA 94558"
+ },
+ {
+  "order_id": "VR-2025-5332",
+  "customer_id": "C-10035",
+  "date": "2025-10-02",
+  "items": [
+   {
+    "sku": "VR-116",
+    "qty": 2,
+    "unit_price_usd": 95
+   },
+   {
+    "sku": "VR-124",
+    "qty": 12,
+    "unit_price_usd": 42
+   }
+  ],
+  "total_usd": 694,
+  "status": "delivered",
+  "ship_to": "7020 Quartzridge Ln, Sacramento, CA 95814"
+ },
+ {
+  "order_id": "VR-2026-5333",
+  "customer_id": "C-10018",
+  "date": "2026-06-29",
+  "items": [
+   {
+    "sku": "VR-117",
+    "qty": 2,
+    "unit_price_usd": 32
+   }
+  ],
+  "total_usd": 64,
+  "status": "delivered",
+  "ship_to": "8229 Bramblewood Ave, San Diego, CA 92103"
+ },
+ {
+  "order_id": "VR-2026-5334",
+  "customer_id": "C-10131",
+  "date": "2026-02-14",
+  "items": [
+   {
+    "sku": "VR-115",
+    "qty": 1,
+    "unit_price_usd": 99
+   },
+   {
+    "sku": "VR-109",
+    "qty": 6,
+    "unit_price_usd": 40
+   },
+   {
+    "sku": "VR-121",
+    "qty": 12,
+    "unit_price_usd": 49
+   }
+  ],
+  "total_usd": 927,
+  "status": "delivered",
+  "ship_to": "9531 Bramblewood Ct, Pasadena, CA 91101"
+ },
+ {
+  "order_id": "VR-2025-5335",
+  "customer_id": "C-10038",
+  "date": "2025-09-01",
+  "items": [
+   {
+    "sku": "VR-108",
+    "qty": 3,
+    "unit_price_usd": 78
+   },
+   {
+    "sku": "VR-107",
+    "qty": 3,
+    "unit_price_usd": 82
+   },
+   {
+    "sku": "VR-120",
+    "qty": 1,
+    "unit_price_usd": 26
+   }
+  ],
+  "total_usd": 506,
+  "status": "delivered",
+  "ship_to": "9288 Cellar Oak St, Napa, CA 94558"
+ },
+ {
+  "order_id": "VR-2026-5336",
+  "customer_id": "C-10057",
+  "date": "2026-04-22",
+  "items": [
+   {
+    "sku": "VR-111",
+    "qty": 1,
+    "unit_price_usd": 62
+   }
+  ],
+  "total_usd": 62,
+  "status": "delivered",
+  "ship_to": "4394 Copperleaf St, Oakland, CA 94612"
+ },
+ {
+  "order_id": "VR-2025-5337",
+  "customer_id": "C-10128",
+  "date": "2025-11-02",
+  "items": [
+   {
+    "sku": "VR-102",
+    "qty": 12,
+    "unit_price_usd": 38
+   }
+  ],
+  "total_usd": 456,
+  "status": "delivered",
+  "ship_to": "6141 Foxglen Ct, Berkeley, CA 94704"
+ },
+ {
+  "order_id": "VR-2026-5338",
+  "customer_id": "C-10146",
+  "date": "2026-05-31",
+  "items": [
+   {
+    "sku": "VR-117",
+    "qty": 1,
+    "unit_price_usd": 32
+   },
+   {
+    "sku": "VR-105",
+    "qty": 12,
+    "unit_price_usd": 52
+   },
+   {
+    "sku": "VR-116",
+    "qty": 6,
+    "unit_price_usd": 95
+   }
+  ],
+  "total_usd": 1226,
+  "status": "delivered",
+  "ship_to": "6386 Amberfield Ave, Berkeley, CA 94704"
+ },
+ {
+  "order_id": "VR-2026-5339",
+  "customer_id": "C-10150",
+  "date": "2026-03-06",
+  "items": [
+   {
+    "sku": "VR-110",
+    "qty": 3,
+    "unit_price_usd": 36
+   },
+   {
+    "sku": "VR-117",
+    "qty": 3,
+    "unit_price_usd": 32
+   },
+   {
+    "sku": "VR-121",
+    "qty": 2,
+    "unit_price_usd": 49
+   },
+   {
+    "sku": "VR-108",
+    "qty": 6,
+    "unit_price_usd": 78
+   }
+  ],
+  "total_usd": 770,
+  "status": "delivered",
+  "ship_to": "742 Harrow Bend St, Santa Rosa, CA 95404"
+ },
+ {
+  "order_id": "VR-2025-5340",
+  "customer_id": "C-10048",
+  "date": "2025-09-21",
+  "items": [
+   {
+    "sku": "VR-110",
+    "qty": 3,
+    "unit_price_usd": 36
+   },
+   {
+    "sku": "VR-105",
+    "qty": 6,
+    "unit_price_usd": 52
+   },
+   {
+    "sku": "VR-120",
+    "qty": 2,
+    "unit_price_usd": 26
+   }
+  ],
+  "total_usd": 472,
+  "status": "delivered",
+  "ship_to": "2830 Harrow Bend Ct, Oakland, CA 94612"
+ },
+ {
+  "order_id": "VR-2025-5341",
+  "customer_id": "C-10050",
+  "date": "2025-12-04",
+  "items": [
+   {
+    "sku": "VR-121",
+    "qty": 1,
+    "unit_price_usd": 49
+   },
+   {
+    "sku": "VR-104",
+    "qty": 1,
+    "unit_price_usd": 62
+   }
+  ],
+  "total_usd": 111,
+  "status": "delivered",
+  "ship_to": "8134 Larkspur Hollow Ave, Santa Rosa, CA 95404"
+ },
+ {
+  "order_id": "VR-2026-5342",
+  "customer_id": "C-10031",
+  "date": "2026-05-22",
+  "items": [
+   {
+    "sku": "VR-117",
+    "qty": 1,
+    "unit_price_usd": 32
+   },
+   {
+    "sku": "VR-120",
+    "qty": 1,
+    "unit_price_usd": 26
+   },
+   {
+    "sku": "VR-101",
+    "qty": 1,
+    "unit_price_usd": 42
+   },
+   {
+    "sku": "VR-115",
+    "qty": 3,
+    "unit_price_usd": 99
+   }
+  ],
+  "total_usd": 397,
+  "status": "delivered",
+  "ship_to": "1858 Stillwater Ave, Sonoma, CA 95476"
+ },
+ {
+  "order_id": "VR-2026-5343",
+  "customer_id": "C-10016",
+  "date": "2026-05-19",
+  "items": [
+   {
+    "sku": "VR-111",
+    "qty": 2,
+    "unit_price_usd": 62
+   },
+   {
+    "sku": "VR-118",
+    "qty": 2,
+    "unit_price_usd": 28
+   },
+   {
+    "sku": "VR-110",
+    "qty": 12,
+    "unit_price_usd": 36
+   },
+   {
+    "sku": "VR-101",
+    "qty": 1,
+    "unit_price_usd": 42
+   }
+  ],
+  "total_usd": 654,
+  "status": "processing",
+  "ship_to": "4693 Foxglen Ave, Los Angeles, CA 90026"
+ },
+ {
+  "order_id": "VR-2025-5344",
+  "customer_id": "C-10054",
+  "date": "2025-05-30",
+  "items": [
+   {
+    "sku": "VR-111",
+    "qty": 1,
+    "unit_price_usd": 62
+   }
+  ],
+  "total_usd": 62,
+  "status": "shipped",
+  "ship_to": "4979 Foxglen Ct, Sacramento, CA 95814"
+ },
+ {
+  "order_id": "VR-2026-5345",
+  "customer_id": "C-10139",
+  "date": "2026-02-22",
+  "items": [
+   {
+    "sku": "VR-119",
+    "qty": 2,
+    "unit_price_usd": 30
+   },
+   {
+    "sku": "VR-108",
+    "qty": 1,
+    "unit_price_usd": 78
+   }
+  ],
+  "total_usd": 138,
+  "status": "processing",
+  "ship_to": "830 Amberfield St, Fresno, CA 93721"
+ },
+ {
+  "order_id": "VR-2025-5346",
+  "customer_id": "C-10079",
+  "date": "2025-08-25",
+  "items": [
+   {
+    "sku": "VR-119",
+    "qty": 1,
+    "unit_price_usd": 30
+   },
+   {
+    "sku": "VR-112",
+    "qty": 12,
+    "unit_price_usd": 58
+   }
+  ],
+  "total_usd": 726,
+  "status": "delivered",
+  "ship_to": "4779 Vinestone Ct, Los Angeles, CA 90026"
+ },
+ {
+  "order_id": "VR-2025-5347",
+  "customer_id": "C-10003",
+  "date": "2025-10-10",
+  "items": [
+   {
+    "sku": "VR-123",
+    "qty": 6,
+    "unit_price_usd": 46
+   },
+   {
+    "sku": "VR-105",
+    "qty": 1,
+    "unit_price_usd": 52
+   },
+   {
+    "sku": "VR-108",
+    "qty": 1,
+    "unit_price_usd": 78
+   },
+   {
+    "sku": "VR-121",
+    "qty": 3,
+    "unit_price_usd": 49
+   }
+  ],
+  "total_usd": 553,
+  "status": "processing",
+  "ship_to": "5686 Copperleaf Way, Berkeley, CA 94704"
+ },
+ {
+  "order_id": "VR-2025-5348",
+  "customer_id": "C-10061",
+  "date": "2025-05-24",
+  "items": [
+   {
+    "sku": "VR-119",
+    "qty": 12,
+    "unit_price_usd": 30
+   },
+   {
+    "sku": "VR-117",
+    "qty": 2,
+    "unit_price_usd": 32
+   }
+  ],
+  "total_usd": 424,
+  "status": "delivered",
+  "ship_to": "8086 Vinestone Rd, Sausalito, CA 94965"
+ },
+ {
+  "order_id": "VR-2026-5349",
+  "customer_id": "C-10094",
+  "date": "2026-02-14",
+  "items": [
+   {
+    "sku": "VR-120",
+    "qty": 1,
+    "unit_price_usd": 26
+   },
+   {
+    "sku": "VR-102",
+    "qty": 1,
+    "unit_price_usd": 38
+   },
+   {
+    "sku": "VR-107",
+    "qty": 12,
+    "unit_price_usd": 82
+   }
+  ],
+  "total_usd": 1048,
+  "status": "shipped",
+  "ship_to": "3420 Cellar Oak Ave, Santa Rosa, CA 95404"
+ },
+ {
+  "order_id": "VR-2025-5350",
+  "customer_id": "C-10073",
+  "date": "2025-07-18",
+  "items": [
+   {
+    "sku": "VR-114",
+    "qty": 6,
+    "unit_price_usd": 55
+   },
+   {
+    "sku": "VR-102",
+    "qty": 12,
+    "unit_price_usd": 38
+   },
+   {
+    "sku": "VR-107",
+    "qty": 3,
+    "unit_price_usd": 82
+   }
+  ],
+  "total_usd": 1032,
+  "status": "delivered",
+  "ship_to": "9633 Copperleaf Ln, Santa Rosa, CA 95404"
+ },
+ {
+  "order_id": "VR-2026-5351",
+  "customer_id": "C-10080",
+  "date": "2026-02-27",
+  "items": [
+   {
+    "sku": "VR-107",
+    "qty": 6,
+    "unit_price_usd": 82
+   },
+   {
+    "sku": "VR-111",
+    "qty": 3,
+    "unit_price_usd": 62
+   },
+   {
+    "sku": "VR-102",
+    "qty": 1,
+    "unit_price_usd": 38
+   }
+  ],
+  "total_usd": 716,
+  "status": "delivered",
+  "ship_to": "5512 Cellar Oak Ct, Healdsburg, CA 95448"
+ },
+ {
+  "order_id": "VR-2025-5352",
+  "customer_id": "C-10118",
+  "date": "2025-04-30",
+  "items": [
+   {
+    "sku": "VR-106",
+    "qty": 12,
+    "unit_price_usd": 48
+   },
+   {
+    "sku": "VR-101",
+    "qty": 6,
+    "unit_price_usd": 42
+   }
+  ],
+  "total_usd": 828,
+  "status": "shipped",
+  "ship_to": "2470 Silvercask Ct, Oakland, CA 94612"
+ },
+ {
+  "order_id": "VR-2025-5353",
+  "customer_id": "C-10076",
+  "date": "2025-10-29",
+  "items": [
+   {
+    "sku": "VR-114",
+    "qty": 1,
+    "unit_price_usd": 55
+   }
+  ],
+  "total_usd": 55,
+  "status": "delivered",
+  "ship_to": "6124 Bramblewood Ct, Palo Alto, CA 94301"
+ },
+ {
+  "order_id": "VR-2025-5354",
+  "customer_id": "C-10009",
+  "date": "2025-05-10",
+  "items": [
+   {
+    "sku": "VR-104",
+    "qty": 1,
+    "unit_price_usd": 62
+   },
+   {
+    "sku": "VR-105",
+    "qty": 1,
+    "unit_price_usd": 52
+   },
+   {
+    "sku": "VR-116",
+    "qty": 6,
+    "unit_price_usd": 95
+   }
+  ],
+  "total_usd": 684,
+  "status": "delivered",
+  "ship_to": "8582 Foxglen Ct, Oakland, CA 94612"
+ },
+ {
+  "order_id": "VR-2026-5355",
+  "customer_id": "C-10049",
+  "date": "2026-08-31",
+  "items": [
+   {
+    "sku": "VR-118",
+    "qty": 3,
+    "unit_price_usd": 28
+   },
+   {
+    "sku": "VR-105",
+    "qty": 6,
+    "unit_price_usd": 52
+   },
+   {
+    "sku": "VR-111",
+    "qty": 3,
+    "unit_price_usd": 62
+   }
+  ],
+  "total_usd": 582,
+  "status": "delivered",
+  "ship_to": "2426 Larkspur Hollow Ave, Santa Rosa, CA 95404"
+ },
+ {
+  "order_id": "VR-2026-5356",
+  "customer_id": "C-10010",
+  "date": "2026-08-09",
+  "items": [
+   {
+    "sku": "VR-101",
+    "qty": 3,
+    "unit_price_usd": 42
+   },
+   {
+    "sku": "VR-113",
+    "qty": 3,
+    "unit_price_usd": 59
+   }
+  ],
+  "total_usd": 303,
+  "status": "delivered",
+  "ship_to": "556 Silvercask Ave, Palo Alto, CA 94301"
+ },
+ {
+  "order_id": "VR-2026-5357",
+  "customer_id": "C-10115",
+  "date": "2026-02-04",
+  "items": [
+   {
+    "sku": "VR-116",
+    "qty": 3,
+    "unit_price_usd": 95
+   },
+   {
+    "sku": "VR-121",
+    "qty": 6,
+    "unit_price_usd": 49
+   }
+  ],
+  "total_usd": 579,
+  "status": "processing",
+  "ship_to": "8356 Larkspur Hollow Ln, Petaluma, CA 94952"
+ },
+ {
+  "order_id": "VR-2025-5358",
+  "customer_id": "C-10035",
+  "date": "2025-06-26",
+  "items": [
+   {
+    "sku": "VR-106",
+    "qty": 1,
+    "unit_price_usd": 48
+   },
+   {
+    "sku": "VR-115",
+    "qty": 2,
+    "unit_price_usd": 99
+   },
+   {
+    "sku": "VR-102",
+    "qty": 1,
+    "unit_price_usd": 38
+   }
+  ],
+  "total_usd": 284,
+  "status": "delivered",
+  "ship_to": "7020 Quartzridge Ln, Sacramento, CA 95814"
+ },
+ {
+  "order_id": "VR-2026-5359",
+  "customer_id": "C-10052",
+  "date": "2026-02-28",
+  "items": [
+   {
+    "sku": "VR-120",
+    "qty": 12,
+    "unit_price_usd": 26
+   }
+  ],
+  "total_usd": 312,
+  "status": "delivered",
+  "ship_to": "2410 Quartzridge Ave, Sacramento, CA 95814"
+ },
+ {
+  "order_id": "VR-2026-5360",
+  "customer_id": "C-10056",
+  "date": "2026-04-04",
+  "items": [
+   {
+    "sku": "VR-120",
+    "qty": 6,
+    "unit_price_usd": 26
+   }
+  ],
+  "total_usd": 156,
+  "status": "delivered",
+  "ship_to": "4252 Bramblewood Way, Oakland, CA 94612"
+ },
+ {
+  "order_id": "VR-2025-5361",
+  "customer_id": "C-10023",
+  "date": "2025-09-15",
+  "items": [
+   {
+    "sku": "VR-124",
+    "qty": 2,
+    "unit_price_usd": 42
+   },
+   {
+    "sku": "VR-106",
+    "qty": 1,
+    "unit_price_usd": 48
+   },
+   {
+    "sku": "VR-112",
+    "qty": 12,
+    "unit_price_usd": 58
+   },
+   {
+    "sku": "VR-117",
+    "qty": 3,
+    "unit_price_usd": 32
+   }
+  ],
+  "total_usd": 924,
+  "status": "refunded",
+  "ship_to": "1796 Quartzridge Ct, Healdsburg, CA 95448"
+ },
+ {
+  "order_id": "VR-2026-5362",
+  "customer_id": "C-10061",
+  "date": "2026-01-07",
+  "items": [
+   {
+    "sku": "VR-102",
+    "qty": 6,
+    "unit_price_usd": 38
+   }
+  ],
+  "total_usd": 228,
+  "status": "delivered",
+  "ship_to": "8086 Vinestone Rd, Sausalito, CA 94965"
+ },
+ {
+  "order_id": "VR-2025-5363",
+  "customer_id": "C-10094",
+  "date": "2025-12-13",
+  "items": [
+   {
+    "sku": "VR-106",
+    "qty": 12,
+    "unit_price_usd": 48
+   },
+   {
+    "sku": "VR-104",
+    "qty": 12,
+    "unit_price_usd": 62
+   },
+   {
+    "sku": "VR-114",
+    "qty": 3,
+    "unit_price_usd": 55
+   },
+   {
+    "sku": "VR-118",
+    "qty": 3,
+    "unit_price_usd": 28
+   }
+  ],
+  "total_usd": 1569,
+  "status": "shipped",
+  "ship_to": "3420 Cellar Oak Ave, Santa Rosa, CA 95404"
+ },
+ {
+  "order_id": "VR-2026-5364",
+  "customer_id": "C-10046",
+  "date": "2026-06-24",
+  "items": [
+   {
+    "sku": "VR-120",
+    "qty": 12,
+    "unit_price_usd": 26
+   },
+   {
+    "sku": "VR-110",
+    "qty": 2,
+    "unit_price_usd": 36
+   },
+   {
+    "sku": "VR-114",
+    "qty": 1,
+    "unit_price_usd": 55
+   }
+  ],
+  "total_usd": 439,
+  "status": "shipped",
+  "ship_to": "3531 Amberfield St, Sacramento, CA 95814"
+ },
+ {
+  "order_id": "VR-2026-5365",
+  "customer_id": "C-10076",
+  "date": "2026-02-09",
+  "items": [
+   {
+    "sku": "VR-112",
+    "qty": 6,
+    "unit_price_usd": 58
+   },
+   {
+    "sku": "VR-114",
+    "qty": 1,
+    "unit_price_usd": 55
+   }
+  ],
+  "total_usd": 403,
+  "status": "delivered",
+  "ship_to": "6124 Bramblewood Ct, Palo Alto, CA 94301"
+ },
+ {
+  "order_id": "VR-2025-5366",
+  "customer_id": "C-10147",
+  "date": "2025-09-19",
+  "items": [
+   {
+    "sku": "VR-111",
+    "qty": 1,
+    "unit_price_usd": 62
+   }
+  ],
+  "total_usd": 62,
+  "status": "delivered",
+  "ship_to": "2513 Bramblewood Way, Oakland, CA 94612"
+ },
+ {
+  "order_id": "VR-2026-5367",
+  "customer_id": "C-10131",
+  "date": "2026-04-24",
+  "items": [
+   {
+    "sku": "VR-117",
+    "qty": 1,
+    "unit_price_usd": 32
+   },
+   {
+    "sku": "VR-122",
+    "qty": 6,
+    "unit_price_usd": 45
+   }
+  ],
+  "total_usd": 302,
+  "status": "delivered",
+  "ship_to": "9531 Bramblewood Ct, Pasadena, CA 91101"
+ },
+ {
+  "order_id": "VR-2025-5368",
+  "customer_id": "C-10044",
+  "date": "2025-09-27",
+  "items": [
+   {
+    "sku": "VR-106",
+    "qty": 6,
+    "unit_price_usd": 48
+   },
+   {
+    "sku": "VR-105",
+    "qty": 1,
+    "unit_price_usd": 52
+   }
+  ],
+  "total_usd": 340,
+  "status": "delivered",
+  "ship_to": "122 Silvercask Rd, San Jose, CA 95112"
+ },
+ {
+  "order_id": "VR-2026-5369",
+  "customer_id": "C-10005",
+  "date": "2026-02-14",
+  "items": [
+   {
+    "sku": "VR-107",
+    "qty": 6,
+    "unit_price_usd": 82
+   },
+   {
+    "sku": "VR-109",
+    "qty": 1,
+    "unit_price_usd": 40
+   },
+   {
+    "sku": "VR-122",
+    "qty": 1,
+    "unit_price_usd": 45
+   },
+   {
+    "sku": "VR-123",
+    "qty": 2,
+    "unit_price_usd": 46
+   }
+  ],
+  "total_usd": 669,
+  "status": "shipped",
+  "ship_to": "8130 Bramblewood Rd, Pasadena, CA 91101"
+ },
+ {
+  "order_id": "VR-2026-5370",
+  "customer_id": "C-10119",
+  "date": "2026-02-03",
+  "items": [
+   {
+    "sku": "VR-111",
+    "qty": 2,
+    "unit_price_usd": 62
+   },
+   {
+    "sku": "VR-118",
+    "qty": 3,
+    "unit_price_usd": 28
+   }
+  ],
+  "total_usd": 208,
+  "status": "delivered",
+  "ship_to": "2553 Stillwater Ct, San Francisco, CA 94110"
+ },
+ {
+  "order_id": "VR-2025-5371",
+  "customer_id": "C-10016",
+  "date": "2025-08-05",
+  "items": [
+   {
+    "sku": "VR-117",
+    "qty": 1,
+    "unit_price_usd": 32
+   },
+   {
+    "sku": "VR-120",
+    "qty": 1,
+    "unit_price_usd": 26
+   },
+   {
+    "sku": "VR-106",
+    "qty": 3,
+    "unit_price_usd": 48
+   }
+  ],
+  "total_usd": 202,
+  "status": "delivered",
+  "ship_to": "4693 Foxglen Ave, Los Angeles, CA 90026"
+ },
+ {
+  "order_id": "VR-2025-5372",
+  "customer_id": "C-10060",
+  "date": "2025-11-19",
+  "items": [
+   {
+    "sku": "VR-104",
+    "qty": 1,
+    "unit_price_usd": 62
+   },
+   {
+    "sku": "VR-121",
+    "qty": 6,
+    "unit_price_usd": 49
+   },
+   {
+    "sku": "VR-114",
+    "qty": 12,
+    "unit_price_usd": 55
+   },
+   {
+    "sku": "VR-108",
+    "qty": 6,
+    "unit_price_usd": 78
+   }
+  ],
+  "total_usd": 1484,
+  "status": "refunded",
+  "ship_to": "3542 Silvercask Ave, Los Angeles, CA 90026"
+ },
+ {
+  "order_id": "VR-2026-5373",
+  "customer_id": "C-10058",
+  "date": "2026-07-09",
+  "items": [
+   {
+    "sku": "VR-117",
+    "qty": 1,
+    "unit_price_usd": 32
+   }
+  ],
+  "total_usd": 32,
+  "status": "delivered",
+  "ship_to": "3922 Willowmere Ln, Pasadena, CA 91101"
+ },
+ {
+  "order_id": "VR-2025-5374",
+  "customer_id": "C-10084",
+  "date": "2025-12-15",
+  "items": [
+   {
+    "sku": "VR-117",
+    "qty": 2,
+    "unit_price_usd": 32
+   },
+   {
+    "sku": "VR-110",
+    "qty": 1,
+    "unit_price_usd": 36
+   },
+   {
+    "sku": "VR-106",
+    "qty": 1,
+    "unit_price_usd": 48
+   },
+   {
+    "sku": "VR-111",
+    "qty": 2,
+    "unit_price_usd": 62
+   }
+  ],
+  "total_usd": 272,
+  "status": "delivered",
+  "ship_to": "631 Quartzridge Way, Pasadena, CA 91101"
+ },
+ {
+  "order_id": "VR-2026-5375",
+  "customer_id": "C-10028",
+  "date": "2026-02-04",
+  "items": [
+   {
+    "sku": "VR-112",
+    "qty": 6,
+    "unit_price_usd": 58
+   },
+   {
+    "sku": "VR-120",
+    "qty": 1,
+    "unit_price_usd": 26
+   }
+  ],
+  "total_usd": 374,
+  "status": "shipped",
+  "ship_to": "1031 Larkspur Hollow Ln, Sausalito, CA 94965"
+ },
+ {
+  "order_id": "VR-2026-5376",
+  "customer_id": "C-10038",
+  "date": "2026-04-02",
+  "items": [
+   {
+    "sku": "VR-108",
+    "qty": 12,
+    "unit_price_usd": 78
+   },
+   {
+    "sku": "VR-107",
+    "qty": 1,
+    "unit_price_usd": 82
+   },
+   {
+    "sku": "VR-105",
+    "qty": 2,
+    "unit_price_usd": 52
+   },
+   {
+    "sku": "VR-117",
+    "qty": 2,
+    "unit_price_usd": 32
+   }
+  ],
+  "total_usd": 1186,
+  "status": "delivered",
+  "ship_to": "9288 Cellar Oak St, Napa, CA 94558"
+ },
+ {
+  "order_id": "VR-2026-5377",
+  "customer_id": "C-10044",
+  "date": "2026-03-27",
+  "items": [
+   {
+    "sku": "VR-103",
+    "qty": 2,
+    "unit_price_usd": 66
+   },
+   {
+    "sku": "VR-115",
+    "qty": 6,
+    "unit_price_usd": 99
+   },
+   {
+    "sku": "VR-101",
+    "qty": 1,
+    "unit_price_usd": 42
+   }
+  ],
+  "total_usd": 768,
+  "status": "refunded",
+  "ship_to": "122 Silvercask Rd, San Jose, CA 95112"
+ },
+ {
+  "order_id": "VR-2026-5378",
+  "customer_id": "C-10053",
+  "date": "2026-02-10",
+  "items": [
+   {
+    "sku": "VR-115",
+    "qty": 3,
+    "unit_price_usd": 99
+   },
+   {
+    "sku": "VR-120",
+    "qty": 3,
+    "unit_price_usd": 26
+   }
+  ],
+  "total_usd": 375,
+  "status": "processing",
+  "ship_to": "6724 Stillwater Ave, Healdsburg, CA 95448"
+ },
+ {
+  "order_id": "VR-2026-5379",
+  "customer_id": "C-10021",
+  "date": "2026-03-28",
+  "items": [
+   {
+    "sku": "VR-111",
+    "qty": 12,
+    "unit_price_usd": 62
+   },
+   {
+    "sku": "VR-123",
+    "qty": 12,
+    "unit_price_usd": 46
+   }
+  ],
+  "total_usd": 1296,
+  "status": "delivered",
+  "ship_to": "6487 Silvercask Way, Los Angeles, CA 90026"
+ },
+ {
+  "order_id": "VR-2026-5380",
+  "customer_id": "C-10018",
+  "date": "2026-07-16",
+  "items": [
+   {
+    "sku": "VR-107",
+    "qty": 1,
+    "unit_price_usd": 82
+   }
+  ],
+  "total_usd": 82,
+  "status": "refunded",
+  "ship_to": "8229 Bramblewood Ave, San Diego, CA 92103"
+ },
+ {
+  "order_id": "VR-2025-5381",
+  "customer_id": "C-10064",
+  "date": "2025-04-12",
+  "items": [
+   {
+    "sku": "VR-112",
+    "qty": 6,
+    "unit_price_usd": 58
+   },
+   {
+    "sku": "VR-121",
+    "qty": 6,
+    "unit_price_usd": 49
+   },
+   {
+    "sku": "VR-119",
+    "qty": 6,
+    "unit_price_usd": 30
+   },
+   {
+    "sku": "VR-102",
+    "qty": 6,
+    "unit_price_usd": 38
+   }
+  ],
+  "total_usd": 1050,
+  "status": "shipped",
+  "ship_to": "50 Harrow Bend Ave, San Francisco, CA 94110"
+ },
+ {
+  "order_id": "VR-2026-5382",
+  "customer_id": "C-10102",
+  "date": "2026-05-20",
+  "items": [
+   {
+    "sku": "VR-112",
+    "qty": 2,
+    "unit_price_usd": 58
+   }
+  ],
+  "total_usd": 116,
+  "status": "shipped",
+  "ship_to": "9829 Cellar Oak Ct, Palo Alto, CA 94301"
+ },
+ {
+  "order_id": "VR-2025-5383",
+  "customer_id": "C-10089",
+  "date": "2025-06-13",
+  "items": [
+   {
+    "sku": "VR-118",
+    "qty": 3,
+    "unit_price_usd": 28
+   },
+   {
+    "sku": "VR-123",
+    "qty": 3,
+    "unit_price_usd": 46
+   },
+   {
+    "sku": "VR-107",
+    "qty": 2,
+    "unit_price_usd": 82
+   },
+   {
+    "sku": "VR-111",
+    "qty": 6,
+    "unit_price_usd": 62
+   }
+  ],
+  "total_usd": 758,
+  "status": "delivered",
+  "ship_to": "2135 Willowmere Rd, Petaluma, CA 94952"
+ },
+ {
+  "order_id": "VR-2026-5384",
+  "customer_id": "C-10074",
+  "date": "2026-09-14",
+  "items": [
+   {
+    "sku": "VR-122",
+    "qty": 12,
+    "unit_price_usd": 45
+   },
+   {
+    "sku": "VR-106",
+    "qty": 3,
+    "unit_price_usd": 48
+   },
+   {
+    "sku": "VR-110",
+    "qty": 1,
+    "unit_price_usd": 36
+   }
+  ],
+  "total_usd": 720,
+  "status": "delivered",
+  "ship_to": "1032 Larkspur Hollow Way, San Francisco, CA 94110"
+ },
+ {
+  "order_id": "VR-2026-5385",
+  "customer_id": "C-10064",
+  "date": "2026-08-07",
+  "items": [
+   {
+    "sku": "VR-120",
+    "qty": 12,
+    "unit_price_usd": 26
+   },
+   {
+    "sku": "VR-113",
+    "qty": 6,
+    "unit_price_usd": 59
+   },
+   {
+    "sku": "VR-121",
+    "qty": 3,
+    "unit_price_usd": 49
+   }
+  ],
+  "total_usd": 813,
+  "status": "delivered",
+  "ship_to": "50 Harrow Bend Ave, San Francisco, CA 94110"
+ },
+ {
+  "order_id": "VR-2025-5386",
+  "customer_id": "C-10089",
+  "date": "2025-08-20",
+  "items": [
+   {
+    "sku": "VR-116",
+    "qty": 6,
+    "unit_price_usd": 95
+   },
+   {
+    "sku": "VR-118",
+    "qty": 3,
+    "unit_price_usd": 28
+   },
+   {
+    "sku": "VR-111",
+    "qty": 1,
+    "unit_price_usd": 62
+   }
+  ],
+  "total_usd": 716,
+  "status": "delivered",
+  "ship_to": "2135 Willowmere Rd, Petaluma, CA 94952"
+ },
+ {
+  "order_id": "VR-2025-5387",
+  "customer_id": "C-10009",
+  "date": "2025-04-24",
+  "items": [
+   {
+    "sku": "VR-119",
+    "qty": 2,
+    "unit_price_usd": 30
+   },
+   {
+    "sku": "VR-102",
+    "qty": 3,
+    "unit_price_usd": 38
+   }
+  ],
+  "total_usd": 174,
+  "status": "delivered",
+  "ship_to": "8582 Foxglen Ct, Oakland, CA 94612"
+ },
+ {
+  "order_id": "VR-2025-5388",
+  "customer_id": "C-10115",
+  "date": "2025-07-24",
+  "items": [
+   {
+    "sku": "VR-106",
+    "qty": 6,
+    "unit_price_usd": 48
+   },
+   {
+    "sku": "VR-121",
+    "qty": 12,
+    "unit_price_usd": 49
+   }
+  ],
+  "total_usd": 876,
+  "status": "refunded",
+  "ship_to": "8356 Larkspur Hollow Ln, Petaluma, CA 94952"
+ },
+ {
+  "order_id": "VR-2026-5389",
+  "customer_id": "C-10028",
+  "date": "2026-08-06",
+  "items": [
+   {
+    "sku": "VR-109",
+    "qty": 2,
+    "unit_price_usd": 40
+   }
+  ],
+  "total_usd": 80,
+  "status": "delivered",
+  "ship_to": "1031 Larkspur Hollow Ln, Sausalito, CA 94965"
+ },
+ {
+  "order_id": "VR-2025-5390",
+  "customer_id": "C-10068",
+  "date": "2025-04-11",
+  "items": [
+   {
+    "sku": "VR-121",
+    "qty": 1,
+    "unit_price_usd": 49
+   },
+   {
+    "sku": "VR-107",
+    "qty": 1,
+    "unit_price_usd": 82
+   },
+   {
+    "sku": "VR-110",
+    "qty": 12,
+    "unit_price_usd": 36
+   }
+  ],
+  "total_usd": 563,
+  "status": "refunded",
+  "ship_to": "3787 Vinestone Rd, Berkeley, CA 94704"
+ },
+ {
+  "order_id": "VR-2026-5391",
+  "customer_id": "C-10055",
+  "date": "2026-01-20",
+  "items": [
+   {
+    "sku": "VR-124",
+    "qty": 1,
+    "unit_price_usd": 42
+   }
+  ],
+  "total_usd": 42,
+  "status": "delivered",
+  "ship_to": "981 Vinestone Way, Santa Rosa, CA 95404"
+ },
+ {
+  "order_id": "VR-2025-5392",
+  "customer_id": "C-10101",
+  "date": "2025-07-24",
+  "items": [
+   {
+    "sku": "VR-119",
+    "qty": 1,
+    "unit_price_usd": 30
+   },
+   {
+    "sku": "VR-107",
+    "qty": 1,
+    "unit_price_usd": 82
+   },
+   {
+    "sku": "VR-109",
+    "qty": 3,
+    "unit_price_usd": 40
+   },
+   {
+    "sku": "VR-116",
+    "qty": 6,
+    "unit_price_usd": 95
+   }
+  ],
+  "total_usd": 802,
+  "status": "delivered",
+  "ship_to": "4838 Vinestone Rd, Napa, CA 94558"
+ },
+ {
+  "order_id": "VR-2026-5393",
+  "customer_id": "C-10013",
+  "date": "2026-03-03",
+  "items": [
+   {
+    "sku": "VR-105",
+    "qty": 1,
+    "unit_price_usd": 52
+   },
+   {
+    "sku": "VR-121",
+    "qty": 3,
+    "unit_price_usd": 49
+   },
+   {
+    "sku": "VR-120",
+    "qty": 6,
+    "unit_price_usd": 26
+   }
+  ],
+  "total_usd": 355,
+  "status": "delivered",
+  "ship_to": "6620 Foxglen Rd, Sausalito, CA 94965"
+ },
+ {
+  "order_id": "VR-2025-5394",
+  "customer_id": "C-10093",
+  "date": "2025-07-02",
+  "items": [
+   {
+    "sku": "VR-113",
+    "qty": 6,
+    "unit_price_usd": 59
+   },
+   {
+    "sku": "VR-111",
+    "qty": 2,
+    "unit_price_usd": 62
+   },
+   {
+    "sku": "VR-123",
+    "qty": 3,
+    "unit_price_usd": 46
+   },
+   {
+    "sku": "VR-114",
+    "qty": 3,
+    "unit_price_usd": 55
+   }
+  ],
+  "total_usd": 781,
+  "status": "refunded",
+  "ship_to": "6496 Foxglen Ave, Sacramento, CA 95814"
+ },
+ {
+  "order_id": "VR-2025-5395",
+  "customer_id": "C-10136",
+  "date": "2025-08-29",
+  "items": [
+   {
+    "sku": "VR-116",
+    "qty": 1,
+    "unit_price_usd": 95
+   },
+   {
+    "sku": "VR-120",
+    "qty": 12,
+    "unit_price_usd": 26
+   }
+  ],
+  "total_usd": 407,
+  "status": "delivered",
+  "ship_to": "4090 Vinestone Ct, Santa Rosa, CA 95404"
+ },
+ {
+  "order_id": "VR-2025-5396",
+  "customer_id": "C-10093",
+  "date": "2025-10-24",
+  "items": [
+   {
+    "sku": "VR-108",
+    "qty": 6,
+    "unit_price_usd": 78
+   }
+  ],
+  "total_usd": 468,
+  "status": "delivered",
+  "ship_to": "6496 Foxglen Ave, Sacramento, CA 95814"
+ },
+ {
+  "order_id": "VR-2026-5397",
+  "customer_id": "C-10085",
+  "date": "2026-08-27",
+  "items": [
+   {
+    "sku": "VR-111",
+    "qty": 1,
+    "unit_price_usd": 62
+   },
+   {
+    "sku": "VR-109",
+    "qty": 3,
+    "unit_price_usd": 40
+   },
+   {
+    "sku": "VR-123",
+    "qty": 1,
+    "unit_price_usd": 46
+   }
+  ],
+  "total_usd": 228,
+  "status": "delivered",
+  "ship_to": "9219 Foxglen Rd, Santa Rosa, CA 95404"
+ },
+ {
+  "order_id": "VR-2025-5398",
+  "customer_id": "C-10102",
+  "date": "2025-07-17",
+  "items": [
+   {
+    "sku": "VR-110",
+    "qty": 3,
+    "unit_price_usd": 36
+   },
+   {
+    "sku": "VR-102",
+    "qty": 2,
+    "unit_price_usd": 38
+   },
+   {
+    "sku": "VR-114",
+    "qty": 12,
+    "unit_price_usd": 55
+   },
+   {
+    "sku": "VR-119",
+    "qty": 6,
+    "unit_price_usd": 30
+   }
+  ],
+  "total_usd": 1024,
+  "status": "shipped",
+  "ship_to": "9829 Cellar Oak Ct, Palo Alto, CA 94301"
+ },
+ {
+  "order_id": "VR-2025-5399",
+  "customer_id": "C-10109",
+  "date": "2025-10-19",
+  "items": [
+   {
+    "sku": "VR-120",
+    "qty": 1,
+    "unit_price_usd": 26
+   },
+   {
+    "sku": "VR-119",
+    "qty": 1,
+    "unit_price_usd": 30
+   }
+  ],
+  "total_usd": 56,
+  "status": "shipped",
+  "ship_to": "7489 Copperleaf Ave, Healdsburg, CA 95448"
+ }
+]

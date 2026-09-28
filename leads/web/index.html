@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Vespera Ridge — Get the Playbook</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Assistant:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+ :root{--bg:#0F2444;--panel:#1A365D;--ink:#F7F7F8;--mut:#C9BFE3;--acc:#7C3AED;--line:#2D4A7C;--ok:#3f7d4f}
+ *{box-sizing:border-box}
+ body{margin:0;background:var(--bg);color:var(--ink);font-family:Assistant,system-ui,Arial,sans-serif;line-height:1.55}
+ .wrap{max-width:560px;margin:0 auto;padding:28px 18px 80px}
+ header{display:flex;align-items:center;gap:10px;margin-bottom:8px}
+ h1{font-size:22px;margin:0}
+ .fict{font-size:11px;color:#A67C1A;border:1px solid #A67C1A;padding:2px 6px;border-radius:10px}
+ .grow{flex:1}
+ button,select,input{font-family:inherit;font-size:15px}
+ .langbtn{background:var(--panel);color:var(--ink);border:1px solid var(--line);border-radius:8px;padding:6px 10px;cursor:pointer}
+ p.lead{color:var(--mut)}
+ form{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:18px;margin-top:16px}
+ label{display:block;margin:12px 0 4px;font-weight:600}
+ input[type=email],input[type=text]{width:100%;padding:11px;border-radius:9px;border:1px solid var(--line);background:#0B1C38;color:var(--ink)}
+ .check{display:flex;gap:10px;align-items:flex-start;margin:14px 0;font-weight:400}
+ .check input{margin-top:4px}
+ .check span{flex:1;font-size:14px;color:var(--ink)}
+ .req{color:#e0a3a0;font-size:12px}
+ .submit{width:100%;margin-top:16px;background:var(--acc);border:1px solid var(--acc);color:#fff;font-weight:700;padding:13px;border-radius:10px;cursor:pointer}
+ .privacy{font-size:12px;color:var(--mut);margin-top:14px}
+ .msg{margin-top:14px;padding:12px;border-radius:10px;display:none}
+ .msg.err{display:block;background:#3a1f22;border:1px solid #c0433f;color:#f0b3b0}
+ .msg.ok{display:block;background:#1e3025;border:1px solid var(--ok);color:#bfe6cb}
+ a{color:#A67C1A}
+</style></head>
+<body>
+<div class="wrap">
+ <header>
+   <h1 id="t_title">Get the AI Security Playbook</h1>
+   <span class="fict" id="t_fict">Fictional demo</span>
+   <span class="grow"></span>
+   <button class="langbtn" id="langBtn">עברית</button>
+ </header>
+ <p class="lead" id="t_lead">The exact prompts and code changes from the talk — how to stop your chatbot leaking your prices, discount codes and customer data. We'll send it to your inbox.</p>
+
+ <form id="form">
+   <label id="t_email_l" for="email">Email <span class="req">*</span></label>
+   <input id="email" type="email" required autocomplete="email" placeholder="you@example.com">
+   <label id="t_name_l" for="name">Name (optional)</label>
+   <input id="name" type="text" autocomplete="name">
+
+   <div class="check">
+     <input type="checkbox" id="c_play">
+     <span id="t_c_play">Send me the playbook. <span class="req">(required)</span></span>
+   </div>
+   <div class="check">
+     <input type="checkbox" id="c_mkt">
+     <span id="t_c_mkt">Send me occasional updates on AI security. (optional)</span>
+   </div>
+
+   <div id="ts"></div>
+   <button class="submit" id="submit" type="submit">Send me the playbook</button>
+   <div class="msg" id="msg"></div>
+   <p class="privacy" id="t_privacy">Collected by Sagi for sending the playbook. Stored separately from the demo. No spam, unsubscribe any time. We don't store your IP.</p>
+ </form>
+</div>
+<script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
+<script>
+const T={
+ en:{dir:"ltr",lang:"עברית",title:"Get the AI Security Playbook",fict:"Fictional demo",
+   lead:"The exact prompts and code changes from the talk — how to stop your chatbot leaking your prices, discount codes and customer data. We'll send it to your inbox.",
+   email:"Email",name:"Name (optional)",cplay:"Send me the playbook.",creq:"(required)",
+   cmkt:"Send me occasional updates on AI security. (optional)",submit:"Send me the playbook",
+   privacy:"Collected by Sagi for sending the playbook. Stored separately from the demo. No spam, unsubscribe any time. We don't store your IP.",
+   okmsg:"Done! Opening your playbook…",need_email:"Please enter a valid email.",need_consent:"Please tick “Send me the playbook”.",fail:"Something went wrong. Please try again."},
+ he:{dir:"rtl",lang:"English",title:"קבלו את מדריך אבטחת ה-AI",fict:"הדגמה בדיונית",
+   lead:"הפרומפטים ושינויי הקוד המדויקים מההרצאה — איך למנוע מהצ׳אטבוט לחשוף מחירים, קודי הנחה ופרטי לקוחות. נשלח למייל שלכם.",
+   email:"אימייל",name:"שם (לא חובה)",cplay:"שלחו לי את המדריך.",creq:"(חובה)",
+   cmkt:"שלחו לי עדכונים מדי פעם על אבטחת AI. (לא חובה)",submit:"שלחו לי את המדריך",
+   privacy:"נאסף על ידי שגיא לצורך שליחת המדריך. נשמר בנפרד מההדגמה. ללא ספאם, ניתן להסיר בכל עת. איננו שומרים כתובת IP.",
+   okmsg:"בוצע! פותח את המדריך…",need_email:"נא להזין אימייל תקין.",need_consent:"נא לסמן ״שלחו לי את המדריך״.",fail:"משהו השתבש. נסו שוב."}
+};
+let lang="en";
+const $=s=>document.querySelector(s);
+function apply(){const t=T[lang];document.documentElement.lang=lang;document.documentElement.dir=t.dir;
+ $("#langBtn").textContent=t.lang;$("#t_title").textContent=t.title;$("#t_fict").textContent=t.fict;
+ $("#t_lead").textContent=t.lead;$("#t_email_l").firstChild.textContent="Email "===0?"":t.email+" ";
+ $("#t_email_l").innerHTML=t.email+' <span class="req">*</span>';$("#t_name_l").textContent=t.name;
+ $("#t_c_play").innerHTML=t.cplay+' <span class="req">'+t.creq+'</span>';$("#t_c_mkt").textContent=t.cmkt;
+ $("#submit").textContent=t.submit;$("#t_privacy").textContent=t.privacy;}
+$("#langBtn").onclick=()=>{lang=lang==="en"?"he":"en";apply();};
+// load Turnstile widget if configured
+fetch("/api/config").then(r=>r.json()).then(c=>{if(c.turnstileSitekey){const d=$("#ts");d.className="cf-turnstile";d.setAttribute("data-sitekey",c.turnstileSitekey);}}).catch(()=>{});
+$("#form").addEventListener("submit",async e=>{
+ e.preventDefault();const t=T[lang];const msg=$("#msg");msg.className="msg";
+ const email=$("#email").value.trim();
+ if(!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(email)){msg.className="msg err";msg.textContent=t.need_email;return;}
+ if(!$("#c_play").checked){msg.className="msg err";msg.textContent=t.need_consent;return;}
+ const tok=(window.turnstile&&document.querySelector('[name="cf-turnstile-response"]'))?document.querySelector('[name="cf-turnstile-response"]').value:"";
+ const body={email,name:$("#name").value.trim(),lang,consent_playbook:true,consent_marketing:$("#c_mkt").checked,turnstile:tok};
+ try{const r=await fetch("/api/subscribe",{method:"POST",headers:{"content-type":"application/json"},body:JSON.stringify(body)});
+   const d=await r.json();
+   if(d.ok){msg.className="msg ok";msg.textContent=t.okmsg;setTimeout(()=>{location.href=d.playbook+"?lang="+lang;},700);}
+   else{msg.className="msg err";msg.textContent=t.fail+" ("+(d.error||r.status)+")";}
+ }catch{msg.className="msg err";msg.textContent=t.fail;}
+});
+apply();
+</script>
+</body></html>

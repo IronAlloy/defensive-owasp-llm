@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The AI Chatbot Security Playbook</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Assistant:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+ :root{--bg:#0F2444;--panel:#1A365D;--ink:#F7F7F8;--mut:#C9BFE3;--acc:#7C3AED;--acc2:#A67C1A;--line:#2D4A7C}
+ *{box-sizing:border-box}
+ body{margin:0;background:var(--bg);color:var(--ink);font-family:Assistant,system-ui,Arial,sans-serif;line-height:1.6}
+ .bar{position:sticky;top:0;background:#0B1C38;border-bottom:1px solid var(--line);padding:10px 16px;display:flex;gap:10px;align-items:center}
+ .bar .grow{flex:1}
+ .bar a,.bar button{font:inherit;font-size:14px;text-decoration:none;color:var(--ink);background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:7px 11px;cursor:pointer}
+ .dl{background:var(--acc)!important;border-color:var(--acc)!important;font-weight:700}
+ main{max-width:760px;margin:0 auto;padding:24px 18px 90px}
+ h1{font-size:26px;margin:.2em 0}h2{font-size:20px;margin:1.4em 0 .4em;border-top:1px solid var(--line);padding-top:.8em}
+ h3{font-size:16px;color:var(--acc2);margin:.2em 0 1em;font-weight:600}
+ code{background:#2D4A7C;padding:1px 5px;border-radius:5px;font-size:.92em}
+ pre{background:#0B1C38;border:1px solid var(--line);border-radius:10px;padding:14px;overflow:auto}
+ pre code{background:none;padding:0}
+ a{color:var(--acc2)}
+ li{margin:3px 0}
+ .fict{font-size:11px;color:var(--acc2);border:1px solid var(--acc2);padding:2px 6px;border-radius:10px}
+</style></head>
+<body>
+<div class="bar">
+  <span class="fict">Fictional demo</span><span class="grow"></span>
+  <a class="dl" id="dl" href="/playbook.md" download>Download .md</a>
+  <a href="https://github.com/IronAlloy/defensive-owasp-llm" target="_blank" rel="noopener">Code on GitHub</a>
+</div>
+<main id="content">Loading…</main>
+<script>
+// minimal, safe markdown render (headings, code blocks, lists, bold, links, hr)
+function esc(s){return s.replace(/[&<>]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;"}[c]));}
+function render(md){
+  const lines=md.split("\n");let out=[],i=0;
+  function inline(s){return esc(s)
+    .replace(/`([^`]+)`/g,'<code>$1</code>')
+    .replace(/\*\*([^*]+)\*\*/g,'<strong>$1</strong>')
+    .replace(/\[([^\]]+)\]\(([^)]+)\)/g,'<a href="$2" target="_blank" rel="noopener">$1</a>');}
+  while(i<lines.length){
+    let l=lines[i];
+    if(l.startsWith("```")){let code=[];i++;while(i<lines.length&&!lines[i].startsWith("```")){code.push(lines[i]);i++;}i++;out.push("<pre><code>"+esc(code.join("\n"))+"</code></pre>");continue;}
+    if(/^### /.test(l)){out.push("<h3>"+inline(l.slice(4))+"</h3>");i++;continue;}
+    if(/^## /.test(l)){out.push("<h2>"+inline(l.slice(3))+"</h2>");i++;continue;}
+    if(/^# /.test(l)){out.push("<h1>"+inline(l.slice(2))+"</h1>");i++;continue;}
+    if(/^---\s*$/.test(l)){out.push("<hr>");i++;continue;}
+    if(/^\s*[-*] /.test(l)||/^\s*\[[ x]\] /.test(l)){let items=[];while(i<lines.length&&/^\s*(?:[-*] |\[[ x]\] )/.test(lines[i])){let t=lines[i].replace(/^\s*[-*] /,"").replace(/^\[ \] /,"☐ ").replace(/^\[x\] /,"☑ ");items.push("<li>"+inline(t)+"</li>");i++;}out.push("<ul>"+items.join("")+"</ul>");continue;}
+    if(l.trim()===""){i++;continue;}
+    out.push("<p>"+inline(l)+"</p>");i++;
+  }
+  return out.join("\n");
+}
+fetch("/playbook.md").then(r=>r.text()).then(md=>{document.getElementById("content").innerHTML=render(md);})
+  .catch(()=>{document.getElementById("content").textContent="Could not load the playbook. Try the Download button.";});
+</script>
+</body></html>

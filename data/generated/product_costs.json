@@ -1,0 +1,194 @@
+[
+ {
+  "sku": "VR-101",
+  "cogs_usd": 8.25,
+  "wholesale_usd": 21.0,
+  "distributor_usd": 16.38,
+  "dtc_margin_pct": 80.4,
+  "wholesale_margin_pct": 60.7
+ },
+ {
+  "sku": "VR-102",
+  "cogs_usd": 8.29,
+  "wholesale_usd": 19.0,
+  "distributor_usd": 14.82,
+  "dtc_margin_pct": 78.2,
+  "wholesale_margin_pct": 56.4
+ },
+ {
+  "sku": "VR-103",
+  "cogs_usd": 17.09,
+  "wholesale_usd": 33.0,
+  "distributor_usd": 25.74,
+  "dtc_margin_pct": 74.1,
+  "wholesale_margin_pct": 48.2
+ },
+ {
+  "sku": "VR-104",
+  "cogs_usd": 12.35,
+  "wholesale_usd": 31.0,
+  "distributor_usd": 24.18,
+  "dtc_margin_pct": 80.1,
+  "wholesale_margin_pct": 60.2
+ },
+ {
+  "sku": "VR-105",
+  "cogs_usd": 12.41,
+  "wholesale_usd": 26.0,
+  "distributor_usd": 20.28,
+  "dtc_margin_pct": 76.1,
+  "wholesale_margin_pct": 52.3
+ },
+ {
+  "sku": "VR-106",
+  "cogs_usd": 12.61,
+  "wholesale_usd": 24.0,
+  "distributor_usd": 18.72,
+  "dtc_margin_pct": 73.7,
+  "wholesale_margin_pct": 47.5
+ },
+ {
+  "sku": "VR-107",
+  "cogs_usd": 19.03,
+  "wholesale_usd": 41.0,
+  "distributor_usd": 31.98,
+  "dtc_margin_pct": 76.8,
+  "wholesale_margin_pct": 53.6
+ },
+ {
+  "sku": "VR-108",
+  "cogs_usd": 20.86,
+  "wholesale_usd": 39.0,
+  "distributor_usd": 30.42,
+  "dtc_margin_pct": 73.3,
+  "wholesale_margin_pct": 46.5
+ },
+ {
+  "sku": "VR-109",
+  "cogs_usd": 7.77,
+  "wholesale_usd": 20.0,
+  "distributor_usd": 15.6,
+  "dtc_margin_pct": 80.6,
+  "wholesale_margin_pct": 61.2
+ },
+ {
+  "sku": "VR-110",
+  "cogs_usd": 7.51,
+  "wholesale_usd": 18.0,
+  "distributor_usd": 14.04,
+  "dtc_margin_pct": 79.1,
+  "wholesale_margin_pct": 58.3
+ },
+ {
+  "sku": "VR-111",
+  "cogs_usd": 13.73,
+  "wholesale_usd": 31.0,
+  "distributor_usd": 24.18,
+  "dtc_margin_pct": 77.9,
+  "wholesale_margin_pct": 55.7
+ },
+ {
+  "sku": "VR-112",
+  "cogs_usd": 15.43,
+  "wholesale_usd": 29.0,
+  "distributor_usd": 22.62,
+  "dtc_margin_pct": 73.4,
+  "wholesale_margin_pct": 46.8
+ },
+ {
+  "sku": "VR-113",
+  "cogs_usd": 13.87,
+  "wholesale_usd": 29.5,
+  "distributor_usd": 23.01,
+  "dtc_margin_pct": 76.5,
+  "wholesale_margin_pct": 53.0
+ },
+ {
+  "sku": "VR-114",
+  "cogs_usd": 11.18,
+  "wholesale_usd": 27.5,
+  "distributor_usd": 21.45,
+  "dtc_margin_pct": 79.7,
+  "wholesale_margin_pct": 59.3
+ },
+ {
+  "sku": "VR-115",
+  "cogs_usd": 26.32,
+  "wholesale_usd": 49.5,
+  "distributor_usd": 38.61,
+  "dtc_margin_pct": 73.4,
+  "wholesale_margin_pct": 46.8
+ },
+ {
+  "sku": "VR-116",
+  "cogs_usd": 22.95,
+  "wholesale_usd": 47.5,
+  "distributor_usd": 37.05,
+  "dtc_margin_pct": 75.8,
+  "wholesale_margin_pct": 51.7
+ },
+ {
+  "sku": "VR-117",
+  "cogs_usd": 7.94,
+  "wholesale_usd": 16.0,
+  "distributor_usd": 12.48,
+  "dtc_margin_pct": 75.2,
+  "wholesale_margin_pct": 50.4
+ },
+ {
+  "sku": "VR-118",
+  "cogs_usd": 6.17,
+  "wholesale_usd": 14.0,
+  "distributor_usd": 10.92,
+  "dtc_margin_pct": 78.0,
+  "wholesale_margin_pct": 55.9
+ },
+ {
+  "sku": "VR-119",
+  "cogs_usd": 7.66,
+  "wholesale_usd": 15.0,
+  "distributor_usd": 11.7,
+  "dtc_margin_pct": 74.5,
+  "wholesale_margin_pct": 48.9
+ },
+ {
+  "sku": "VR-120",
+  "cogs_usd": 4.95,
+  "wholesale_usd": 13.0,
+  "distributor_usd": 10.14,
+  "dtc_margin_pct": 81.0,
+  "wholesale_margin_pct": 61.9
+ },
+ {
+  "sku": "VR-121",
+  "cogs_usd": 9.31,
+  "wholesale_usd": 24.5,
+  "distributor_usd": 19.11,
+  "dtc_margin_pct": 81.0,
+  "wholesale_margin_pct": 62.0
+ },
+ {
+  "sku": "VR-122",
+  "cogs_usd": 11.28,
+  "wholesale_usd": 22.5,
+  "distributor_usd": 17.55,
+  "dtc_margin_pct": 74.9,
+  "wholesale_margin_pct": 49.9
+ },
+ {
+  "sku": "VR-123",
+  "cogs_usd": 10.77,
+  "wholesale_usd": 23.0,
+  "distributor_usd": 17.94,
+  "dtc_margin_pct": 76.6,
+  "wholesale_margin_pct": 53.2
+ },
+ {
+  "sku": "VR-124",
+  "cogs_usd": 10.84,
+  "wholesale_usd": 21.0,
+  "distributor_usd": 16.38,
+  "dtc_margin_pct": 74.2,
+  "wholesale_margin_pct": 48.4
+ }
+]
